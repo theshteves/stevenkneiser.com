@@ -28,7 +28,7 @@ from fabric.decorators import hosts
 ################
 
 if not hasattr(env, "proj_app"):
-    env.proj_app = real_project_name("www")
+    env.proj_app = real_project_name("config")
 
 conf = {}
 if sys.argv[0].split(os.sep)[-1] in ("fab", "fab-script.py"):
