@@ -1,3 +1,12 @@
+# Mezzanine
+*.pyc
+*.pyo
+*.db
+.DS_Store
+.coverage
+local_settings.py
+/static
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
