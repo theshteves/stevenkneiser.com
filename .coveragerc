@@ -1,0 +1,6 @@
+[run]
+omit = */tests/*, */migrations/*, */config/*, */manage.py, */urls.py, */tests.py
+source = server
+
+[report]
+show_missing = true
