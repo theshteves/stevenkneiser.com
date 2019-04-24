@@ -1,0 +1,15 @@
+language: python
+
+python:
+  # - "2.7" YOUR TIME HAS COME
+  - "3.7"
+  - "nightly"
+
+install:
+  - pip install -r server/requirements.txt
+
+script:
+  - coverage run --source="server/server" server/manage.py test
+
+after_success:
+  - coveralls
