@@ -21,6 +21,7 @@ before_script: # install CodeClimate CLI
 
 script:
   - coverage run --source="server/server" server/manage.py test
+  - coverage xml # outputs "coverage.xml" for CodeClimate
 
 after_script:
   - ./cc-test-reporter after-build --exit-code $TRAVIS_TEST_RESULT
