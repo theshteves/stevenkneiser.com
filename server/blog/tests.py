@@ -13,3 +13,4 @@ class BlogUnitTests(TestCase):
 
     def test_views(self):
         self.assertTrue(200 <= views.index('request_url').status_code < 300)
+        self.assertTrue(200 <= views.react('request_url').status_code < 300)

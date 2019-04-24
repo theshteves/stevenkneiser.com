@@ -1,0 +1,33 @@
+{
+  "name": "stevenkneiser.com",
+  "version": "0.1.0",
+  "description": "Steven Kneiser's personal homepage",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --config webpack.config.js --progress --colors --mode development",
+    "watch": "webpack --config webpack.config.js --watch --mode development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theshteves/stevenkneiser.com.git"
+  },
+  "author": "Steven Kneiser <stevenkneiser@gmail.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/theshteves/stevenkneiser.com/issues"
+  },
+  "homepage": "https://github.com/theshteves/stevenkneiser.com#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "webpack": "^4.30.0",
+    "webpack-bundle-tracker": "^0.4.2-beta",
+    "webpack-cli": "^3.3.1"
+  },
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
