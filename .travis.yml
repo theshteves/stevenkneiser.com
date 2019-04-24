@@ -1,5 +1,9 @@
 dist: xenial # support for Python >= 3.7
 
+env:
+  global:
+    - CC_TEST_REPORTER_ID=f210ce521c85caef2dbed156bd75426e41e0715f8751323ba237658a2df56a87
+
 language: python
 
 python:
@@ -10,8 +14,13 @@ python:
 install:
   - pip install -r server/requirements.txt
 
+before_script: # install CodeClimate CLI
+  - curl -L https://codeclimate.com/downloads/test-reporter/test-reporter-latest-linux-amd64 > ./cc-test-reporter
+  - chmod +x ./cc-test-reporter
+  - ./cc-test-reporter before-build
+
 script:
   - coverage run --source="server/server" server/manage.py test
 
-after_success:
-  - coveralls
+after_script:
+  - ./cc-test-reporter after-build --exit-code $TRAVIS_TEST_RESULT
