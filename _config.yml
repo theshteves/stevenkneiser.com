@@ -1,1 +1,46 @@
-theme: jekyll-theme-minimal
+title: Steven Kneiser
+email: stevenkneiser@gmail.com
+description: >-
+  On a journey to the intersection of software, media, & business.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+github_username:  theshteves
+linkedin_username: stevenkneiser
+twitter_username: theshteves
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+defaults:
+  - 
+    scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
+  - 
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: /:title
+  - 
+    scope:
+      path: ""
+    values:
+      layout: "default"
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
