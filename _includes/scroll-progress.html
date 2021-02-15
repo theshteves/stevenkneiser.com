@@ -1,0 +1,46 @@
+<div class="progress">
+  <progress id="js-progressbar" value="" max="100"></progress>
+</div>
+
+<style>
+.progress {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 100;
+  background: none;
+  border: 0;
+  height: auto;
+  margin: 0;
+  padding: 0;
+}
+.progress progress {
+  position: relative;
+  display: block;
+  height: .5rem;
+  width: 100%;
+  border: 0;
+  background-color: transparent;
+}
+.progress progress::-moz-progress-bar { background-color: #777a; }
+.progress progress::-webkit-progress-bar { background-color: #fff0; }
+.progress progress::-webkit-progress-value { background-color: #777a; }
+</style>
+
+<script defer>
+let scrollTop = window.scrollY;
+let article = document.querySelector('main');
+let articleDepth = article.offsetTop + article.offsetHeight - window.innerHeight;
+let scrollPercent = (scrollTop / articleDepth) * 100;
+
+let progressBar = document.querySelector('#js-progressbar');
+progressBar.setAttribute('value', scrollPercent);
+
+window.addEventListener('scroll', function() {
+  scrollTop = window.scrollY;
+  scrollPercent = (scrollTop / articleDepth) * 100;
+  progressBar.setAttribute('value', scrollPercent);
+});
+</script>

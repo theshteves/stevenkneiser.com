@@ -1,0 +1,31 @@
+---
+layout: default
+---
+<style>body{max-width:650px; margin:40px auto;}</style> <!-- TODO: haha really? -->
+<main>
+  <h1 style="margin-bottom: 0">{{ page.title }}</h1>
+  
+  <p style="margin: .5rem 0 2rem 0; color: #999">
+    <p>Steven Kneiser</p><br>
+  
+    <!-- Estimate reading time required (200 words per minute) -->
+    {% assign num_words = page.content | strip_html | number_of_words %}
+    {% assign minutes_f = num_words | divided_by: 200.0 %}
+    {% assign minutes_i = num_words | divided_by: 200 %}
+    {% assign diff = minutes_f | minus: minutes_i %}
+    {% if diff > 0.5 %}
+        {% assign minutes = minutes_i | plus: 1 %}
+    {% else %}
+        {% assign minutes = minutes_i %}
+    {% endif %}
+    {{ minutes }}-minute read {% if page.draft %}<b>⚠️ Work In Progress</b>{% endif %}
+  </p>
+  
+  {{ content }}
+  
+  {% if page.draft %}
+  <blockquote><p style="color: #999">⚠️ <em>Full story: coming soon…</em></p></blockquote>
+  {% endif %}
+</main>
+
+{% include scroll-progress.html %}

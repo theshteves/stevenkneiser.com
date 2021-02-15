@@ -1,11 +1,18 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
-
-  {%- include head.html -%}
+  <head>
+    {% include head.html %}
+  </head>
 
   <body>
+    {% if jekyll.environment == 'production' %}
+    <!-- Google Tag Manager (noscript) [TODO: Generate new Analytics tag]
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N8HDWTX"
+                      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    -->
+    {% endif %}
 
-    {%- include header.html -%}
+    {% include header.html %}
 
     <main class="page-content" aria-label="Content">
       <div id="stars">
@@ -18,9 +25,6 @@
       </div>
     </main>
 
-    {%- include footer.html -%}
-
+    {% include footer.html %}
   </body>
-
 </html>
-

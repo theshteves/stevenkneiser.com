@@ -1,44 +1,31 @@
-title: Steven Kneiser
-email: stevenkneiser@gmail.com
+title: "Steven Kneiser"
+email: "stevenkneiser@gmail.com"
 description: >-
-  On a journey to the intersection of software, media, & business.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+  I help new developers 💃🕺 𝕊𝕋𝔸ℕ𝔻 𝕆𝕌𝕋
+baseurl: ""
+url: "" #TODO: target domain, once deployed
 
 github_username:  theshteves
-linkedin_username: stevenkneiser
 twitter_username: theshteves
+linkedin_username: stevenkneiser
 
-# Build settings
+permalink: /:title
 markdown: kramdown
-theme: minima
-
-defaults:
-  - 
-    scope:
-      path: ""
-      type: "authors"
-    values:
-      layout: "author"
-  - 
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      permalink: /:title
-  - 
-    scope:
-      path: ""
-    values:
-      layout: "default"
-
 sass:
     sass_dir: _sass
     style: compressed
 
-exclude:
-  - Gemfile
-  - Gemfile.lock
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "default"
+      permalink: /blog/:title
+  - scope:
+      path: ""
+    values:
+      layout: "default"
 
 plugins:
   - jekyll-feed

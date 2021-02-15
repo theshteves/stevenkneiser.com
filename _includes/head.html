@@ -1,0 +1,60 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ page.title }}</title>
+
+{% if jekyll.environment == 'production' %}
+<!-- Google Tag Manager [TODO: generate new analytics proprty]
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N8HDWTX');</script>
+-->
+{% endif %}
+
+<!-- General metadata -->
+<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+<meta name="twitter:title" content="{{ page.title | escape }}" />
+<meta property="og:title" content="{{ page.title | escape }}" />
+
+{% if page.excerpt %}
+{% assign excerpt = page.excerpt | strip_html %}
+<meta name="description" content="{{ excerpt | truncate: 150 }}" />
+<meta name="twitter:description" content="{{ excerpt | truncate: 200 }}" />
+<meta property="og:description" content="{{ excerpt | truncate: 150 }}" />
+{% else %}
+<meta name="description" content="{{ site.description }}" />
+<meta name="twitter:description" content="{{ site.description }}" />
+<meta property="og:description" content="{{ site.description }}" />
+{% endif %}
+
+
+<!-- TODO: if page.image, replace site image
+<meta name="twitter:image" content="https://creatorswhocode.com/assets/img/twitter-card.webp" />
+<meta name="twitter:image:alt" content="Creators Who Code Logo" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@{{ site.twitter_username }}" />
+<meta name="twitter:creator" content="@{{ site.twitter_username }}" />
+<meta property="og:image" content="https://creatorswhocode.com/assets/img/twitter-card.webp" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="{{ site.title }}">
+-->
+
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+<link rel="canonical" href="{{ page.url | replace: 'index.html', '' | prepend: site.baseurl | prepend: site.url }}">
+<link rel="stylesheet" href="/assets/css/styles.css">
+
+{% feed_meta %}
+
+<script type="application/ld+json">{"headline":"{{ page.title | escape }}","description":"{{ site.description | escape }}","@type":"WebPage","url":"{{ site.url }}","@context":"https://schema.org"}</script>
+
+
+<!-- TODO: Progressive Web App
+<link rel="manifest" href="/manifest.json">
+<meta name="theme-color" content="#fefefa">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="application-name" content="Creators Who Code">
+<meta name="apple-mobile-web-app-title" content="Creators Who Code">
+<meta name="msapplication-starturl" content="/">
+-->
