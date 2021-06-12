@@ -3,7 +3,7 @@ email: "stevenkneiser@gmail.com"
 description: >-
   I help new developers 💃🕺 𝕊𝕋𝔸ℕ𝔻 𝕆𝕌𝕋
 baseurl: ""
-url: "" #TODO: target domain, once deployed
+url: "https://stevenkneiser.com"
 
 github_username:  theshteves
 twitter_username: theshteves
