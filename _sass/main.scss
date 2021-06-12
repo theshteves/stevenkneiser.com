@@ -1,0 +1,29 @@
+---
+---
+
+//@import "minima";
+@import "stars";
+
+html {
+  font-size: 16px; /* sets root em (rem) scaling */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 40px auto;
+  max-width: 650px;
+  line-height: 1.6;
+  font-size: 18px;
+  color: #444040;
+  padding: 0 10px;
+  font-family: sans-serif; 
+  background-color: #ffffff; /* I prefer #eee (I'm just letting it match the landing page image background for now) */
+}
+
+h1 { font-size: 2em; }
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.2;
+  color: #041430;
+}
+p > strong { color: #345; }
