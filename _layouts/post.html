@@ -6,8 +6,6 @@ layout: default
   <h1 style="margin-bottom: 0">{{ page.title }}</h1>
   
   <p style="margin: .5rem 0 2rem 0; color: #999">
-    <p>Steven Kneiser</p><br>
-  
     <!-- Estimate reading time required (200 words per minute) -->
     {% assign num_words = page.content | strip_html | number_of_words %}
     {% assign minutes_f = num_words | divided_by: 200.0 %}
@@ -19,6 +17,8 @@ layout: default
         {% assign minutes = minutes_i %}
     {% endif %}
     {{ minutes }}-minute read {% if page.draft %}<b>⚠️ Work In Progress</b>{% endif %}
+
+    <br>by Steven Kneiser
   </p>
   
   {{ content }}
