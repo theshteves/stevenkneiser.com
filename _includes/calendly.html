@@ -1,0 +1,33 @@
+<img id="theshteves" src="/assets/img/theshteves.webp" alt="theshteves" onclick="Calendly.showPopupWidget('https://calendly.com/kneiser/30min');return false;" style="position: fixed; bottom: -16rem; left: -14rem;">
+
+<style>
+@keyframes sayHi {
+    0%, 100% { transform: translateX(0) translateY(0); }
+    24%, 97% { transform: translateX(8rem) translateY(0) rotateZ(15deg); }
+    60%, 85%  { transform: translateX(14rem) translateY(-16rem); }
+}
+
+#theshteves { display: block; transition: transform 250ms; animation: sayHi 4s; }
+#theshteves:hover {
+    transform: translateX(14rem) translateY(-16rem);
+    /*filter: drop-shadow(4mm -6mm 4mm #28367a);*/
+}
+</style>
+
+<!-- Calendly embed -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script defer type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script> 
+<!--
+<div id="scheduler" style="background-color: #555"></div>
+<script defer type="text/javascript">
+window.addEventListener('DOMContentLoaded', function() {
+	document.getElementById('theshteves').addEventListener('click', function() {
+		Calendly.initInlineWidget({
+			url: 'https://calendly.com/kneiser/30min',
+			parentElement: document.getElementById('scheduler'),
+			branding: false
+		});
+	});
+});
+</script>
+-->
