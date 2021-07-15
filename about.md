@@ -1,16 +1,26 @@
 ---
-title: "About"
+title: "About Steven Kneiser"
 permalink: /about
 ---
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+<!--- TODO: position as /start-here -->
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+![profile picture](/assets/img/theshteves.webp){:style="display: block; margin: 0 auto; overflow: none"}
+
+## Me in 10 seconds
+
+* TODO quickbio
+
+<br>
 
 
-[jekyll-organization]: https://github.com/jekyll
+## Me in 10 minutes
+
+* TODO
+
+<br>
+
+Here's [what I'm up to now](/now)
+
+<br>
+<br>
