@@ -26,3 +26,5 @@ h1, h2, h3, h4, h5, h6 {
 }
 strong { color: #605A75; }
 p { color: #234543; }
+
+@keyframes elevate { to { transform: translateY(1rem) } }
