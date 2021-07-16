@@ -1,0 +1,59 @@
+<style type="text/css">
+#outline {
+    position: fixed;
+    top: .5rem;
+    right: .5rem;
+    height: 99%;
+    display: none;
+    flex-direction: column;
+    justify-content: center;
+}
+@media (min-width: 1000px) { #outline { display: flex; } }
+.section-nav a { transition: all 100ms ease-in-out; }
+.section-nav a {
+  text-decoration: none;
+  display: block;
+  padding: .125rem 0;
+  color: #aaa;
+  transition: all 50ms ease-in-out; /* 💡 This small transition makes setting of the active state smooth */
+}
+
+.section-nav a:hover, .section-nav a:focus { color: #666; }
+
+.section-nav li.active > a {
+  color: #333;
+  font-weight: 500;
+}
+</style>
+
+<section id="outline">
+    <h2 style="margin: 0 auto; color: #666;">On this page:</h2>
+
+    <!--- Inject "introduction" toc-entry (why aren't title h1's included?) ...hint: probably doesn't handle generated content well enough, as evidenced by brutal failure to render toc for /blog -->
+    <ul class="section-nav" style="margin-bottom: -18px;">
+      <li class="toc-entry toc-h1"><a href="#">Introduction</a></li> <!--- {{ page.title | escape }} ? -->
+    </ul>
+
+    {% toc %}
+</section>
+
+<script defer type="text/javascript">
+window.addEventListener('DOMContentLoaded', () => {
+
+	const observer = new IntersectionObserver(entries => {
+		entries.forEach(entry => {
+			const id = entry.target.getAttribute('id');
+			if (entry.intersectionRatio > 0) {
+				document.querySelector(`.section-nav li a[href="#${id}"]`).parentElement.classList.add('active');
+			} else {
+				document.querySelector(`.section-nav li a[href="#${id}"]`).parentElement.classList.remove('active');
+			}
+		});
+	});
+
+	// Track all sections that have an `id` applied
+	document.querySelectorAll('h1[id], h2[id], h3[id], h4[id], h5[id], h6[id]').forEach((section) => {
+		observer.observe(section);
+	});
+});
+</script>
