@@ -13,11 +13,11 @@ This is my "best of", my running list of "most shared" links
 
 I'll continue to fight the temptation to bloat this list over time. I may post other best-of's individually, but this is the home for my consistent top performers. I have a recency bias where I write about my most recent obsessions, but this is a home for sticky ideas that have withstood the test of more time (& my attention-span).
 
-On final review, this list is more US-centric than I'd prefer, so I encourage people to check out this [map of the world by population](https://ourworldindata.org/world-population-cartogram). The internet isn't just your country, so this map gives you  a better feel for who you'll be interacting with in the future.
+On final review, this list is more US-centric than I'd prefer, so I encourage people to check out this [world map of the world by population](https://ourworldindata.org/world-population-cartogram){:target="\_blank"} & this [animated world map of twitter activity over one month (2013)](https://vimeo.com/347801005){:target="\_blank"}. The internet isn't just your country, so this map gives you  a better feel for who you'll be interacting with in the future.
 
 
 * [Attia on Longevity](#how-aging-will-kill-you-what-you-can-do-about-that)
-* [r/personalfinance wiki flowchart](#rpersonalfinance-wiki-flowchart)
+* [r/personalfinance flowchart](#rpersonalfinance-flowchart)
 * [2 decades of Inflation](#2-decades-of-inflation)
 * how software is eating the world
 * [don't be so cynical](#dont-be-so-cynical)
@@ -61,7 +61,7 @@ training for the normal olympics.
 <br><br>
 
 
-### [r/personalfinance wiki flowchart](https://www.reddit.com/r/personalfinance/wiki/commontopics){:target="\_blank"}
+### [r/personalfinance flowchart](https://www.reddit.com/r/personalfinance/wiki/commontopics){:target="\_blank"}
 
 _(Specific to the U.S.)_
 
@@ -74,21 +74,29 @@ others...<br>let's just say<br>it's not their idea of fun
 
 * TODO: why that's not this case
 
-I've even written about ["Whose Ladder Are You Climbing?"](https://creatorswhocode.com/blog/whose-ladder){:target="\_blank"}
+The secret is that you have a backwards case of "grass is greener". Ignorance is not bliss & you know it: it eats away at you from the inside until you're a hollow shell of your former self. Getting clear on "your finances" is actually the true antidote to stress. For many, thinking about money is like having to stare into the abyss of their problems, when it's actually more like ropping off a crime scene & getting the victims the answers they deserve.
+
+You may think you have nothing, that you're doomed, but a quick google search will find you many stories of people that have gotten out of significantly more dire financial circumstances. Just because you have 40k/80k/120k in student loan debt & several thousand in credit card debt is far from the end of the world.
+
+The grass really is greener on the other side
+
+<br>
+
+I wrote recently about ["Whose Ladder Are You Climbing?"](https://creatorswhocode.com/blog/whose-ladder){:target="\_blank"} precisely because this ladder is the only one worth climbing (& the top of it is probably _way_ lower than you think)
 
 > _"How come there's no 'life essentials' class in high school??? I wish
 > someone had taught me earlier about budgeting, taxes, how to change a tire"_
 > <br>--every American's uncle
 
-This is your foundation. This is a long-term plan that will. This isn't the
-be-all end-all, but this is more than enough to "get your finances in order".
+This is your foundation. This isn't the be-all end-all on the art of investing for people who've entirely escaped the game of money, but this is the most sustainable path _to get you there_.
 
 <br>
 
-...oh & if you're a trigger-happy capitalist who wants to YOLO more than 1% of
-your net worth into speculative investments, then you better at least understand these fundamentals in & out first
+...oh & if you're a trigger-happy capitalist who wants to YOLO more than 1% of your net worth into speculative investments, then live your life BUT if you don't at least understand these fundamentals in & out, you haven't earned the right
 
-> _"A fool & his money are soon parted"_
+> _"Rule #1: never lose money<br>Rule #2: never forget rule #1"_<br>--Warren Buffett
+
+> _"A fool & his money are soon parted"_<br>--[proverb]
 
 <br><br>
 
@@ -224,14 +232,18 @@ _I promptly chucked my ultrasonic dehumidifier out the window after reading this
 
 ### Quotes
 
-> _"Life can be much broader once you discover one simple fact:<br><br>everything around you that you call life was made up by people that were no smarter than you. And you can change it, you can influence it...<br><br>Once you learn that, you'll never be the same again."_ <br>--Steve Jobs
+> _"Life can be much broader once you discover one simple fact:<br><br>everything around you that you call life was made up by people that were no smarter than you. And you can change it, you can influence it...<br><br>Once you learn that, you'll never be the same again."_ <br>--[Steve Jobs](https://www.youtube.com/watch?v=kYfNvmF0Bqw){:target="\_blank"}
+
+---
+
+> _"...in the day-to-day trenches of adult life, there is actually no such thing as atheism. There is no such thing as not worshipping. Everybody worships. The only choice we get is what to worship. And the compelling reason for maybe choosing some sort of god or spiritual-type thing to worship–be it JC or Allah, be it YHWH or the Wiccan Mother Goddess, or the Four Noble Truths, or some inviolable set of ethical principles–is that pretty much anything else you worship will eat you alive."_ <br>--David Foster Wallace, [This is Water](https://fs.blog/2012/04/david-foster-wallace-this-is-water/){:target="\_blank"}
 
 ---
 
 > _"...I am better off than he is---<br>for he knows nothing, and thinks that he
 > knows: I neither know nor think that I know.<br><br>In this latter particular,
-> then, I seem to have slightly the advantage of him..."_<br>--Socrates (not
-> in English though)<br>... --Plato (as documented in his "Apology")<br>... ... --Michael Scott
+> then, I seem to have slightly the advantage of him..."_ <br>--Socrates (not
+> in English though) <br>... --Plato (as documented in his "Apology") <br>... ... --Michael Scott
 
 <br><br>
 
