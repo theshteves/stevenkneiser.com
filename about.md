@@ -20,7 +20,7 @@ permalink: /about
 
 <br>
 
-Here's [what I'm up to now](/now)
+Here's [what I'm up to /now](/now)
 
 <br>
 <br>

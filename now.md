@@ -24,11 +24,34 @@ Don't forget awesome partner & 2 cats
 
 ## Reading like I'm running out of time
 
-Short answer: personally, non-fiction >> fiction  ...but recently I've grown sick of contemporary tech, business, & self-help.  I've gotten obsessed with "old & boring non-fiction" like history, philosophy, & especially "The Classics"
+Short answer:
+<br>to me, non-fiction > > fiction
 
-I'm a STEM kid who finally "got" liberal arts
+...but recently I'm sick of New Content™ about tech, business, & self-help.  **I've gotten obsessed with "old & boring non-fiction"** like history, philosophy, & especially "The Classics" [of the Western Canon]
 
-* TODO: elaborate
+In other words,
+<br>I'm a STEM kid who finally "got" Liberal Arts
+
+
+<br>
+
+_Where were these interests growing up?_
+
+I now embrace Liberal Arts as both less AND more important than the technical arts (e.g. Computer Science). "Technical Arts" degrees are more important in that young adults should be maximally fluent in the technical crafts of their decade.
+
+Liberal Arts degrees are wasted on the young & inexperienced with nothing at stake. Liberal Arts shouldn't be embedded in college degrees, but elevated to the heights of one's lifelong pursuit of wisdom. The arts are but an ever-evolving conversation that belies the burden of adulthood.
+
+<br>
+
+There's no escape
+<br>There's no graduation
+<br>So join the conversation
+
+Adults get pop quizzes too
+<br>& they carry graver consequences
+<br>so skip the reading at your own risk
+
+_...you ARE reading this time, right?_
 
 <!---
 I've always been so fascinated by non-fiction & the world around me that spending time with fiction would give me massive FOMO (Fear Of Missing Out).
