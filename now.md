@@ -93,7 +93,45 @@ This is one of the things that has me most excited. The more reading & studying 
 
 _but this time it's different..._
 
-* TODO: elaborate
+<!---
+* TI-84
+* Movie: The Social Network
+* MHacks IV
+
+* \>SH
+* Hack The Planet
+* QCOM
+
+* Game Design
+* Eship "education"
+
+* digital nomad gone stale (why?)
+* audience-focused bootstrapping
+* Woven
+
+* writing
+* the diagnosis
+* Britannica (from geography to geopolitics to world history to The Western Canon to The Liberal Arts)
+-->
+
+> _"So in theory... if I type some magical combination of letters, I can BUILD anything?"_<br>--me, before learning to code
+
+I was awe-struck. I could see it all right then & there from my vert first program: that coding is a superpower. The thought of typing something into existence seemed no different from fictional wizards/sorcerers/magicians who chant cryptic words that actually summon strange things into existence.
+
+I started my coding journey before college & before I knew it was a well-paying career path (even though that helped me to commit long-term). If it were any other way, I wouldn't find myself constantly returning to it after time off.  Sure, it's something I enjoy, but it's always for a different purpose:
+
+
+* TODO: finish the story
+
+<!---
+3 questions 
+
+I got obsessed with distribution.
+
+& now I'm back at  the begininning: great product is what matters. Turns out "distribution" is a double-edged sword: however good or bad your  product/service is, good distribution merely spreads the word faster. In this sense, poor distribution is an advantage because it gives you room to experiment & fail brutally without permanent reputational damage, even if I'm oversimplifying.
+
+If my life were a video game, this is like I beat the game once  already, so I'm ready to come back to the first level.
+-->
 
 <!---
 software -> entrepreneurship -> digital marketing -> sales -> writer -> software (but this time it's different) -> DevRel??? No-Code Ops?? solo-creator?? startup mercenary??
