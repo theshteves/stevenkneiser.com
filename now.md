@@ -6,6 +6,8 @@ permalink: /now
 
 > _Last updated: {{ site.time | date: "%B %d, %Y" }}_
 
+<br>
+
 ## Living in downtown Indianapolis
 
 _with an awesome partner & 2 cats_
@@ -19,75 +21,8 @@ Don't forget awesome partner & 2 cats
 
 > _"The unexamined life is not worth living"_<br>--Socrates (but not in English)<br>... --Plato (documented in his "Apology")<br>... ... --Michael Scott
 -->
-<br>
+<br><br>
 
-
-## Reading like I'm running out of time
-
-Short answer:
-<br>to me, non-fiction > > fiction
-
-...but recently I'm sick of New Content™ about tech, business, & self-help.  **I've gotten obsessed with "old & boring non-fiction"** like history, philosophy, & especially "The Classics" [of the Western Canon]
-
-In other words,
-<br>I'm a STEM kid who finally "got" Liberal Arts
-
-
-<br>
-
-_Where were these interests growing up?_
-
-I now embrace Liberal Arts as both less AND more important than the technical arts (e.g. Computer Science). "Technical Arts" degrees are more important in that young adults should be maximally fluent in the technical crafts of their decade.
-
-Liberal Arts degrees are wasted on the young & inexperienced with nothing at stake. Liberal Arts shouldn't be embedded in college degrees, but elevated to the heights of one's lifelong pursuit of wisdom. The arts are but an ever-evolving conversation that belies the burden of adulthood.
-
-<br>
-
-There's no escape
-<br>There's no graduation
-<br>So join the conversation
-
-Adults get pop quizzes too
-<br>& they carry graver consequences
-<br>so skip the reading at your own risk
-
-_...you ARE reading this time, right?_
-
-<!---
-I've always been so fascinated by non-fiction & the world around me that spending time with fiction would give me massive FOMO (Fear Of Missing Out).
-
-We live in the most absurd time in history & I could spend my entire life reading Wikipedia & staring around the world in awe
--->
-
-<br>
-
-
-## Finally exercising again 
-
-* TODO: elaborate
-
-<!---
-Before the pandemic, I had radically experimented with my nutrition over 2 years to evaporate my cholesterol problem & started weight training [freeweights of course] for the very first time in my life. After dialing in those habits, I consciously decided to halt everything in early February 2020 (even turned down 2 job offers! one after a FOUR HOUR phone negotiation where they made an exploitative offer that would've screwed me if the rumors about a pandemic were true & the other I actually accepting on condition that it was remote only for them to bait&switch me right before the start date) & optimize all of that to go complete survival mode &gotten into the best shape of my life post-pandemic. After a year of rationing on anything & everything that I can easily carry home that minimizes the number of trips I need to make to the grocery store, I've ballooned back to my all-time high weight. I don't know why it took me so long to recommit but as of last month I'm back on the horse & I feel [relatively] better about myself with each passing day
--->
-
-<br>
-
-## Writing daily for CreatorsWhoCode
-
-* TODO: elaborate
-
-<br>
-
-
-## Ramping up writing to launch personal newsletter!
-
-* TODO: elaborate
-
-<!---
-This is one of the things that has me most excited. The more reading & studying I do, the more I have to write & share. I've gotten to the point in my life where I'm developing more internally-consistent worldviews.
--->
-
-<br>
 
 ## Returning to software
 
@@ -101,27 +36,46 @@ _but this time it's different..._
 * \>SH
 * Hack The Planet
 * QCOM
-
 * Game Design
-* Eship "education"
 
+* Eship "education"
 * digital nomad gone stale (why?)
 * audience-focused bootstrapping
+* sales bootcamp
 * Woven
+* Tiago+GTD (jet-rocketed into post-rat economy of twitter, so the next chapter is twitter era)
 
-* writing
+* Writer's Bloc
+* Kenzie Academy
 * the diagnosis
 * Britannica (from geography to geopolitics to world history to The Western Canon to The Liberal Arts)
 -->
 
-> _"So in theory... if I type some magical combination of letters, I can BUILD anything?"_<br>--me, before learning to code
+I can recall the awe:
 
-I was awe-struck. I could see it all right then & there from my vert first program: that coding is a superpower. The thought of typing something into existence seemed no different from fictional wizards/sorcerers/magicians who chant cryptic words that actually summon strange things into existence.
+> _"So you're saying...<br>if I knew just the right things to type,<br>I could build ...ANYTHING??<br><br>That with pure scribbles,<br>I'd build something very concrete<br>that would affect people?"_<br>--me, before learning to code
 
+Unreal. Pure magic. I could see it all right then & there from the Quadratic Formula in Algerba II: **coding is a real-life superpower**. The thought of typing something into existence seemed no different from fictional wizards/sorcerers/magicians who chant cryptic words that actually summon strange things into existence. As children, we grasp for any sign that we are one-of-a-kind, that our story will be told like the others' we've heard, that we alone might be the protagonist.
+
+Santa Claus was no longer real, but at last I'd found a crack in my own reality. What castles in the sky would this superpower lift me to?
+
+> _"Any sufficiently advanced technology is indistinguishable from magic"_ --Arthur C. Clarke
+
+<br>
+
+But this is the "/now" page,
+<br>not "/please-tell-me-your-sanitized-life-story"
+
+
+
+
+
+<!---
 I started my coding journey before college & before I knew it was a well-paying career path (even though that helped me to commit long-term). If it were any other way, I wouldn't find myself constantly returning to it after time off.  Sure, it's something I enjoy, but it's always for a different purpose:
+-->
 
+* TODO: 
 
-* TODO: finish the story
 
 <!---
 3 questions 
@@ -137,7 +91,108 @@ If my life were a video game, this is like I beat the game once  already, so I'm
 software -> entrepreneurship -> digital marketing -> sales -> writer -> software (but this time it's different) -> DevRel??? No-Code Ops?? solo-creator?? startup mercenary??
 -->
 
+<br><br>
+
+
+## Reading like I'm running out of time
+
+To me,
+<br>non-fiction > > fiction
+
+…but recently I’ve grown sick of New Content™ about tech, business, & self-help
+
+**I’ve gotten obsessed with “old & boring non-fiction”**: history, philosophy, & especially “The Classics” [of the Western Canon]. Don't worry, I'm just as fascinated with Southeast Asia & regions/narratives outside Europe.
+
+In other words,
+<br>I’m a STEM kid who finally “got” Liberal Arts
+
 <br>
+
+_Where were these interests growing up?_
+
+**I now embrace Liberal Arts as both less AND more important** than "Technical Arts" (e.g. software, UX design, digital marketing, etc). The Technical Arts are more important: young adults need that first taste of success when they practice the crafts of their time (crafts come & go every generation, if not decade). They need a profitable flywheel if they want to fly outside their parents' nest.
+
+Why are these two arts
+<br>even taught in the same years?
+
+Yet the Technical Arts offer only an antidote to dependency & individualism. What about engaging in the awe-inspiring world around us? One day--like it or not--we all must graduate to the stage of the Liberal Arts to join those timeless dialogues in a productive way.
+
+<br>
+
+I was wrong
+
+I was wrong all along
+<br>so consider this my love song:
+
+Liberal Arts degrees are wasted on the young & inexperienced who have nothing at stake. **The Liberal Arts don't belong in college degrees: they reach to the heights of one’s lifelong pursuit of wisdom.** The arts are but an ever-evolving conversation that belies the burden of adulthood.
+
+<br>
+
+There’s no escape
+<br>There’s no graduation
+<br>So join the conversation
+
+Adults get pop quizzes too
+<br>just with graver consequences
+
+This is your only second chance
+<br>Skip the reading at your own risk
+
+<br>
+
+_...you ARE reading this time, right?_
+
+<br><br>
+
+
+## Finally exercising again 
+
+**January 2020**: I'm in the best shape of my life since high school varsity sports. I'm weight training for the first time in my life (& consistently at that). I've radically experimented with my diet & I'm not even unfalsifiably opinionated or cult-like about my particular approach to nutrition. My blood lipids have remarkably reversed course & I'm even underweight.
+
+_~ the-virus-that-shall-not-be-named knocks on the door ~_
+
+**January 2021**: I'm in the worst shape of my life. Maybe I should ask my doctor abou-- oh, those are just called stretch marks 🙃 ...at least now I can cut my own hair! _If only I could do more than shave it off_
+
+**June 2021**: Alright, no more worst-case prepping. I can start grabbing fresh ingredients twice weekly & cooking again. Let's try out the ultra-simple Ferriss-style:
+
+* meat & veggies
+* w/ a side of legumes & kettlebell swings
+* & 1 _helluva'_ glutinous cheat day per week
+
+<!---
+Before the pandemic, I had radically experimented with my nutrition over 2 years to evaporate my cholesterol problem & started weight training [freeweights of course] for the very first time in my life. After dialing in those habits, I consciously decided to halt everything in early February 2020 (even turned down 2 job offers! one after a FOUR HOUR phone negotiation where they made an exploitative offer that would've screwed me if the rumors about a pandemic were true & the other I actually accepting on condition that it was remote only for them to bait&switch me right before the start date) & optimize all of that to go complete survival mode &gotten into the best shape of my life post-pandemic. After a year of rationing on anything & everything that I can easily carry home that minimizes the number of trips I need to make to the grocery store, I've ballooned back to my all-time high weight. I don't know why it took me so long to recommit but as of last month I'm back on the horse & I feel [relatively] better about myself with each passing day
+-->
+
+<br><br>
+
+
+## Still Writing daily for CreatorsWhoCode
+
+We're approaching Day 400 of shipping public updates daily
+
+* TODO: elaborate
+
+<br><br>
+
+
+## Ramping up writing to launch personal newsletter!
+
+That's right:
+_there's more where this came from!_
+
+The more reading & studying I do, the more I have to write & share. I've gotten to an exciting point in my life where I'm developing more internally-consistent worldviews while mainting an openness to mystery & wonder. The only thing I really know is that no one really knows.
+
+Let's build futures worth building
+
+The funny thing is **I've always _been_ a researcher. I only recently made a habit of writing stuff down.** It forces me to take these ideas more seriously. Why not share it with the people most invested in me?
+
+<!---
+What makes it even cooler is expressing it isn't just for free. I get compounding returns to forcibly clarifying my thoughts much further than before. The act of recalling information actually reinforces it & expressing my thoughts nudges me towards consuming higher-quality ideas.
+-->
+
+* TODO: opt-in form
+
+<br><br>
 
 <!---
 ## [TODO: any other major GTD-style projects]
@@ -216,7 +271,7 @@ How you can help:
 > TODO: include calendly link for friends (or at least call-to-action to text, twitter DM, or email me)
 -->
 
-<br><br><br>
+<br><br>
 
 # Let's catch up!
 
