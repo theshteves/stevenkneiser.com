@@ -33,3 +33,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-toc
+
+exclude:
+  - stevenkneiser.com

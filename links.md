@@ -3,15 +3,17 @@ layout: page
 title: "Links\nWorth\nSpreading"
 permalink: /links
 toc: true
+svg: floating-cogs
 ---
 
 [⇒ / (back home)](/)
 
 _Last Updated: {{ site.time | date: "%B %d, %Y" }}_
 
-This is my "best of", my running list of "most shared" links
+This is my "Best Of":
+<br>my running list of links shared most
 
-I'll continue to fight the temptation to bloat this list over time. I may post other best-of's individually, but this is the home for my consistent top performers. I have a recency bias where I write about my most recent obsessions, but this is a home for sticky ideas that have withstood the test of more time (& my attention-span).
+This list continues to evolve today & I'll continue to fight the temptation to bloat it over time. I may post other best-of's individually, but this is the home for my consistent top performers. I have a recency bias where I write about my most recent obsessions, but this is a home for sticky ideas that have withstood the test of more time (& my attention-span).
 
 On final review, this list is more US-centric than I'd prefer, so I encourage people to check out this [world map of the world by population](https://ourworldindata.org/world-population-cartogram){:target="\_blank"} & this [animated world map of twitter activity over one month (2013)](https://vimeo.com/347801005){:target="\_blank"}. The internet isn't just your country, so this map gives you  a better feel for who you'll be interacting with in the future.
 
@@ -19,18 +21,16 @@ On final review, this list is more US-centric than I'd prefer, so I encourage pe
 * [Attia on Longevity](#how-aging-will-kill-you-what-you-can-do-about-that)
 * [r/personalfinance flowchart](#rpersonalfinance-flowchart)
 * [2 decades of Inflation](#2-decades-of-inflation)
-* how software is eating the world
-* [don't be so cynical](#dont-be-so-cynical)
-* first, ten
+* [A case for optimism](#dont-be-so-cynical)
+* [first, 10](#all-you-need-is-10)
 * tiny product is why
 * [Theory of Constraints](#theory-of-constraints)
-* stewart brand's ideological shift on environmentalism
+* [how software is eating the world](#how-software-is-eating-the-world)
+* maturing environmentalism <!---an old dog in environmentalism learned new tricks-->
 * former UN ambassador for singapore on the ASEAN miracle vs The West
 * [Everything Is A Remix™](#everything-is-a-remix)
 * [You don't have to be local](#you-dont-have-to-be-local)
-* "against waldenponding"
-* air purifier
-* maybe even a "classic" or 2
+* air quality
 * [memorable quotes](#quotes)
 
 
@@ -41,6 +41,8 @@ On final review, this list is more US-centric than I'd prefer, so I encourage pe
 ## [How aging will kill you<br>& what you can do about that](https://youtu.be/vDFxdkck354?t=478){:target="\_blank"}
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/vDFxdkck354?start=478" title="Peter Attia - Reverse engineered approach to human longevity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Don't worry, there's no strong-arm philosophy/product/pitch at the end here: just a survey of some exploratory research.
 
 Here's Peter, both an engineer & accomplished medical doctor, speaking to a room
 of medical researchers so don't expect to follow every detail of this
@@ -65,6 +67,8 @@ training for the normal olympics.
 
 _(Specific to the U.S.)_
 
+The art of investing is the art of decision-making. Every decision you make is a vote for the person you'll become. **This is the lazy-yet-informed approach to maximize your returns _relative to your risk & effort_**. The "20% of effort that will yield you 80% of the results"
+
 In my experience,
 <br>you'll take this 1 of 2 ways
 <br>(assuming this is news to you):
@@ -74,7 +78,7 @@ others...<br>let's just say<br>it's not their idea of fun
 
 * TODO: why that's not this case
 
-The secret is that you have a backwards case of "grass is greener". Ignorance is not bliss & you know it: it eats away at you from the inside until you're a hollow shell of your former self. Getting clear on "your finances" is actually the true antidote to stress. For many, thinking about money is like having to stare into the abyss of their problems, when it's actually more like ropping off a crime scene & getting the victims the answers they deserve.
+The secret is that you have a backwards case of "grass is greener". Ignorance is not bliss & you know it: it eats away at you from the inside until you're a hollow shell of your former self. Getting clear on "your finances" is the only antidote to stress, the only therapy of its kind. For many, thinking about money is like having to stare into the abyss of their problems, when it's actually more like roping off a crime scene & getting the victims the answers they deserve.
 
 You may think you have nothing, that you're doomed, but a quick google search will find you many stories of people that have gotten out of significantly more dire financial circumstances. Just because you have 40k/80k/120k in student loan debt & several thousand in credit card debt is far from the end of the world.
 
@@ -98,6 +102,17 @@ This is your foundation. This isn't the be-all end-all on the art of investing f
 
 > _"A fool & his money are soon parted"_<br>--[proverb]
 
+<br>
+
+That's my plea
+<br>& I hope you'll thank me
+<br>for not burying it further down
+
+_P.S. Your parents called 📞<br>they want to know when you're finally going to get a haircut & a "real" job_
+
+Their words, not mine
+
+
 <br><br>
 
 
@@ -105,16 +120,30 @@ This is your foundation. This isn't the be-all end-all on the art of investing f
 
 _(Specific to the U.S.)_
 
-You might not care about economic theory, but this single graph explains so much of the current economy around us [in the U.S.]. In the last 20 years, what goods & services are more expensive dollar-for-dollar than they used to be?
+You might not care about economic theory, but this single graph explains so much of the current economy around us [in the U.S.]. **In the last 20 years, what goods & services have become more expensive dollar-for-dollar & by how much?**
 
-You may be familiar with the general _idea_ of inflation & how $80 was _a very big deal_ in 1910, but not every dollar is equal [in the way you thought]. This is a simply peak behind the curtain of inflation _grouped by sector_
+You may be familiar
+<br>with _the general idea_ of inflation
+<br>& how $80 was _"actually a pretty big deal"_ in 1910,
+
+but not every dollar is equal [in the way you thought],
+<br>so let's peak behind that curtain _...by sector_
 
 ![Baumol's Cost Disease](/assets/img/cost-disease.webp){:style="width:100%"}
+
+Worth noting "average hourly wages"
+<br>isn't the same as _median_ hourly wages,
+<br>since ~1971 there's been a
+<br>...rather controversial divide
+
+These are the waters you might not have realized you're swimming in. Outside of the "he said : she said" noise of day-to-day politics, this is the playing field that tells 80% of the story. We're all processors in the same societal super-computer grinding our gears towards better solutions to this problem.
 
 <br><br>
 
 
-### [Don't be so cynical](https://ourworldindata.org/wrong-about-the-world){:target="\_blank"}
+### [A case for optimism](https://ourworldindata.org/wrong-about-the-world){:target="\_blank"}
+
+ALRIGHT! Now on to the fun stuff!
 
 Include link to their world map by population instead of surface area. This would change a lot of how we understand the cultural distribution of we interact with online & will only become increasingly noticeable
 
@@ -139,15 +168,11 @@ This is an entire series of essays on a hidden gem of the manufacturing industry
 <br><br>
 
 
-### [The biggest name in environmentalism changed his mind on urbanization, nuclear energy, & more over a long lifetime](https://e360.yale.edu/features/stewart_brands_strange_trip_whole_earth_to_nuclear_power){:target="\_blank"}
-
-Although even millenials might not recognize his name, Stewart Brand [TODO]. He now prefers the term eco-pragmatist. We can't go back & we can't afford to slow innnnovations on the horizon. Even if you're a proud tree-hugger who thinks that _"industrial civilization has committed crimes, sins against nature, and retribution is coming"_ ...then he's a respectful, sympathetic voice who learned some hard lessons.
-
-We all have something to learn from someone who has been on the frontier of the environmental movement since the '60s & '70s. This is the only exception to my rule for this page because the exact link to him isn't as important as his perspective that has loomed over me.  There may be better summaries, but this short interview is a brief enough introduction to his current thinking.
-
-<br><br>
-
 ### [All you need is 10](https://seths.blog/2009/04/first-ten/){:target="\_blank"}
+
+"but Global™ this! Macroeconomic™ that! Geopolitical™ these!"
+
+Good news! You can build a calm life in your own backyard. This is calm amidst the storm. **This is soothing wisdom from an age of distraction**.
 
 In an era of infinite leverage, it's a seductive fantasy to try to extract a tiny value out of lots of people, even millions.
 
@@ -160,15 +185,37 @@ He doesn't "try to change the world"
 
 After 5 years of consuming every thoughtpiece that gives the faintest smell of entrepreneurship, this is one of my top 5, it came to mind second. What makes it better than any other though is raw simplicity. Unlike the others, this is the most timeless. It will never go out of style. It doesn't have any prerequisites. It doesn't even give you permission to procrastinate by reading another follow-up article.
 
-First, ten.
+First, 10.
 <br>& they'll take it from there
 <br>but only once your stuff is good enough
 
+When is it good enough?
+
+When you can stop pushing
+because they've started pulling
+because they're getting value from you
+
+<br>
+
 Create for 10, not 10,000
+
+First, 10.
+<br>& they'll take it from there
+<br>but only once your stuff is good enough
 
 BONUS: study his writing for a masterclass in simplicity (this blurb was longer than his average post)
 
 <br><br>
+
+
+### [Everything Is A Remix™](https://www.everythingisaremix.info/watch-the-series){:target="\_blank"}
+
+Being original is overrated, but more importantly it's not realistic
+
+> _"Good artists copy. Great artists steal."_
+
+<br><br>
+
 
 ### [Small Business 2.0 Revolution](https://stackingthebricks.com/why-you-should-do-a-tiny-product-first/){:target="\_blank"}
 
@@ -187,6 +234,7 @@ The other 95.75% of the world, not to mention the future, have narratives of the
 <br><br>
 
 
+<!---
 ### [Against Waldenponding](https://breakingsmart.substack.com/p/against-waldenponding){:target="\_blank"}
 
 When's the last time you've heard this:
@@ -196,15 +244,7 @@ When's the last time you've heard this:
 ...it's one thing to savor the time you get to be around friends & family, but perhaps the fantasies of taking months at a time away from society aren't what they're cracked up to be. I love this stuff so much because I've never heard this counter-argument: it makes me feel equally more & less at peace with the world today. That's a paradox I love to lean into.
 
 <br><br>
-
-
-### [Everything Is A Remix™](https://www.everythingisaremix.info/watch-the-series){:target="\_blank"}
-
-Being original is overrated, but more importantly it's not realistic
-
-> _"Good artists copy. Great artists steal."_
-
-<br><br>
+-->
 
 
 ### [You don't have to be local](https://sive.rs/local){:target="\_blank"}
@@ -221,9 +261,21 @@ I just didn't realize I even had a choice
 <br><br>
 
 
+### [The biggest name in environmentalism changed their mind on urbanization, nuclear energy, & more over a long lifetime](https://e360.yale.edu/features/stewart_brands_strange_trip_whole_earth_to_nuclear_power){:target="\_blank"}
+
+Although even millenials might not recognize his name, Stewart Brand [TODO]. He now prefers the term eco-pragmatist. We can't go back & we can't afford to slow innnnovations on the horizon. Even if you're a proud tree-hugger who thinks that _"industrial civilization has committed crimes, sins against nature, and retribution is coming"_ ...then he's a respectful, sympathetic voice who learned some hard lessons.
+
+We all have something to learn from someone who has been on the frontier of the environmental movement since the '60s & '70s. This is the only exception to my rule for this page because the exact link to him isn't as important as his perspective that has loomed over me.  There may be better summaries, but this short interview is a brief enough introduction to his current thinking.
+
+<br><br>
+
+
 ### [Improve your Air Quality](https://dynomight.net/air/){:target="\_blank"}
 
 A data-driven rant on why you should care about Air Quality & what you should do about it
+
+In an urbanizing world,
+<br>sensitivity to air pollution outdoors AND indoors will probably continue to grow more relevant
 
 _I promptly chucked my ultrasonic dehumidifier out the window after reading this_
 
