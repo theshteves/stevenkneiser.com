@@ -2,6 +2,16 @@
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
   <head>
     {% include head.html %}
+
+<style>body::before {
+  content: "";
+  z-index: -100;
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  background-image: url("/assets/img/{{ page.svg }}.svg");
+  filter: opacity(.03);
+}</style>
   </head>
 
   <body>

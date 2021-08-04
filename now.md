@@ -2,6 +2,7 @@
 layout: page
 title: "What I'm doing now"
 permalink: /now
+svg: random-shapes
 ---
 
 > _Last updated: {{ site.time | date: "%B %d, %Y" }}_

@@ -1,6 +1,7 @@
 ---
 title: "About Steven Kneiser"
 permalink: /about
+svg: topography
 ---
 
 <!--- TODO: position as /start-here -->
