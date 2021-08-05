@@ -1,6 +1,7 @@
 /* This example requires Tailwind CSS v2.0+ */
 import * as React  from 'react'
-import { Fragment } from 'react'
+import { useEffect, useState, Fragment } from 'react'
+import { useLocation } from 'react-router-dom'
 import { Disclosure, Menu, Transition } from '@headlessui/react'
 import { BellIcon, MenuIcon, XIcon } from '@heroicons/react/outline'
 
@@ -8,13 +9,20 @@ const classNames = (...classes) => classes.filter(Boolean).join(' ')
 
 export default function NavBar() {
 
-  let current_href = window.location.pathname
-  let navigation = [
+  const [nav, setNav] = useState([
     { name: 'Home', href: '/' },
     { name: 'About', href: '/about' }
-  ].map((item) => ({...item, 
-    current: item.href === current_href
-  }))
+  ])
+
+  /*
+  useEffect(() => {
+    setNav(nav.map((item) => ({...item, 
+      current: item.href === window.location.pathname
+    })))
+
+    console.log(nav)
+  }, [nav])
+  */
 
   return (
     <Disclosure as="nav" className="bg-gray-800">
@@ -50,7 +58,7 @@ export default function NavBar() {
 
                 <div className="hidden sm:block sm:ml-6">
                   <div className="flex space-x-4">
-                    {navigation.map((item) => (
+                    {nav.map((item) => (
                       <a
                         key={item.name}
                         href={item.href}
@@ -71,7 +79,7 @@ export default function NavBar() {
 
           <Disclosure.Panel className="sm:hidden">
             <div className="px-2 pt-2 pb-3 space-y-1">
-              {navigation.map((item) => (
+              {nav.map((item) => (
                 <a
                   key={item.name}
                   href={item.href}
