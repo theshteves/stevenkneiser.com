@@ -1,3 +1,30 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+html {
+  font-size: 16px; /* sets root em (rem) scaling */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  scroll-behavior: smooth;
+  background-color: #ded5c4;
+}
+
+main {
+  margin: 40px auto;
+  max-width: 650px;
+  line-height: 1.6;
+  font-size: 18px;
+  color: #444040;
+  padding: 0 10px;
+  font-family: sans-serif; 
+  min-height: 600px;
+}
+
+h1 { font-size: 4vw; }
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.2;
+  color: #332B4E;
+}
+strong { color: #605A75; }
+p { color: #234543; }

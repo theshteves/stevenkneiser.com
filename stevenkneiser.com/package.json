@@ -8,11 +8,14 @@
     "gatsby"
   ],
   "scripts": {
-    "develop": "gatsby develop",
+    "develop": "gatsby develop -p 4000",
     "start": "gatsby develop",
     "build": "gatsby build",
     "serve": "gatsby serve",
-    "clean": "gatsby clean"
+    "clean": "gatsby clean",
+    "lint": "eslint ./ --ext .jsx",
+    "lint:old": "npm run lint --ignore-path .gitignore",
+    "lint:fix": "npm run lint -- --fix"
   },
   "dependencies": {
     "@headlessui/react": "^1.4.0",
@@ -29,14 +32,33 @@
     "gatsby-plugin-sitemap": "^4.6.0",
     "gatsby-source-filesystem": "^3.10.0",
     "gatsby-transformer-sharp": "^3.10.0",
+    "prop-types": "^15.7.2",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-helmet": "^6.1.0"
   },
   "devDependencies": {
+    "@typescript-eslint/parser": "^4.29.0",
     "autoprefixer": "^10.3.1",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-config-react-app": "^6.0.0",
+    "eslint-loader": "^4.0.2",
+    "eslint-plugin-import": "^2.23.4",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-prettier": "^3.4.0",
+    "eslint-plugin-react": "^7.24.0",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "eslint-webpack-plugin": "^2.5.4",
+    "gatsby-plugin-eslint": "^3.0.0",
     "gatsby-plugin-postcss": "^4.10.0",
+    "gatsby-plugin-prettier-eslint": "^1.0.6",
     "postcss": "^8.3.6",
-    "tailwindcss": "^2.2.7"
+    "prettier": "^2.3.2",
+    "prettify": "^0.1.7",
+    "tailwindcss": "^2.2.7",
+    "typescript": "^4.3.5"
   }
 }
