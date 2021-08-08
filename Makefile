@@ -37,7 +37,7 @@ help:
 
 # run    - Run server
 run: #migrate
-	bundle exec jekyll serve --port 4040
+	bundle exec jekyll serve
 
 # test   - Run tests
 test:
