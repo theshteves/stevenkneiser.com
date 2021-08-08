@@ -31,11 +31,16 @@ export default function IndexPage() {
       <a href='/now'>⇒ /now ?</a>
       <br />
       <br />
-      <a href='https://creatorswhocode.com' target='_blank' rel='noreferrer'>
-        ⇒ CreatorsWhoCode.com
+
+      <p>
+        ⇒{' '}
+        <a href='https://creatorswhocode.com' target='_blank' rel='noreferrer'>
+          CreatorsWhoCode
+        </a>
+        .com
         <br />
         (unsolicited career advice [for developers])
-      </a>
+      </p>
 
       <Calendly />
     </Layout>
