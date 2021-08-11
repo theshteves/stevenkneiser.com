@@ -40,6 +40,14 @@ module.exports = {
       __key: 'pages',
     },
     {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        name: 'blog',
+        path: `${__dirname}/blog`,
+      },
+      __key: 'blog',
+    },
+    {
       resolve: "gatsby-plugin-prettier-eslint",
       // this is the default configuration, override only what you need
       options: {
