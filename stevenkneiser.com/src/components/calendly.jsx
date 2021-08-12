@@ -1,6 +1,8 @@
 import * as React from 'react'
 
 import * as calendlyStyles from './calendly.module.css'
+import theshteves from '../images/theshteves-transparent.webp'
+
 
 export default function Calendly() {
   return (
@@ -21,7 +23,7 @@ export default function Calendly() {
         onKeyDown="Calendly.showPopupWidget('https://calendly.com/kneiser/30min');return false;"
       >
         <img
-          src='/assets/img/theshteves-transparent.webp'
+          src={theshteves}
           alt='theshteves'
           className={calendlyStyles.popup}
         />

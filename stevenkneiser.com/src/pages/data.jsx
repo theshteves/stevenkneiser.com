@@ -6,7 +6,7 @@ import Layout from '../components/layout'
 
 export default function DataPage() {
   const data = useStaticQuery(graphql`
-    query MyQuery {
+    query DataQuery {
       allMdx {
         nodes {
           timeToRead
