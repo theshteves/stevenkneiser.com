@@ -1,34 +1,19 @@
-/* This example requires Tailwind CSS v2.0+ */
 import * as React from 'react'
-// import { useLocation } from 'react-router-dom'
 import { Link } from 'gatsby'
+/* requires Tailwind CSS v2.0+ */
 import { Disclosure } from '@headlessui/react'
 import { MenuIcon, XIcon } from '@heroicons/react/outline'
 
-import logo from '../images/skcom-logo.png'
+import logo from '../images/skcom-logo.svg'
+
 
 const classNames = (...classes) => classes.filter(Boolean).join(' ')
 
 export default function NavBar() {
   const nav = [
-    { name: 'Home', href: '/' },
     { name: 'About', href: '/about' },
+    { name: 'Now', href: '/now' },
   ]
-
-  /*
-  const [nav, setNav] = useState([
-    { name: 'Home', href: '/' },
-    { name: 'About', href: '/about' }
-  ])
-
-  useEffect(() => {
-    setNav(nav.map((item) => ({...item,
-      current: item.href === window.location.pathname
-    })))
-
-    console.log(nav)
-  }, [nav])
-  */
 
   return (
     <Disclosure as='nav' className='bg-gray-800'>
@@ -49,18 +34,20 @@ export default function NavBar() {
               </div>
 
               <div className='flex-1 flex items-center justify-center sm:items-stretch sm:justify-start'>
-                <div className='flex-shrink-0 flex items-center'>
-                  <img
-                    className='block lg:hidden h-8 w-auto'
-                    src={logo}
-                    alt='stevenkneiser.com'
-                  />
-                  <img
-                    className='hidden lg:block h-8 w-auto'
-                    src={logo}
-                    alt='stevenkneiser.com'
-                  />
-                </div>
+                <Link to="/">
+                  <div className='flex-shrink-0 flex items-center border-black border-b-2 border-r-2 filter invert'>
+                    <img
+                      className='block lg:hidden h-8 w-auto'
+                      src={logo}
+                      alt='stevenkneiser.com'
+                    />
+                    <img
+                      className='hidden lg:block h-8 w-auto'
+                      src={logo}
+                      alt='stevenkneiser.com'
+                    />
+                  </div>
+                </Link>
 
                 <div className='hidden sm:block sm:ml-6'>
                   <div className='flex space-x-4'>
@@ -68,13 +55,14 @@ export default function NavBar() {
                       <Link
                         to={item.href}
                         key={item.name}
-                        className={classNames(
-                          item.current
-                            ? 'bg-gray-900 text-white'
-                            : 'text-gray-300 hover:bg-gray-700 hover:text-white',
-                          'px-3 py-2 rounded-md text-sm font-medium'
-                        )}
-                        aria-current={item.current ? 'page' : undefined}
+                        getProps={({ isCurrent }) => {
+                          return {
+                            ariaCurrent: (isCurrent ? 'page' : undefined),
+                            className: classNames(isCurrent ? 'bg-gray-900 text-white'
+                              : 'text-gray-300 hover:bg-gray-700 hover:text-white',
+                            'px-3 py-2 rounded-md text-sm font-medium'),
+                          }
+                        }}
                       >
                         {item.name}
                       </Link>
@@ -89,15 +77,16 @@ export default function NavBar() {
             <div className='px-2 pt-2 pb-3 space-y-1'>
               {nav.map((item) => (
                 <Link
-                  key={item.name}
                   to={item.href}
-                  className={classNames(
-                    item.current
-                      ? 'bg-gray-900 text-white'
-                      : 'text-gray-300 hover:bg-gray-700 hover:text-white',
-                    'block px-3 py-2 rounded-md text-base font-medium'
-                  )}
-                  aria-current={item.current ? 'page' : undefined}
+                  key={item.name}
+                  getProps={({ isCurrent }) => {
+                    return {
+                      ariaCurrent: (isCurrent ? 'page' : undefined),
+                      className: classNames(isCurrent ? 'bg-gray-900 text-white'
+                        : 'text-gray-300 hover:bg-gray-700 hover:text-white',
+                      'block px-3 py-2 rounded-md text-base font-medium'),
+                    }
+                  }}
                 >
                   {item.name}
                 </Link>
