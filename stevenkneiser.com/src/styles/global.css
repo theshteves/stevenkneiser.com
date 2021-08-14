@@ -3,11 +3,10 @@
 @tailwind utilities;
 
 html {
-  font-size: 16px; /* sets root em (rem) scaling */
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  @apply antialiased;
+  @apply bg-gradient-to-r from-purple-400 via-pink-500 to-red-500;
   scroll-behavior: smooth;
-  background-color: #ded5c4;
+  /* background-color: #ded5c4; */
 }
 
 main {
@@ -21,10 +20,11 @@ main {
   min-height: 600px;
 }
 
-h1 { font-size: 4vw; }
 h1, h2, h3, h4, h5, h6 {
-  line-height: 1.2;
-  color: #332B4E;
+  /* color: #332B4E; */
+  @apply leading-normal;
 }
 strong { color: #605A75; }
 p { color: #234543; }
+
+a { @apply text-blue-600; } /* visited:text-purple-600; } */

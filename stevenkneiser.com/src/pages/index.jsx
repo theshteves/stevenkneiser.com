@@ -1,47 +1,41 @@
 import * as React from 'react'
+import { Link } from 'gatsby'
 
 import Layout from '../components/layout'
 import Calendly from '../components/calendly'
-import * as indexStyles from '../styles/index.module.css'
 
 
 export default function IndexPage() {
   return (
     <Layout>
-      <h1>stevenkneiser.com</h1>
+      <h1 className="text-xl md:text-2xl lg:text-4xl xl:text-8xl">stevenkneiser.com</h1>
 
-      <div className={indexStyles.construction}>
+      <div className="m-8 text-9xl leading-none">
         🚧
-        <span>🏗</span>
+        <div className="inline-block ml-12 animate-bounce">🏗</div>
         <br />
         🚧🚧
       </div>
 
-      <h2>
-        <strong>
-          <em>under construction</em>
-        </strong>
-      </h2>
+      <h2 className="font-bold italic">under construction</h2>
 
-      <a href='/about'>⇒ /about</a>
-      <br />
-      <br />
-      <a href='/links'>⇒ /links</a>
-      <br />
-      <br />
-      <a href='/now'>⇒ /now ?</a>
-      <br />
-      <br />
+      <ul>
+        <li><Link to='/about'>⇒ /about</Link></li>
+        <li><Link to='/links'>⇒ /links</Link></li>
+        <li><Link to='/now'>⇒ /now ?</Link></li>
+        <li>
+          <p>
+            ⇒{' '}
+            <a href='https://creatorswhocode.com' target='_blank' rel='noreferrer'>
+              CreatorsWhoCode
+            </a>
+            .com
+            <br />
+            (unsolicited career advice [for developers])
+          </p>
+        </li>
+      </ul>
 
-      <p>
-        ⇒{' '}
-        <a href='https://creatorswhocode.com' target='_blank' rel='noreferrer'>
-          CreatorsWhoCode
-        </a>
-        .com
-        <br />
-        (unsolicited career advice [for developers])
-      </p>
 
       <Calendly />
     </Layout>

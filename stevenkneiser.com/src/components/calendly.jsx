@@ -21,11 +21,11 @@ export default function Calendly() {
         type='button'
         onClick="Calendly.showPopupWidget('https://calendly.com/kneiser/30min');return false;"
         onKeyDown="Calendly.showPopupWidget('https://calendly.com/kneiser/30min');return false;"
+        className={calendlyStyles.popup}
       >
         <img
           src={theshteves}
           alt='theshteves'
-          className={calendlyStyles.popup}
         />
       </button>
 
