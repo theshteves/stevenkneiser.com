@@ -16,11 +16,6 @@ export default function AboutPage() {
       <h2 id="me-in-10-seconds">Me in 10 seconds</h2>
       <p>TODO quickbio</p>
 
-      <figure className="flex my-8 text-4xl bg-white w-max p-4 rounded items-center">
-        <div className="px-4">👉 </div>
-        <Link to="/now">what I’m up to /now</Link>
-      </figure>
-
       {/*
       <div style="width: 100%; max-width: 1248px; margin-top: 2px; margin-bottom: 4px;">
         <div style="display: flex;">
@@ -44,6 +39,11 @@ export default function AboutPage() {
 
       <h2 id="me-in-10-minutes">Me in 10 minutes</h2>
       <p>TODO</p>
+
+      <figure className="flex my-8 text-4xl bg-gradient-to-r from-yellow-300 to-yellow-50 w-max p-4 rounded items-center">
+        <div className="px-4">📆 </div>
+        <Link to="/now">what I’m up to /now</Link>
+      </figure>
     </Layout>
   )
 }

@@ -20,24 +20,23 @@ export default function IndexPage() {
         </div>
       </figure>
 
-      <h2 className="leading-snug pb-32">Welcome to my new little home <span className="inline-block w-80 text-right">...on <span className="inline-block transform translate-y-4 rotate-12">...the </span><span className="inline-block transform translate-y-14 rotate-45">...internet</span><span className="inline-block transform translate-y-48 rotate-90 translate-x-20">...weee<span className="font-thin text-gray-400">eeeeeeeeee</span></span></span></h2>
+      <h2 className="leading-snug pb-32">Welcome to my new little home <span className="inline-block w-80 text-right">...on <span className="inline-block transform translate-y-4 rotate-12">...the </span><span className="inline-block transform translate-y-14 rotate-45">...internet</span><span className="inline-block transform translate-y-48 rotate-90 translate-x-20">...weee<span className="font-thin text-gray-400">eeeeeeeeee</span><span className="filter blur">ee</span>💥</span></span></h2>
 
-      <ul>
-        <li><Link to='/about'>⇒ /about</Link></li>
-        <li>⇒ /blog (coming soon)</li>
-        <li>⇒ /now (coming <em>very</em> soon)</li>
-        <li>
-          <p>
-            ⇒{' '}
-            <a href='https://creatorswhocode.com' target='_blank' rel='noreferrer'>
-              CreatorsWhoCode
-            </a>
-            .com
-            <br />
-            (unsolicited career advice for developers)
-          </p>
-        </li>
-      </ul>
+        <p><Link to='/about'>⇒ /about</Link></p>
+        <p>⇒ /blog (coming soon)</p>
+        <p>⇒ /now (coming <em>very</em> soon)</p>
+
+        {/*
+        <p>
+          ⇒{' '}
+          <a href='https://creatorswhocode.com' target='_blank' rel='noreferrer'>
+            CreatorsWhoCode
+          </a>
+          .com
+          <br />
+          (unsolicited career advice for developers)
+        </p>
+        */}
 
       <img src={construction} alt="construction work" className="m-auto p-12" />
 

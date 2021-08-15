@@ -26,3 +26,43 @@ h1 { @apply font-bold font-bold text-2xl md:text-4xl lg:text-6xl xl:text-8xl; }
 
 p { @apply my-4 text-lg leading-relaxed text-gray-500; }
 a { @apply text-lg text-blue-800 underline; } /* visited:text-purple-600; } */
+
+
+@keyframes pushMe {
+  2% {color: #e5193b; transform: rotate(3deg) scaleX(1.05)}
+  4% {transform: rotate(-6deg) scaleX(1.1)}
+  6% {transform: rotate(9deg) scaleX(1.15)}
+  8% {transform: rotate(-12deg) scaleX(1.2)}
+  10% {transform: rotate(0deg) scaleX(1)}
+}
+
+.cta {
+  -webkit-animation: pushMe 4s infinite;
+  animation: pushMe 4s infinite;
+  outline: none;
+  font-family: 'helvetica neue' sans-serif;
+  font-size: 2em;
+  color: white;
+  text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.7), 1px 1px 1px rgba(255, 255, 255, 0.3);
+  display: block;
+  margin: 1rem 0;
+  padding: 23px 37px 25px 35px;
+  cursor: pointer;
+  background-color: #2e050c; /* #2e050c */
+  background-image: linear-gradient(273deg, #eb4763 30%, #e61a3c 40%);
+  border: none;
+  border-radius: 16px;
+  box-shadow: inset 0px 0px 1px 1px rgba(138, 15, 36, 0.9), inset 0px 0px 2px 3px rgba(230, 26, 60, 0.9), inset 1px 1px 1px 4px rgba(255, 255, 255, 0.8), inset 0px 0px 2px 7px rgba(235, 71, 99, 0.8), inset 0px 0px 4px 10px rgba(230, 26, 60, 0.9), 8px 10px 2px 6px rgba(92, 10, 24, 0.55), 0px 0px 3px 2px rgba(184, 20, 48, 0.9), 0px 0px 2px 6px rgba(230, 26, 60, 0.9), -1px -1px 1px 6px rgba(255, 255, 255, 0.9), 0px 0px 2px 11px rgba(230, 26, 60, 0.9), 0px 0px 1px 12px rgba(184, 20, 48, 0.9), 1px 3px 14px 14px rgba(0, 0, 0, 0.4);
+}
+
+.cta:hover {
+  animation-play-state: paused;
+  color: #2e050c;
+}
+
+.cta:active {
+  color: #d9d9d9;
+  padding: 26px 34px 22px 38px;
+  background-image: linear-gradient(273deg, #e61a3c 50%, #e8304f 60%);
+  box-shadow: inset 3px 4px 3px 2px rgba(92, 10, 24, 0.55), inset 0px 0px 1px 1px rgba(138, 15, 36, 0.9), inset -1px -1px 2px 3px rgba(230, 26, 60, 0.9), inset -2px -2px 1px 3px rgba(255, 255, 255, 0.8), inset 0px 0px 2px 7px rgba(235, 71, 99, 0.8), inset 0px 0px 3px 10px rgba(230, 26, 60, 0.9), 0px 0px 3px 2px rgba(184, 20, 48, 0.9), 0px 0px 2px 6px rgba(230, 26, 60, 0.9), -1px -1px 1px 6px rgba(255, 255, 255, 0.9), 0px 0px 2px 11px rgba(230, 26, 60, 0.9), 0px 0px 1px 12px rgba(184, 20, 48, 0.9), 1px 3px 14px 14px rgba(0, 0, 0, 0.4);
+}
