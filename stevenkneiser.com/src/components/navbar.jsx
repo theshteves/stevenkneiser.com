@@ -6,7 +6,6 @@ import { MenuIcon, XIcon } from '@heroicons/react/outline'
 
 import logo from '../images/signature.svg'
 
-
 const classNames = (...classes) => classes.filter(Boolean).join(' ')
 
 export default function NavBar() {
@@ -35,15 +34,15 @@ export default function NavBar() {
               </div>
 
               <div className='flex-1 flex items-center justify-center sm:items-stretch sm:justify-start'>
-                <Link to="/" className="no-underline">
+                <Link to='/' className='no-underline'>
                   <div className='flex-shrink-0 flex items-center border-black filter invert overflow-hidden'>
-                    <h2 className="font-light">Steven</h2>
+                    <h2 className='font-light'>Steven</h2>
                     <img
                       className='block h-14 w-auto'
                       src={logo}
                       alt='stevenkneiser.com'
                     />
-                    <h2 className="-ml-8 font-light">Kneiser</h2>
+                    <h2 className='-ml-8 font-light'>Kneiser</h2>
                   </div>
                 </Link>
 
@@ -53,14 +52,15 @@ export default function NavBar() {
                       <Link
                         to={item.href}
                         key={item.name}
-                        getProps={({ isCurrent }) => {
-                          return {
-                            "aria-current": (isCurrent ? 'page' : undefined),
-                            className: classNames(isCurrent ? 'bg-yellow-50 text-yellow-900'
+                        getProps={({ isCurrent }) => ({
+                          'aria-current': isCurrent ? 'page' : undefined,
+                          className: classNames(
+                            isCurrent
+                              ? 'bg-yellow-50 text-yellow-900'
                               : 'text-gray-300 hover:bg-yellow-700 hover:text-white',
-                            'px-3 py-2 rounded-md text-md font-medium'),
-                          }
-                        }}
+                            'px-3 py-2 rounded-md text-md font-medium'
+                          ),
+                        })}
                       >
                         {item.name}
                       </Link>
@@ -77,14 +77,15 @@ export default function NavBar() {
                 <Link
                   to={item.href}
                   key={item.name}
-                  getProps={({ isCurrent }) => {
-                    return {
-                      "aria-current": (isCurrent ? 'page' : undefined),
-                      className: classNames(isCurrent ? 'bg-yellow-50 text-yellow-900'
+                  getProps={({ isCurrent }) => ({
+                    'aria-current': isCurrent ? 'page' : undefined,
+                    className: classNames(
+                      isCurrent
+                        ? 'bg-yellow-50 text-yellow-900'
                         : 'text-gray-300 hover:bg-yellow-700 hover:text-white',
-                      'block px-3 py-2 rounded-md text-base font-medium'),
-                    }
-                  }}
+                      'block px-3 py-2 rounded-md text-base font-medium'
+                    ),
+                  })}
                 >
                   {item.name}
                 </Link>

@@ -3,25 +3,22 @@ import { useStaticQuery, graphql } from 'gatsby'
 
 import Layout from '../components/layout'
 
-
 export default function MdxPage() {
   const data = useStaticQuery(graphql`
-		query MarkdownQuery {
-			allMdx {
-				nodes {
-					slug
-					frontmatter {
-						permalink
-						title
-						svg
-					}
-					timeToRead
-				}
-			}
-		}
+    query MarkdownQuery {
+      allMdx {
+        nodes {
+          slug
+          frontmatter {
+            permalink
+            title
+            svg
+          }
+          timeToRead
+        }
+      }
+    }
   `)
-
-  console.log(data)
 
   return (
     <Layout>

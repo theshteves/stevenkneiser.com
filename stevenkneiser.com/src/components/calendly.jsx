@@ -3,7 +3,6 @@ import * as React from 'react'
 import * as calendlyStyles from './calendly.module.css'
 import theshteves from '../images/theshteves-transparent.webp'
 
-
 export default function Calendly() {
   return (
     <>
@@ -19,14 +18,17 @@ export default function Calendly() {
 
       <button
         type='button'
-        onClick={(e) => { Calendly.showPopupWidget('https://calendly.com/kneiser/30min');return false;}}
-        onKeyDown={(e) => { Calendly.showPopupWidget('https://calendly.com/kneiser/30min');return false;}}
+        onClick={() => {
+          Calendly.showPopupWidget('https://calendly.com/kneiser/30min')
+          return false
+        }}
+        onKeyDown={() => {
+          Calendly.showPopupWidget('https://calendly.com/kneiser/30min')
+          return false
+        }}
         className={calendlyStyles.popup}
       >
-        <img
-          src={theshteves}
-          alt='theshteves'
-        />
+        <img src={theshteves} alt='theshteves' />
       </button>
 
       {/*

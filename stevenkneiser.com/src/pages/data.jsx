@@ -3,7 +3,6 @@ import { useStaticQuery, graphql } from 'gatsby'
 
 import Layout from '../components/layout'
 
-
 export default function DataPage() {
   const data = useStaticQuery(graphql`
     query DataQuery {
@@ -20,7 +19,6 @@ export default function DataPage() {
       }
     }
   `)
-  console.log(data)
 
   return (
     <Layout>

@@ -2,18 +2,13 @@ import * as React from 'react'
 import { Link } from 'gatsby'
 
 import Layout from '../components/layout'
-import * as aboutStyles from '../styles/about.module.css'
 
-import theshteves from '../images/theshteves-transparent.webp'
-
-
-//TODO: position as /start-here from / homepage
+// TODO: position as /start-here from / homepage
 
 export default function AboutPage() {
   return (
     <Layout>
-
-      <h2 id="me-in-10-seconds">Me in 10 seconds</h2>
+      <h2 id='me-in-10-seconds'>Me in 10 seconds</h2>
       <p>TODO quickbio</p>
 
       {/*
@@ -37,12 +32,12 @@ export default function AboutPage() {
       </div>
       */}
 
-      <h2 id="me-in-10-minutes">Me in 10 minutes</h2>
+      <h2 id='me-in-10-minutes'>Me in 10 minutes</h2>
       <p>TODO</p>
 
-      <figure className="flex my-8 text-4xl bg-gradient-to-r from-yellow-300 to-yellow-50 w-max p-4 rounded items-center">
-        <div className="px-4">📆 </div>
-        <Link to="/now">what I’m up to /now</Link>
+      <figure className='flex my-8 text-4xl bg-gradient-to-r from-yellow-300 to-yellow-50 w-max p-4 rounded items-center'>
+        <div className='px-4'>📆 </div>
+        <Link to='/now'>what I’m up to /now</Link>
       </figure>
     </Layout>
   )
