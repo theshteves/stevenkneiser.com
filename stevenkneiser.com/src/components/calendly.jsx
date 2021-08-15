@@ -1,7 +1,8 @@
-import * as React from 'react'
+import React from 'react'
 
 import * as calendlyStyles from './calendly.module.css'
-import theshteves from '../images/theshteves-transparent.webp'
+import theshteves from '../assets/img/theshteves-transparent.webp'
+
 
 export default function Calendly() {
   return (

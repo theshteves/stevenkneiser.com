@@ -4,7 +4,8 @@ import { Link } from 'gatsby'
 import { Disclosure } from '@headlessui/react'
 import { MenuIcon, XIcon } from '@heroicons/react/outline'
 
-import logo from '../images/signature.svg'
+import logo from '../assets/img/signature.svg'
+
 
 const classNames = (...classes) => classes.filter(Boolean).join(' ')
 
