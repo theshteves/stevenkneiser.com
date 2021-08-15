@@ -4,19 +4,20 @@ import { Link } from 'gatsby'
 import { Disclosure } from '@headlessui/react'
 import { MenuIcon, XIcon } from '@heroicons/react/outline'
 
-import logo from '../images/skcom-logo.svg'
+import logo from '../images/signature.svg'
 
 
 const classNames = (...classes) => classes.filter(Boolean).join(' ')
 
 export default function NavBar() {
   const nav = [
-    { name: 'About', href: '/about' },
-    { name: 'Now', href: '/now' },
+    { name: '/about', href: '/about' },
+    { name: '/blog', href: '/blog' },
+    { name: '/now', href: '/now' },
   ]
 
   return (
-    <Disclosure as='nav' className='bg-gray-800 shadow-lg'>
+    <Disclosure as='nav' className='bg-yellow-900 shadow-lg fixed w-full z-50'>
       {({ open }) => (
         <>
           <div className='max-w-7xl mx-auto px-2 sm:px-6 lg:px-8'>
@@ -34,33 +35,30 @@ export default function NavBar() {
               </div>
 
               <div className='flex-1 flex items-center justify-center sm:items-stretch sm:justify-start'>
-                <Link to="/">
-                  <div className='flex-shrink-0 flex items-center border-black border-b-2 border-r-2 filter invert'>
+                <Link to="/" className="no-underline">
+                  <div className='flex-shrink-0 flex items-center border-black filter invert overflow-hidden'>
+                    <h2 className="font-light">Steven</h2>
                     <img
-                      className='block lg:hidden h-8 w-auto'
+                      className='block h-14 w-auto'
                       src={logo}
                       alt='stevenkneiser.com'
                     />
-                    <img
-                      className='hidden lg:block h-8 w-auto'
-                      src={logo}
-                      alt='stevenkneiser.com'
-                    />
+                    <h2 className="-ml-8 font-light">Kneiser</h2>
                   </div>
                 </Link>
 
                 <div className='hidden sm:block sm:ml-6'>
-                  <div className='flex space-x-4'>
+                  <div className='flex space-x-4 items-center h-full pl-16'>
                     {nav.map((item) => (
                       <Link
                         to={item.href}
                         key={item.name}
                         getProps={({ isCurrent }) => {
                           return {
-                            ariaCurrent: (isCurrent ? 'page' : undefined),
+                            "aria-current": (isCurrent ? 'page' : undefined),
                             className: classNames(isCurrent ? 'bg-gray-900 text-white'
                               : 'text-gray-300 hover:bg-gray-700 hover:text-white',
-                            'px-3 py-2 rounded-md text-sm font-medium'),
+                            'px-3 py-2 rounded-md text-md font-medium'),
                           }
                         }}
                       >
@@ -81,7 +79,7 @@ export default function NavBar() {
                   key={item.name}
                   getProps={({ isCurrent }) => {
                     return {
-                      ariaCurrent: (isCurrent ? 'page' : undefined),
+                      "aria-current": (isCurrent ? 'page' : undefined),
                       className: classNames(isCurrent ? 'bg-gray-900 text-white'
                         : 'text-gray-300 hover:bg-gray-700 hover:text-white',
                       'block px-3 py-2 rounded-md text-base font-medium'),
