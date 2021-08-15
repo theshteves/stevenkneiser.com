@@ -20,8 +20,8 @@ export default function Embed() {
 						<ul className="formkit-alert formkit-alert-error" data-element="errors" data-group="alert"></ul>
 
 						<div data-element="fields" data-stacked="false" className="seva-fields formkit-fields">
-							<div className="formkit-field">
-								<input className="formkit-input" name="email_address" aria-label="Email Address" placeholder="Email Address" required="" type="email" />
+							<div className="formkit-field" style={{ backgroundColor: "#78350f" }}>
+								<input className="border-0 px-3 py-3 placeholder-gray-400 text-gray-700 bg-white rounded text-sm shadow focus:outline-none focus:ring w-full" name="email_address" aria-label="Email Address" placeholder="Email Address" required="" type="email" />
 							</div>
 
 							<button data-element="submit" className="formkit-submit">
@@ -31,7 +31,7 @@ export default function Embed() {
 									<div></div>
 								</div>
 
-								<span>Subscribe</span>
+								<span className="font-bold bg-yellow-900">Subscribe</span>
 							</button>
 						</div>
 					</div>
