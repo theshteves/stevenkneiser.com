@@ -6,7 +6,6 @@ import { MenuIcon, XIcon } from '@heroicons/react/outline'
 
 import logo from '../assets/img/signature.svg'
 
-
 const classNames = (...classes) => classes.filter(Boolean).join(' ')
 
 export default function NavBar() {

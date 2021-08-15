@@ -1,6 +1,6 @@
 import React from 'react'
 
-import Embed from './ConvertKit/embed2'
+import Embed from './ConvertKit/embed'
 // import Register from './register'
 
 export default function Footer() {
