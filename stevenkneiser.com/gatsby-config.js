@@ -17,7 +17,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
-        icon: 'src/images/icon.png',
+        icon: 'src/assets/ico/favicon-16x16.png',
       },
     },
     'gatsby-plugin-mdx',
@@ -27,7 +27,7 @@ module.exports = {
       resolve: 'gatsby-source-filesystem',
       options: {
         name: 'images',
-        path: './src/images/',
+        path: './src/assets/img/',
       },
       __key: 'images',
     },
@@ -82,6 +82,7 @@ module.exports = {
         },
       },
     },
+    'gatsby-plugin-react-helmet',
   ],
   flags: {
     DEV_SSR: false,
