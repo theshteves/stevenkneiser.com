@@ -1,6 +1,6 @@
 import React from 'react'
 
-import Embed from './ConvertKit/embed'
+import Embed from './ConvertKit/embed2'
 // import Register from './register'
 
 export default function Footer() {
@@ -22,7 +22,7 @@ export default function Footer() {
         </span>
       </p>
 
-      <Embed title='' cta='' />
+      <Embed />
       <p className='italic font-extralight text-black mx-auto -mt-2 mb-8'>
         Absolutely no spam, ever.
         <br />
