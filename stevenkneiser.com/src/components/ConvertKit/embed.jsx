@@ -6,7 +6,7 @@ export default function Embed() {
 
   return (
     <>
-      <script defer src='https://f.convertkit.com/ckjs/ck.5.js' integrity="sha384-CerXSswRATPxytOhAi+oPx5OdTpYyuwzxb4bZu4bJJe/dlLHcY5OrVjR7fwLGIhB" crossorigin />
+      <script defer src='https://f.convertkit.com/ckjs/ck.5.js' integrity="sha384-CerXSswRATPxytOhAi+oPx5OdTpYyuwzxb4bZu4bJJe/dlLHcY5OrVjR7fwLGIhB" crossOrigin="true"></script>
 
       <form
         action='https://app.convertkit.com/forms/2490056/subscriptions'
