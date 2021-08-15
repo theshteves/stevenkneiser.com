@@ -19,8 +19,8 @@ export default function Calendly() {
 
       <button
         type='button'
-        onClick="Calendly.showPopupWidget('https://calendly.com/kneiser/30min');return false;"
-        onKeyDown="Calendly.showPopupWidget('https://calendly.com/kneiser/30min');return false;"
+        onClick={(e) => { Calendly.showPopupWidget('https://calendly.com/kneiser/30min');return false;}}
+        onKeyDown={(e) => { Calendly.showPopupWidget('https://calendly.com/kneiser/30min');return false;}}
         className={calendlyStyles.popup}
       >
         <img

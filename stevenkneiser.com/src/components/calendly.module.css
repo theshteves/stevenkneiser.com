@@ -1,5 +1,5 @@
 .popup {
-  @apply block fixed -bottom-64 -left-56 transition-transform transform hover:translate-x-56 hover:-translate-y-64;
+  @apply block z-40 fixed -bottom-64 -left-56 transition-transform transform hover:translate-x-56 hover:-translate-y-64;
   animation: sayHi 4s;
 }
 
