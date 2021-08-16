@@ -5,6 +5,8 @@ import { Disclosure } from '@headlessui/react'
 import { MenuIcon, XIcon } from '@heroicons/react/outline'
 
 import logo from '../assets/img/signature.svg'
+import texture from '../assets/img/black-paper.png'
+
 
 const classNames = (...classes) => classes.filter(Boolean).join(' ')
 
@@ -16,7 +18,7 @@ export default function NavBar() {
   ]
 
   return (
-    <Disclosure as='nav' className='bg-yellow-900 shadow-lg fixed w-full z-50'>
+    <Disclosure as='nav' className='bg-yellow-900 shadow-lg fixed w-full z-50' style={{ backgroundImage: `url("${texture}")` }}>
       {({ open }) => (
         <>
           <div className='max-w-7xl mx-auto px-2 sm:px-6 lg:px-8'>
@@ -36,13 +38,13 @@ export default function NavBar() {
               <div className='flex-1 flex items-center justify-center sm:items-stretch sm:justify-start'>
                 <Link to='/' className='no-underline'>
                   <div className='flex-shrink-0 flex items-center border-black filter invert overflow-hidden'>
-                    <h2 className='font-light'>Steven</h2>
+                    <h2 className='font-light text-black'>Steven</h2>
                     <img
                       className='block h-14 w-auto'
                       src={logo}
                       alt='stevenkneiser.com'
                     />
-                    <h2 className='-ml-8 font-light'>Kneiser</h2>
+                    <h2 className='-ml-7 font-light text-black'>Kneiser</h2>
                   </div>
                 </Link>
 

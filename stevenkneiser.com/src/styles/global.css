@@ -3,11 +3,13 @@
 @tailwind utilities;
 
 html {
+  @apply overscroll-none;
   @apply antialiased;
   scroll-behavior: smooth;
   @apply bg-yellow-50;
   background-image: url("../assets/img/notebook-dark.png");
 }
+body { @apply overflow-x-hidden; }
 
 main {
   /*

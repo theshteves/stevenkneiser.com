@@ -5,7 +5,7 @@ import Embed from './ConvertKit/embed'
 
 export default function Footer() {
   return (
-    <footer className='bg-gradient-to-b from-yellow-50 via-yellow-400 to-yellow-500 p-4 text-center'>
+    <footer className='bg-gradient-to-b from-yellow-50 via-yellow-400 to-yellow-500 p-4 text-center z-40'>
       <h2 className='font-bold text-4xl'>
         Want the best
         <br />
