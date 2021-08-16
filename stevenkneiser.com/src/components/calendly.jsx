@@ -1,9 +1,13 @@
 import React from 'react'
+import { openPopupWidget } from 'react-calendly'
 
-import * as calendlyStyles from './calendly.module.css'
+import calendlyStyles from './calendly.module.css'
 import theshteves from '../assets/img/theshteves-transparent.webp'
 
-export default function Calendly() {
+
+export default function Calendlyt() {
+  const onClick = () => openPopupWidget('https://calendly.com/kneiser/30min')
+
   return (
     <>
       <link
@@ -18,14 +22,8 @@ export default function Calendly() {
 
       <button
         type='button'
-        onClick={() => {
-          Calendly.showPopupWidget('https://calendly.com/kneiser/30min')
-          return false
-        }}
-        onKeyDown={() => {
-          Calendly.showPopupWidget('https://calendly.com/kneiser/30min')
-          return false
-        }}
+        onClick={onClick}
+        onKeyDown={onClick}
         className={calendlyStyles.popup}
       >
         <img src={theshteves} alt='theshteves' />
