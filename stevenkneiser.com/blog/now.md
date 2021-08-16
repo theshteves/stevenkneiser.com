@@ -1,11 +1,14 @@
 ---
 permalink: /now
 title: "What I'm doing now"
-date: "1996-06-28"
-svg: "random-shapes"
+date: "2021-08-15"
 ---
 
-> TODO: last  updated  when?
+> TODO: automate "last updated" timestamp
+
+> NOTE: come back next week when I've finished this
+
+<img src="./coffee-splatter-9.png" alt="Coffee Splatter 9" style="width: 80%" />
 
 <br />
 

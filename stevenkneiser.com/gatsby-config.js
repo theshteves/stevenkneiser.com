@@ -20,7 +20,7 @@ module.exports = {
         icon: 'src/assets/ico/favicon-16x16.png',
       },
     },
-    'gatsby-plugin-mdx',
+    'gatsby-transformer-remark',
     'gatsby-plugin-sharp',
     'gatsby-transformer-sharp',
     {
@@ -30,6 +30,14 @@ module.exports = {
         path: './src/assets/img/',
       },
       __key: 'images',
+    },
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        name: 'assets',
+        path: './src/assets/',
+      },
+      __key: 'assets',
     },
     {
       resolve: 'gatsby-source-filesystem',
