@@ -6,7 +6,11 @@ date: "2021-08-15"
 
 > TODO: automate "last updated" timestamp
 
-> NOTE: come back next week when I've finished this
+<br />
+<br />
+<br />
+
+> **NOTE: come back next week _after_ I've finished this**
 
 <img src="./coffee-splatter-9.png" alt="Coffee Splatter 9" style="width: 80%" />
 

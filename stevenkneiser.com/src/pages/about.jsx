@@ -30,7 +30,7 @@ export default function AboutPage() {
         <Link to='/now'>What I’m up to /now</Link>
       </figure>
 
-      <img src={theshteves} className="mx-auto absolute top-16 right-0 block transform rotate-12 w-1/2 md:w-2/5 opacity-80 z-0" onMouseOver={play} />
+      <img src={theshteves} className="mx-auto absolute top-16 right-0 block transform rotate-12 w-1/2 md:w-2/5 opacity-80 z-0" onClick={play} onMouseOver={play} />
       <audio id="best-sfx"><source src={fart} type="audio/mpeg" /></audio>
     </Layout>
   )
