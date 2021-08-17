@@ -5,7 +5,7 @@ import { Disclosure } from '@headlessui/react'
 import { MenuIcon, XIcon } from '@heroicons/react/outline'
 
 import logo from '../assets/img/signature.svg'
-import texture from '../assets/img/black-paper.png'
+import texture from '../assets/img/ice-age.png'
 
 
 const classNames = (...classes) => classes.filter(Boolean).join(' ')
@@ -18,7 +18,7 @@ export default function NavBar() {
   ]
 
   return (
-    <Disclosure as='nav' className='bg-yellow-900 shadow-lg fixed w-full z-50' style={{ backgroundImage: `url("${texture}")` }}>
+    <Disclosure as='nav' className='bg-yellow-900 shadow-2xl fixed w-full z-40' style={{ backgroundImage: `url("${texture}")`, boxShadow: "0 8px 9px -3px rgba(0,0,0,0.4)" }}>
       {({ open }) => (
         <>
           <div className='max-w-7xl mx-auto px-2 sm:px-6 lg:px-8'>
@@ -58,7 +58,7 @@ export default function NavBar() {
                           'aria-current': isCurrent ? 'page' : undefined,
                           className: classNames(
                             isCurrent
-                              ? 'bg-yellow-50 text-yellow-900'
+                              ? 'bg-yellow-50 text-yellow-900 opacity-70'
                               : 'text-gray-300 hover:bg-yellow-700 hover:text-white',
                             'px-3 py-2 rounded-md text-md font-medium'
                           ),
@@ -83,7 +83,7 @@ export default function NavBar() {
                     'aria-current': isCurrent ? 'page' : undefined,
                     className: classNames(
                       isCurrent
-                        ? 'bg-yellow-50 text-yellow-900'
+                        ? 'bg-yellow-50 text-yellow-900 opacity-70'
                         : 'text-gray-300 hover:bg-yellow-700 hover:text-white',
                       'block px-3 py-2 rounded-md text-base font-medium'
                     ),
