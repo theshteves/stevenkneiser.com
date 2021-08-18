@@ -1,12 +1,12 @@
 ---
 permalink: "/links"
 title: "Links\nWorth\nSpreading"
-date: "1996-06-28"
+date: "2021-06-28"
 ---
 
-Ted Talks are about ideas worth spreading
+Ted Talks™ are for "Ideas Worth Spreading"
 
-These are my links worth spreading
+These are my Links Worth Spreading
 
 ## _ ~ locked until completion ~ _
 

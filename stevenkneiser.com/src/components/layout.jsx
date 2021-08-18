@@ -3,10 +3,12 @@ import React from 'react'
 
 import NavBar from './navbar'
 import Footer from './footer'
+import Head from './head'
 
 export default function Layout({ children }) {
   return (
     <div id='layout' className='w-screen'>
+      <Head />
       <NavBar />
 
       <main className='md:container md:mx-auto p-4 pt-20 min-h-screen'>

@@ -2,6 +2,10 @@ module.exports = {
   siteMetadata: {
     siteUrl: 'https://stevenkneiser.com',
     title: 'Steven Kneiser',
+    titleTemplate: 'SK - %s',
+    description: 'Steven Kneiser\'s little home on the internet',
+    url: "https://stevenkneiser.com", // No trailing slash allowed!
+    twitterUsername: "@theshteves",
   },
   plugins: [
     'gatsby-plugin-postcss',
@@ -21,6 +25,8 @@ module.exports = {
       },
     },
     'gatsby-transformer-remark',
+    'gatsby-plugin-excerpts',
+    'gatsby-plugin-mdx',
     'gatsby-plugin-sharp',
     'gatsby-transformer-sharp',
     {
@@ -91,6 +97,7 @@ module.exports = {
       },
     },
     'gatsby-plugin-react-helmet',
+    'gatsby-plugin-build-date',
   ],
   flags: {
     DEV_SSR: false,

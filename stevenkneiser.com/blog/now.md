@@ -1,18 +1,18 @@
 ---
 permalink: /now
-title: "What I'm doing now"
+title: "What I'm doing /now"
 date: "2021-08-15"
 ---
 
+> **Come back next week _after_ I've finished this**
+
+<br />
+<br />
+<br />
+
+<img src="/coffee-splatter-9.png" alt="Coffee Splatter 9" style="width: 80%" />
+
 > TODO: automate "last updated" timestamp
-
-<br />
-<br />
-<br />
-
-> **NOTE: come back next week _after_ I've finished this**
-
-<img src="./coffee-splatter-9.png" alt="Coffee Splatter 9" style="width: 80%" />
 
 <br />
 
@@ -285,7 +285,7 @@ How you can help:
 
 Since only the smart, funny, & attractive people such as yourself made it this far, my calendar is particularly open for the next few months if you love chatting on the phone or Zoom. You can schedule time for me to call you soon if you click/tap on my picture in the bottom left! I don't know how long I can keep that up.
 
-{% include calendly.html %}
+* TODO: include calendly component
 
 <br />
 
