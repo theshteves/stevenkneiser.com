@@ -2,6 +2,7 @@ import React from 'react'
 import { graphql, Link } from 'gatsby'
 
 import Layout from '../components/layout'
+import Preview from '../components/preview'
 
 
 export const query = graphql`
@@ -11,7 +12,7 @@ query {
       frontmatter {
         permalink
         title
-        date
+        date(formatString: "MMMM Do, YYYY")
       }
       excerpt
       timeToRead
@@ -22,26 +23,16 @@ query {
 
 export default function BlogPage({ data }) {
   const { nodes } = data.allMarkdownRemark
-  console.log(nodes)
 
   return (
     <Layout>
       <h1>Most Recent</h1>
 
-      <ul>
-        {nodes.map(({
-          frontmatter: { permalink, title, date },
-          excerpt,
-          timeToRead
-        }) => (
-          <li key={permalink} className="my-24">
-            <Link to={permalink}><h2 className="text-4xl">{title}</h2></Link>
-            <h3 className="-mt-8 -mb-4">{date}</h3>
-
-            <p>{excerpt}</p>
-          </li>
-        ))}
-      </ul>
+      <div className='mt-16 flex flex-wrap justify-evenly content-around items-center'>
+        {nodes.map(node => 
+          <Preview key={node.frontmatter.permalink} node={node} />
+        )}
+      </div>
     </Layout>
   )
 }

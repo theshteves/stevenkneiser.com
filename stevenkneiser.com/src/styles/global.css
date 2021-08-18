@@ -12,6 +12,8 @@ html {
 body { @apply overflow-x-hidden; }
 
 main {
+  @apply overflow-x-hidden;
+  overflow-block: hidden;
   /*
   margin: 40px auto;
   max-width: 650px;
@@ -25,10 +27,11 @@ main {
 }
 
 h1, h2, h3, h4, h5, h6 { @apply my-8 font-bold text-xl leading-loose text-gray-800; }
-h1 { @apply font-bold font-bold text-2xl md:text-4xl lg:text-6xl xl:text-8xl; }
+h1 { @apply font-bold text-4xl sm:text-6xl lg:text-8xl; }
 
 p { @apply my-4 text-lg leading-relaxed text-gray-500; }
 a { @apply text-lg text-blue-800 underline; } /* visited:text-purple-600; } */
+ul { list-style-type: disc; list-style-position: inside; @apply text-gray-500; }
 
 
 @keyframes pushMe {
@@ -81,3 +84,36 @@ figure {
   background-repeat: no-repeat;
 }
 */
+
+ .postit {
+  line-height: 1;
+  text-align:center;
+  width: 350px;
+  min-height:250px;
+  padding: 0 1rem;
+  margin: 1rem;
+  /* margin: 25px;
+  max-height:250px;
+  padding-top:35px; */
+  position:relative;
+  border:1px solid #E8E8E8;
+  border-bottom-right-radius: 60px 5px;
+  display:inline-block;
+}
+
+.postit:after {
+   content: "";
+  position:absolute;
+  z-index:-1;
+  right:-0px;
+  bottom:20px;
+  width:275px;
+  height: 25px;
+  background: rgba(0, 0, 0, 0.2);
+  box-shadow:2px 15px 5px rgba(0, 0, 0, 0.40);
+-moz-transform: matrix(-1, -0.1, 0, 1, 0, 0);
+ -webkit-transform: matrix(-1, -0.1, 0, 1, 0, 0);
+      -o-transform: matrix(-1, -0.1, 0, 1, 0, 0);
+     -ms-transform: matrix(-1, -0.1, 0, 1, 0, 0);
+         transform: matrix(-1, -0.1, 0, 1, 0, 0);
+}

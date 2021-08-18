@@ -18,20 +18,20 @@ export default function AboutPage() {
     <Layout>
       <p className="italic">Like me,<br />this page is a work-in-progress</p>
 
-      <h2 id='me-in-10-seconds'>Me in 10 seconds</h2>
+      <img src={theshteves} className="mx-auto md:absolute top-16 right-16 block transform rotate-12 w-full md:w-2/5 opacity-80 z-0" onClick={play} onMouseOver={play} />
+      <audio id="best-sfx"><source src={fart} type="audio/mpeg" /></audio>
+
+      <h1 id='me-in-10-seconds'>Me in 10 seconds</h1>
       <img src={coffee} alt="Coffee Splatter 6" className="w-1/4" />
 
-      <h2 id='me-in-10-minutes'>Me in 10 minutes</h2>
+      <h1 id='me-in-10-minutes'>Me in 10 minutes</h1>
       <img src={coffee2} alt="Coffee Splatter 7" className="w-1/2" />
 
 
       <figure className='flex my-8 text-4xl bg-gradient-to-bl from-yellow-50 via-yellow-50 to-yellow-300 w-max p-4 rounded items-center'>
         <div className='px-4'>📆 </div>
-        <Link to='/now'>What I’m up to /now</Link>
+        <Link to='/now'>What I’m doing /now</Link>
       </figure>
-
-      <img src={theshteves} className="mx-auto absolute top-16 right-0 block transform rotate-12 w-1/2 md:w-2/5 opacity-80 z-0" onClick={play} onMouseOver={play} />
-      <audio id="best-sfx"><source src={fart} type="audio/mpeg" /></audio>
     </Layout>
   )
 }
