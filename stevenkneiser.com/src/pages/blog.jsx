@@ -12,9 +12,9 @@ query {
       frontmatter {
         permalink
         title
-        date(formatString: "MMMM Do, YYYY")
+        date(formatString: "MMMM Do 'YY")
       }
-      excerpt
+      excerpt(format: HTML)
       timeToRead
     }
   }

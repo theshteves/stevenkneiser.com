@@ -24,8 +24,12 @@ module.exports = {
         icon: 'src/assets/ico/favicon-16x16.png',
       },
     },
-    'gatsby-transformer-remark',
-    'gatsby-plugin-excerpts',
+    {
+      "resolve": `gatsby-transformer-remark`,
+      "options": {
+        "excerpt_separator": `<!-- excerpt -->`
+      }
+    },
     'gatsby-plugin-mdx',
     'gatsby-plugin-sharp',
     'gatsby-transformer-sharp',
