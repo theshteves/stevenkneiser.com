@@ -33,6 +33,7 @@ p { @apply my-4 text-lg leading-relaxed text-gray-500; }
 a { @apply text-lg text-blue-800 underline; } /* visited:text-purple-600; } */
 ul { list-style-type: disc; list-style-position: inside; @apply text-gray-500; }
 
+blockquote { @apply pl-6 md:pl-12 xl:pl-24; }
 
 @keyframes pushMe {
   2% {color: #e5193b; transform: rotate(3deg) scaleX(1.05)}
@@ -116,4 +117,20 @@ figure {
       -o-transform: matrix(-1, -0.1, 0, 1, 0, 0);
      -ms-transform: matrix(-1, -0.1, 0, 1, 0, 0);
          transform: matrix(-1, -0.1, 0, 1, 0, 0);
+}
+
+.stamp {
+  color:red;
+  display:inline-block;
+  font-family:sans-serif;
+  padding:10px 20px;
+  margin:40px;
+  transform:rotate(-5deg);
+  border:10px solid red;
+  -webkit-mask-size: contain;
+  -webkit-mask-image: url("");
+  -o-mask-image:url("../assets/img/grunge-texture.png");
+  -moz-mask-image:url("../assets/img/grunge-texture.png");
+  -ms-mask-image:url("../assets/img/grunge-texture.png");
+  mask-image: url("../assets/img/grunge-texture.png");
 }
