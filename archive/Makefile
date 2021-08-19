@@ -25,11 +25,11 @@ all: clean update build test run
 
 # build  - Build server
 build: #update migrate test run
-	npm run build
+	bundle exec jekyll build
 
 # clean  - Remove all generated files [TODO: unfinished]
 clean:
-	npm run clean
+	bundle exec jekyll clean
 
 # help   - Display all comments
 help:
@@ -37,16 +37,15 @@ help:
 
 # run    - Run server
 run: #migrate
-	npm run develop
+	bundle exec jekyll serve
 
 # test   - Run tests
 test:
-	bundle exec htmlproofer public --enforce-https \
+	bundle exec htmlproofer _site --enforce-https \
     --check-favicon --check-html --check-img-http --check-opengraph --check-sri \
     --url-swap "^(\/.*)|(http\:\/\/localhost\:4000\/):https://creatorswhocode.com/" \
     --url-ignore "https://fonts.gstatic.com/","https://pages.convertkit.com/"
 
 # update - Install/update all packages
 update:
-	npm update
-	npm install
+	bundle

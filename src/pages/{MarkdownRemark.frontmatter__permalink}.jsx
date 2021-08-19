@@ -45,7 +45,7 @@ export default function Template({ data }) {
       
       <figure className='flex mt-24 mb-8 text-4xl bg-gradient-to-bl from-yellow-50 via-yellow-50 to-yellow-300 w-max p-4 rounded items-center'>
         <div className='px-4'>✍️ </div>
-        <Link to='/blog'>Read other /blog writing</Link>
+        <Link to='/blog'>Return to /blog</Link>
       </figure>
     </Layout>
   )
