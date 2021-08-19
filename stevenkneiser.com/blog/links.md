@@ -4,9 +4,14 @@ title: "Links\nWorth\nSpreading"
 date: "2021-06-28"
 ---
 
-Ted Talks™ are for "Ideas Worth Spreading"
+Ted Talks™
+<br />are for Ideas Worth Spreading
 
-These are my Links Worth Spreading
+This list of mine
+<br />is for  Links Worth Spreading
+
+<!-- excerpt -->
+
 
 ## _ ~ locked until completion ~ _
 

@@ -1,10 +1,13 @@
 ---
 permalink: /now
 title: "What I'm doing /now"
-date: "2021-08-15"
+date: "2021-08-18"
 ---
 
-> **Come back next week _after_ I've finished this**
+> **Come back next week<br />..._after_ I finish this**
+
+<!-- excerpt -->
+
 
 <br />
 <br />
@@ -34,121 +37,24 @@ Don't forget awesome partner & 2 cats
 
 ## Returning to software
 
-_but this time it's different..._
+This update ultimately became a dedicated essay:
 
-<!---
-* TI-84
-* Movie: The Social Network
-* MHacks IV
-
-* \>SH
-* Hack The Planet
-* QCOM
-* Game Design
-
-* Eship "education"
-* digital nomad gone stale (why?)
-* audience-focused bootstrapping
-* sales bootcamp
-* Woven
-* Tiago+GTD (jet-rocketed into post-rat economy of twitter, so the next chapter is twitter era)
-
-* Writer's Bloc
-* Kenzie Academy
-* the diagnosis
-* Britannica (from geography to geopolitics to world history to The Western Canon to The Liberal Arts)
--->
-
-I can recall the awe:
-
-> _"So you're saying...<br />if I knew just the right things to type,<br />I could build ...ANYTHING??<br /><br />That with pure scribbles,<br />I'd build something very concrete<br />that would affect people?"_<br />--me, before learning to code
-
-Unreal. Pure magic. I could see it all right then & there from the Quadratic Formula in Algerba II: **coding is a real-life superpower**. The thought of typing something into existence seemed no different from fictional wizards/sorcerers/magicians who chant cryptic words that actually summon strange things into existence. As children, we grasp for any sign that we are one-of-a-kind, that our story will be told like the others' we've heard, that we alone might be the protagonist.
-
-Santa Claus was no longer real, but at last I'd found a crack in my own reality. What castles in the sky would this superpower lift me to?
-
-> _"Any sufficiently advanced technology is indistinguishable from magic"_ --Arthur C. Clarke
-
-<br />
-
-But this is the "/now" page,
-<br />not "/please-tell-me-your-sanitized-life-story"
-
-
-
-
-
-<!---
-I started my coding journey before college & before I knew it was a well-paying career path (even though that helped me to commit long-term). If it were any other way, I wouldn't find myself constantly returning to it after time off.  Sure, it's something I enjoy, but it's always for a different purpose:
--->
-
-* TODO: 
-
-
-<!---
-3 questions 
-
-I got obsessed with distribution.
-
-& now I'm back at  the begininning: great product is what matters. Turns out "distribution" is a double-edged sword: however good or bad your  product/service is, good distribution merely spreads the word faster. In this sense, poor distribution is an advantage because it gives you room to experiment & fail brutally without permanent reputational damage, even if I'm oversimplifying.
-
-If my life were a video game, this is like I beat the game once  already, so I'm ready to come back to the first level.
--->
-
-<!---
-software -> entrepreneurship -> digital marketing -> sales -> writer -> software (but this time it's different) -> DevRel??? No-Code Ops?? solo-creator?? startup mercenary??
--->
+<figure class='flex my-8 text-4xl bg-gradient-to-bl from-yellow-50 via-yellow-50 to-yellow-300 w-max p-4 rounded items-center'>
+  <div class='px-4'>👨‍💻 </div>
+  <a href='/blog/return-to-software'>My Return To Software</a>
+</figure>
 
 <br /><br />
 
 
 ## Reading like I'm running out of time
 
-To me,
-<br />non-fiction > > fiction
+Apparently I've been writing like I'm running out of time too. This was succinct but just a tad too long & distracting for this page:
 
-…but recently I’ve grown sick of New Content™ about tech, business, & self-help
-
-**I’ve gotten obsessed with “old & boring non-fiction”**: history, philosophy, & especially “The Classics” [of the Western Canon]. Don't worry, I'm just as fascinated with Southeast Asia & regions/narratives outside Europe.
-
-In other words,
-<br />I’m a STEM kid who finally “got” Liberal Arts
-
-<br />
-
-_Where were these interests growing up?_
-
-**I now embrace Liberal Arts as both less AND more important** than "Technical Arts" (e.g. software, UX design, digital marketing, etc). The Technical Arts are more important: young adults need that first taste of success when they practice the crafts of their time (crafts come & go every generation, if not decade). They need a profitable flywheel if they want to fly outside their parents' nest.
-
-Why are these two arts
-<br />even taught in the same years?
-
-Yet the Technical Arts offer only an antidote to dependency & individualism. What about engaging in the awe-inspiring world around us? One day--like it or not--we all must graduate to the stage of the Liberal Arts to join those timeless dialogues in a productive way.
-
-<br />
-
-I was wrong
-
-I was wrong all along
-<br />so consider this my love song:
-
-Liberal Arts degrees are wasted on the young & inexperienced who have nothing at stake. **The Liberal Arts don't belong in college degrees: they reach to the heights of one’s lifelong pursuit of wisdom.** The arts are but an ever-evolving conversation that belies the burden of adulthood.
-
-<br />
-
-There’s no escape
-<br />There’s no graduation
-<br />So join the conversation
-
-Adults get pop quizzes too
-<br />just with graver consequences
-
-This is your only second chance
-<br />Skip the reading at your own risk
-
-<br />
-
-_...you ARE reading this time, right?_
+<figure class='flex my-8 text-4xl bg-gradient-to-bl from-yellow-50 via-yellow-50 to-yellow-300 w-max p-4 rounded items-center'>
+  <div class='px-4'>🤓 </div>
+  <a href='/blog/liberal-arts'>I Was Wrong About The Liberal Arts</a>
+</figure>
 
 <br /><br />
 
