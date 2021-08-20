@@ -1,13 +1,23 @@
 ---
 permalink: /now
 title: "What I'm doing /now"
-date: "2021-08-18"
+date: "2021-08-19"
+draft: true
 ---
 
-> **Come back next week<br />..._after_ I finish this**
+An always up-to-date list
+<br />on my current objectives
 
 <!-- excerpt -->
 
+> **Come back next week<br />..._after_ I finish this**
+
+I _just_ launched the site
+
+<figure class='flex mt-24 mb-8 text-4xl bg-gradient-to-bl from-yellow-50 via-yellow-50 to-yellow-300 w-max p-4 rounded items-center'>
+  <div class='px-4'>✍️ </div>
+  <a href="/blog">Return to /blog</a>
+</figure>
 
 <br />
 <br />
@@ -53,7 +63,7 @@ Apparently I've been writing like I'm running out of time too. This was succinct
 
 <figure class='flex my-8 text-4xl bg-gradient-to-bl from-yellow-50 via-yellow-50 to-yellow-300 w-max p-4 rounded items-center'>
   <div class='px-4'>🤓 </div>
-  <a href='/blog/liberal-arts'>I Was Wrong About The Liberal Arts</a>
+  <a href='/blog/liberal-arts'>I Was Wrong <span class="sm:hidden"><br /></span>About The Liberal Arts</a>
 </figure>
 
 <br /><br />

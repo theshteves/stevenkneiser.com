@@ -2,6 +2,7 @@
 permalink: /blog/return-to-software
 title: "My Return To Software"
 date: "2021-08-15"
+draft: true
 ---
 
 > _"but this time it's different..."_
