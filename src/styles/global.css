@@ -26,12 +26,12 @@ main {
   */
 }
 
-h1, h2, h3, h4, h5, h6 { @apply my-8 font-bold text-xl leading-loose text-gray-800; }
+h1, h2, h3, h4, h5, h6 { @apply my-8 font-bold text-xl leading-loose text-gray-800; scroll-margin-top: 6rem; }
 h1 { @apply font-bold text-4xl sm:text-6xl lg:text-8xl; }
 
 p { @apply my-4 text-lg leading-relaxed text-gray-500; }
 a { @apply text-lg text-blue-800 underline; } /* visited:text-purple-600; } */
-ul { list-style-type: disc; list-style-position: inside; @apply text-gray-500; }
+ul { list-style-type: disc; @apply list-inside text-gray-500; }
 
 blockquote { @apply pl-6 md:pl-12 xl:pl-24; }
 
@@ -134,3 +134,12 @@ figure {
   -ms-mask-image:url("../assets/img/grunge-texture.png");
   mask-image: url("../assets/img/grunge-texture.png");
 }
+
+/* Path stubborn plugin */
+.markdown-header > .markdown-header-link { @apply visible; }
+
+#toc ul { @apply list-outside; }
+
+@keyframes hide { 0% { transform: translateY(-24rem) } }
+
+#toc { animation: 3s hide ease-in-out; }

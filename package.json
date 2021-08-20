@@ -8,7 +8,7 @@
     "gatsby"
   ],
   "scripts": {
-    "develop": "gatsby develop -p 4000",
+    "develop": "gatsby develop -p 4000 -- --https",
     "deploy": "gatsby build --prefix-paths && gh-pages -d public",
     "start": "gatsby develop",
     "build": "gatsby build",
@@ -34,6 +34,8 @@
     "gatsby-plugin-react-helmet": "^3.10.0",
     "gatsby-plugin-sharp": "^2.14.4",
     "gatsby-plugin-sitemap": "^2.12.0",
+    "gatsby-plugin-webpack-bundle-analyzer": "^1.0.5",
+    "gatsby-remark-autolink-headers": "^4.9.0",
     "gatsby-source-filesystem": "^2.11.1",
     "gatsby-transformer-remark": "^4.8.0",
     "gatsby-transformer-sharp": "^2.12.1",
