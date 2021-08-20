@@ -7,7 +7,6 @@ import { MenuIcon, XIcon } from '@heroicons/react/outline'
 import logo from '../assets/img/signature.svg'
 import texture from '../assets/img/ice-age.png'
 
-
 const classNames = (...classes) => classes.filter(Boolean).join(' ')
 
 export default function NavBar() {
@@ -18,7 +17,14 @@ export default function NavBar() {
   ]
 
   return (
-    <Disclosure as='nav' className='bg-yellow-900 shadow-2xl fixed w-screen z-40' style={{ backgroundImage: `url("${texture}")`, boxShadow: "0 8px 9px -3px rgba(0,0,0,0.4)" }}>
+    <Disclosure
+      as='nav'
+      className='bg-yellow-900 shadow-2xl fixed w-screen z-40'
+      style={{
+        backgroundImage: `url("${texture}")`,
+        boxShadow: '0 8px 9px -3px rgba(0,0,0,0.4)',
+      }}
+    >
       {({ open }) => (
         <>
           <div className='max-w-7xl mx-auto px-2 sm:px-6 lg:px-8'>
