@@ -3,7 +3,6 @@ import React from 'react'
 import Embed from './ConvertKit/embed'
 // import Register from './register'
 
-
 export default function Footer() {
   return (
     <footer className='mt-8 bg-gradient-to-b from-yellow-50 via-yellow-400 to-yellow-500 p-4 text-center z-40'>
@@ -17,8 +16,10 @@ export default function Footer() {
         <span className='font-bold'>
           I&apos;ll send you my Top 10 &quot;most shared&quot; links of all time
         </span>
-        <br /><br />
-        Every Sunday, I send a brief summary of the most fascinating things I notice around the web
+        <br />
+        <br />
+        Every Sunday, I send a brief summary of the most fascinating things I
+        notice around the web
       </p>
 
       <Embed />

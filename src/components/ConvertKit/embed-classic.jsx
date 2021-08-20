@@ -1,6 +1,5 @@
 import React from 'react'
 
-
 export default function Embed() {
   return (
     <>
@@ -41,6 +40,7 @@ export default function Embed() {
               />
             </div>
             <button
+              type="submit"
               data-element='submit'
               className='formkit-submit formkit-submit'
             >

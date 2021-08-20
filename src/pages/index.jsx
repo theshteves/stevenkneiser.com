@@ -13,12 +13,19 @@ export default function IndexPage() {
         <h1 className='text-center'>
           stevenkneiser.com
           <br />
-          <span className='font-thin italic bg-gradient-to-tr from-yellow-50 via-yellow-50 to-yellow-500 inline-block transform -translate-y-1'>&nbsp; &nbsp; under construction &nbsp;</span>
+          <span className='font-thin italic bg-gradient-to-tr from-yellow-50 via-yellow-50 to-yellow-500 inline-block transform -translate-y-1'>
+            &nbsp; &nbsp; under construction &nbsp;
+          </span>
         </h1>
 
         <div className='my-8 text-9xl leading-none text-center'>
           🚧
-          <div className='inline-block ml-12' style={{ animation: "4s elevate infinite alternate" }}>🏗</div>
+          <div
+            className='inline-block ml-12'
+            style={{ animation: '4s elevate infinite alternate' }}
+          >
+            🏗
+          </div>
           <br />
           <span className='inline-block transform rotate-3'>🚧🚧</span>
         </div>

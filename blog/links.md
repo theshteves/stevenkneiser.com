@@ -2,6 +2,7 @@
 permalink: "/links"
 title: "Links\nWorth\nSpreading"
 date: "2021-06-28"
+draft: true
 ---
 
 Ted Talks™

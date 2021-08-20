@@ -20,7 +20,7 @@ default:
 # \____/\___/ \__,_|\___|
 #
 # 
-# all    - Do it all
+# all    - Do it all (except deploy)
 all: clean update build test run
 
 # build  - Build server
@@ -41,7 +41,8 @@ run: #migrate
 
 # test   - Run tests
 test:
-	bundle exec htmlproofer public --enforce-https \
+	npm run lint
+	#bundle exec htmlproofer public --enforce-https \
     --check-favicon --check-html --check-img-http --check-opengraph --check-sri \
     --url-swap "^(\/.*)|(http\:\/\/localhost\:4000\/):https://creatorswhocode.com/" \
     --url-ignore "https://fonts.gstatic.com/","https://pages.convertkit.com/"
@@ -50,3 +51,7 @@ test:
 update:
 	npm update
 	npm install
+
+# deploy - Upload to production servers
+deploy:
+	npm run deploy
