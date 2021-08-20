@@ -16,6 +16,16 @@ module.exports = {
         trackingId: 'GTM-W5G9T6W',
       },
     },
+    {
+      resolve: "gatsby-plugin-google-tagmanager",
+      options: {
+        id: "GTM-W5G9T6W",
+        includeInDevelopment: false,
+        defaultDataLayer: { platform: "gatsby" },
+        routeChangeEventName: "gatsby-route-change",
+        enableWebVitalsTracking: true,
+      },
+    },
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sitemap',
     {
@@ -100,7 +110,6 @@ module.exports = {
         },
       },
     },
-    'gatsby-plugin-react-helmet',
     'gatsby-plugin-build-date',
   ],
   flags: {
