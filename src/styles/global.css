@@ -26,7 +26,7 @@ main {
   */
 }
 
-h1, h2, h3, h4, h5, h6 { @apply my-8 font-bold text-xl leading-loose text-gray-800; scroll-margin-top: 6rem; }
+h1, h2, h3, h4, h5, h6 { @apply mt-16 mb-8 font-bold text-xl leading-loose text-gray-800; scroll-margin-top: 7rem; }
 h1 { @apply font-bold text-4xl sm:text-6xl lg:text-8xl; }
 
 p { @apply my-4 text-lg leading-relaxed text-gray-500; }
@@ -136,7 +136,13 @@ figure {
 }
 
 /* Path stubborn plugin */
-.markdown-header > .markdown-header-link { @apply visible; }
+.markdown-header > .markdown-header-link {
+  background-image: url("../assets/img/thumbtack.webp");
+  transform: translate(2rem, -2.5rem) rotate(70deg);
+  width: 2.8rem;
+  @apply bg-cover h-12;
+  /* @apply visible; */
+}
 
 #toc ul { @apply list-outside; }
 
