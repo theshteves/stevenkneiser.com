@@ -28,8 +28,9 @@ main {
 
 h1, h2, h3, h4, h5, h6 { @apply mt-16 mb-8 font-bold text-xl leading-loose text-gray-800; scroll-margin-top: 7rem; }
 h1 { @apply font-bold text-4xl sm:text-6xl lg:text-8xl; }
+h2 { @apply font-bold text-2xl sm:text-4xl lg:text-6xl; }
 
-p { @apply my-4 text-lg leading-relaxed text-gray-500; }
+p { @apply my-4 text-base sm:text-lg md:text-xl leading-relaxed text-gray-500; }
 a { @apply text-lg text-blue-800 underline; } /* visited:text-purple-600; } */
 ul { list-style-type: disc; @apply list-inside text-gray-500; }
 
@@ -148,4 +149,4 @@ figure {
 
 @keyframes hide { 0% { transform: translateY(-24rem) } }
 
-#toc { animation: 3s hide ease-in-out; }
+#toc { animation: 1s hide ease-in; }

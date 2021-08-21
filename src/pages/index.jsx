@@ -32,7 +32,7 @@ export default function IndexPage() {
       </figure>
 
       <div>
-        <h2 className='leading-snug'>
+        <h4 className='leading-snug'>
           Welcome to my new little home{' '}
           <span className='inline-block w-80 text-right'>
             ...on{' '}
@@ -47,7 +47,7 @@ export default function IndexPage() {
               <span className='filter blur'>ee</span>💥
             </span>
           </span>
-        </h2>
+        </h4>
 
         <figure className='flex my-8 text-4xl bg-gradient-to-bl from-yellow-50 via-yellow-50 to-yellow-300 w-max p-4 rounded items-center'>
           <div className='px-4'>👤 </div>

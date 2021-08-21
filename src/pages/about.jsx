@@ -31,10 +31,10 @@ export default function AboutPage() {
         <source src={fart} type='audio/mpeg' />
       </audio>
 
-      <h1 id='me-in-10-seconds'>Me in 10 seconds</h1>
+      <h2 id='me-in-10-seconds'>Me in 10 seconds</h2>
       <img src={coffee} alt='Coffee Splatter 6' className='w-1/4' />
 
-      <h1 id='me-in-10-minutes'>Me in 10 minutes</h1>
+      <h2 id='me-in-10-minutes'>Me in 10 minutes</h2>
       <img src={coffee2} alt='Coffee Splatter 7' className='w-1/2' />
 
       <figure className='flex my-8 text-4xl bg-gradient-to-bl from-yellow-50 via-yellow-50 to-yellow-300 w-max p-4 rounded items-center'>

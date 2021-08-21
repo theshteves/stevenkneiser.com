@@ -44,13 +44,13 @@ export default function NavBar() {
               <div className='flex-1 flex items-center justify-center sm:items-stretch sm:justify-start'>
                 <Link to='/' className='no-underline'>
                   <div className='flex-shrink-0 flex items-center border-black filter invert overflow-hidden'>
-                    <h2 className='font-light text-black'>Steven</h2>
+                    <p className='my-0 font-light text-2xl text-black'>Steven</p>
                     <img
                       className='block h-14 w-auto'
                       src={logo}
                       alt='stevenkneiser.com'
                     />
-                    <h2 className='-ml-7 font-light text-black'>Kneiser</h2>
+                    <p className='-ml-7 my-0 font-light text-2xl text-black'>Kneiser</p>
                   </div>
                 </Link>
 
@@ -66,7 +66,7 @@ export default function NavBar() {
                             isCurrent
                               ? 'bg-yellow-50 text-yellow-900 opacity-70'
                               : 'text-gray-300 hover:bg-yellow-700 hover:text-white',
-                            'px-3 py-2 rounded-md text-md font-medium'
+                            'px-3 py-2 rounded-md text-2xl font-medium'
                           ),
                         })}
                       >
@@ -80,7 +80,7 @@ export default function NavBar() {
           </div>
 
           <Disclosure.Panel className='sm:hidden'>
-            <div className='px-2 pt-2 pb-3 space-y-1'>
+            <div className='px-2 pt-2 pb-3 flex justify-around'>
               {nav.map((item) => (
                 <Link
                   to={item.href}
@@ -91,7 +91,7 @@ export default function NavBar() {
                       isCurrent
                         ? 'bg-yellow-50 text-yellow-900 opacity-70'
                         : 'text-gray-300 hover:bg-yellow-700 hover:text-white',
-                      'block px-3 py-2 rounded-md text-base font-medium'
+                      'block px-3 py-2 rounded-md text-2xl text-center font-medium'
                     ),
                   })}
                 >

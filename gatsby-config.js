@@ -53,30 +53,28 @@ module.exports = {
     },
     'gatsby-plugin-mdx',
     'gatsby-plugin-sharp',
+    'gatsby-remark-images',
     'gatsby-transformer-sharp',
     {
       resolve: 'gatsby-source-filesystem',
       options: {
         name: 'images',
-        path: './src/assets/img/',
+        path: `${__dirname}/src/assets/img/`,
       },
-      __key: 'images',
     },
     {
       resolve: 'gatsby-source-filesystem',
       options: {
         name: 'assets',
-        path: './src/assets/',
+        path: `${__dirname}/src/assets/`,
       },
-      __key: 'assets',
     },
     {
       resolve: 'gatsby-source-filesystem',
       options: {
         name: 'pages',
-        path: './src/pages/',
+        path: `${__dirname}/src/pages/`,
       },
-      __key: 'pages',
     },
     {
       resolve: 'gatsby-source-filesystem',

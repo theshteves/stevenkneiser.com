@@ -1,7 +1,7 @@
 ---
 permalink: /now
 title: "What I'm doing /now"
-date: "2021-08-19"
+date: "2021-08-21"
 draft: true
 ---
 
@@ -10,9 +10,7 @@ An always up-to-date list
 
 <!-- excerpt -->
 
-> **Come back next week<br />..._after_ I finish this**
-
-I _just_ launched the site
+> NOTE: I just opened this draft<br />_so browse at your own risk_<br /><p class='text-8xl'>☢️</p>
 
 <figure class='flex mt-24 mb-8 text-4xl bg-gradient-to-bl from-yellow-50 via-yellow-50 to-yellow-300 w-max p-4 rounded items-center'>
   <div class='px-4'>✍️ </div>
@@ -53,6 +51,23 @@ This update ultimately became a dedicated essay:
   <div class='px-4'>👨‍💻 </div>
   <a href='/blog/return-to-software'>My Return To Software</a>
 </figure>
+
+Here's how it's going:
+
+[<img height="418" src='/github-contrib-year.webp' alt='GitHub contribution graph' />](https://github.com/theshteves)
+
+For non-technical readers [on a phone],
+<br />this is an instantly-recognizable
+<br />GitHub "contribution graph":
+<br />it hints at how frequently
+<br />I shipped code last year
+<br />(almost daily)
+
+> _Disclosure:<br />because I value integrity:<br />...& I just like disclosures:<br />I was the developer of an open-source bot many many years ago that's gained some popularity over time to manipulate this contribution graph, but the effect was less than [a fifth?] of my output last year._
+> 
+> _I even held myself publicly accountable, replying every single day to [one long Twitter thread](https://twitter.com/theshteves/status/1277811840274358272) with what I shipped for that day (so even written contributions to another blog show up here). That streak is still going unbroken._
+> 
+> _In other words, the bot's contributions aren't even really filling out any down-periods [as they usually do]. The only visible down-periods in the first place come from days I shipped updates in advance._
 
 <br /><br />
 
@@ -102,9 +117,11 @@ We're approaching Day 400 of shipping public updates daily
 ## Ramping up writing to launch personal newsletter!
 
 That's right:
-_there's more where this came from!_
+<br />_there's more where this came from!_
 
 The more reading & studying I do, the more I have to write & share. I've gotten to an exciting point in my life where I'm developing more internally-consistent worldviews while mainting an openness to mystery & wonder. The only thing I really know is that no one really knows.
+
+<br />
 
 Let's build futures worth building
 
@@ -114,7 +131,9 @@ The funny thing is **I've always _been_ a researcher. I only recently made a hab
 What makes it even cooler is expressing it isn't just for free. I get compounding returns to forcibly clarifying my thoughts much further than before. The act of recalling information actually reinforces it & expressing my thoughts nudges me towards consuming higher-quality ideas.
 -->
 
-* TODO: opt-in form
+**Want in?**
+<br />or want more details?
+<br />**⬇️  Scroll to the very bottom of this page ⬇️**
 
 <br /><br />
 
@@ -205,4 +224,4 @@ Since only the smart, funny, & attractive people such as yourself made it this f
 
 <br />
 
-_This is a /now page inspired by [nownownow.com](https://nownownow.com)_
+_This is a /now page inspired by [nownownow.com](https://nownownow.com) & also [Steph Smith's dashboard](https://stephsmith.io/open) idea to publish more continuous data_
