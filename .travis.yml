@@ -1,28 +1,32 @@
-language: ruby
-rvm:
-  - 3
+language: node_js
+node_js:
+  - "stable"
 
-before_script:
- - chmod +x ./.travis.sh
-
-script: ./.travis.sh
+cache:
+  directories:
+  - node_modules
 
 branches:
   only:
   - master
-#  - gh-pages     # test the gh-pages branch
-#  - /pages-(.*)/ # test every branch which starts with "pages-"
 
-env:
-  global:
-  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
+#deploy:
+#  provider: pages
+#  skip-cleanup: true
+#  github-token: $GITHUB_TOKEN
+#  local_dir: public
+#  keep-history: true
+#  only:
+#    branch: master
 
-addons:
-  apt:
-    packages:
-    - libcurl4-openssl-dev
-
-cache: bundler
+before_script:
+  - "npm i -g gatsby --legacy-peer-deps"
+  - "npm i --legacy-peer-deps"
+script:
+  - "npm run build"
+  - "npm run lint"
+#after_success:
+#  - "npm run deploy"
 
 notifications:
   email: true
