@@ -1,7 +1,7 @@
 import React from 'react'
 import { openPopupWidget } from 'react-calendly'
 
-import calendlyStyles from './calendly.module.css'
+import * as calendlyStyles from './calendly.module.css'
 import theshteves from '../assets/img/theshteves-transparent.webp'
 
 export default function Calendlyt() {

@@ -40,7 +40,7 @@ export default function Embed() {
               />
             </div>
             <button
-              type="submit"
+              type='submit'
               data-element='submit'
               className='formkit-submit formkit-submit'
             >

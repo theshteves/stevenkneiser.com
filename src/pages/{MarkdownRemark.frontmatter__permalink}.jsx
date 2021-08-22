@@ -33,11 +33,12 @@ export default function Template({ data }) {
         <p className='font-mono my-0'>
           Last updated {date}
           <br />
-          {timeToRead}-min read
+          {timeToRead}
+          -min read
         </p>
       </div>
 
-      { tableOfContents ? <TableOfContents contents={tableOfContents} /> : null }
+      {tableOfContents ? <TableOfContents contents={tableOfContents} /> : null}
 
       {/* TODO: ToC
       <div className="postit bg-yellow-300">

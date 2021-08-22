@@ -1,8 +1,7 @@
-import {env } from 'process'
+import { env } from 'process'
 
 import React from 'react'
 import Helmet from 'react-helmet'
-
 
 export default function Head() {
   const production = env.NODE_ENV === 'production'

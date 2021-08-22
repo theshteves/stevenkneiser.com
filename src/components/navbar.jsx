@@ -44,13 +44,17 @@ export default function NavBar() {
               <div className='flex-1 flex items-center justify-center sm:items-stretch sm:justify-start'>
                 <Link to='/' className='no-underline'>
                   <div className='flex-shrink-0 flex items-center border-black filter invert overflow-hidden'>
-                    <p className='my-0 font-light text-2xl text-black'>Steven</p>
+                    <p className='my-0 font-light text-2xl text-black'>
+                      Steven
+                    </p>
                     <img
                       className='block h-14 w-auto'
                       src={logo}
                       alt='stevenkneiser.com'
                     />
-                    <p className='-ml-7 my-0 font-light text-2xl text-black'>Kneiser</p>
+                    <p className='-ml-7 my-0 font-light text-2xl text-black'>
+                      Kneiser
+                    </p>
                   </div>
                 </Link>
 

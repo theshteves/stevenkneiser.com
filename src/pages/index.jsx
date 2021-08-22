@@ -43,8 +43,10 @@ export default function IndexPage() {
               ...internet
             </span>
             <span className='inline-block transform translate-y-48 rotate-90 translate-x-20'>
-              ...weee<span className='font-thin text-gray-400'>eeeeeeeeee</span>
-              <span className='filter blur'>ee</span>💥
+              ...weee
+              <span className='font-thin text-gray-400'>eeeeeeeeee</span>
+              <span className='filter blur'>ee</span>
+              💥
             </span>
           </span>
         </h4>
