@@ -20,8 +20,8 @@ branches:
 #    branch: master
 
 before_script:
-  - "npm i -g gatsby --legacy-peer-deps"
-  - "npm i --legacy-peer-deps"
+  - "npm i -g gatsby"
+  - "npm i"
 script:
   - "npm run build"
   - "npm run lint"
