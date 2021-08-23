@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{YXJp:function(n,e,t){"use strict";t.r(e),t.d(e,"default",(function(){return o}));var a=t("q1tI"),r=(t("Wbzz"),t("L12J"));function o(n){var e=n.data;return a.createElement(r.a,null,a.createElement("pre",{className:"font-mono"},JSON.stringify(e,null,2)))}}}]);
-//# sourceMappingURL=component---src-pages-data-jsx-ae18bd7d348294c7f40d.js.map
