@@ -1,5 +1,11 @@
 {
- "name": "App",
+ "short_name": "Kneiser",
+ "name": "Steven Kneiser",
+ "display": "standalone",
+ "start_url": "/",
+ "scope": "https://stevenkneiser.com/",
+ "theme_color": "#78350F",
+ "background_color": "#FFFBEB",
  "icons": [
   {
    "src": "\/ico\/android-icon-36x36.png",
@@ -32,8 +38,15 @@
    "density": "3.0"
   },
   {
+   "purpose": "maskable",
    "src": "\/ico\/android-icon-192x192.png",
    "sizes": "192x192",
+   "type": "image\/png",
+   "density": "4.0"
+  },
+  {
+   "src": "\/theshteves-transparent-512x512.png",
+   "sizes": "512x512",
    "type": "image\/png",
    "density": "4.0"
   }

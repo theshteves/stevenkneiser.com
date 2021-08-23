@@ -111,10 +111,10 @@ export default function Head({ title }) {
       />
 
       <link rel='manifest' href='/manifest.json' />
-      <meta name='theme-color' content='#fffbeb' />
+      <meta name='theme-color' content='#78350F' />
       {/* <meta name='theme-color' content='#ded5c4' /> */}
 
-      <meta name='msapplication-TileColor' content='#fffbeb' />
+      <meta name='msapplication-TileColor' content='#78350F' />
       {/* <meta name='msapplication-TileColor' content='#ded5c4' /> */}
       <meta name='msapplication-TileImage' content='/ico/ms-icon-144x144.png' />
     </Helmet>
