@@ -1,5 +1,4 @@
 import React from 'react'
-import Helmet from 'react-helmet'
 import { Link } from 'gatsby'
 
 import Layout from '../components/layout'
@@ -8,7 +7,7 @@ import construction from '../assets/img/construction.webp'
 
 export default function IndexPage() {
   return (
-    <Layout>
+    <Layout title="Hi, I'm Steven Kneiser">
       <figure className='py-8'>
         <h1 className='text-center'>
           stevenkneiser.com

@@ -24,3 +24,7 @@ Layout.propTypes = {
   children: PropTypes.arrayOf(PropTypes.element).isRequired,
   title: PropTypes.string,
 }
+
+Layout.defaultProps = {
+  title: 'stevenkneiser.com',
+}

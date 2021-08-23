@@ -9,7 +9,7 @@ import coffee2 from '../assets/img/coffee/coffee-splatter-7.png'
 
 // TODO: position as /start-here from / homepage
 export default function AboutPage() {
-  const play = (e) => {
+  const play = () => {
     document.getElementById('best-sfx').play()
   }
 

@@ -2,11 +2,15 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
 
-
 export default function Head({ title }) {
-  title = title || 'stevenkneiser.com'
-  const description = 'Steven Kneiser\'s little home on the internet'
-  const structured_data =  {"headline": title,"description": description,"@type":"WebPage","url":"stevenkneiser.com","@context":"https://schema.org"}
+  const description = "Steven Kneiser's little home on the internet"
+  const structuredData = {
+    headline: title,
+    description,
+    '@type': 'WebPage',
+    url: 'stevenkneiser.com',
+    '@context': 'https://schema.org',
+  }
 
   return (
     <Helmet>
@@ -20,13 +24,15 @@ export default function Head({ title }) {
 
       {/* General metadata */}
       <title>{title}</title>
-      <meta name="twitter:title" content={title} />
-      <meta property="og:title" content={title} />
-      <meta name="description" content={description} />
-      <meta name="twitter:description" content={description} />
-      <meta property="og:description" content={description} />
+      <meta name='twitter:title' content={title} />
+      <meta property='og:title' content={title} />
+      <meta name='description' content={description} />
+      <meta name='twitter:description' content={description} />
+      <meta property='og:description' content={description} />
 
-      <script type="application/ld+json">{JSON.stringify(structured_data)}</script>
+      <script type='application/ld+json'>
+        {JSON.stringify(structuredData)}
+      </script>
 
       {/*
       <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -106,19 +112,19 @@ export default function Head({ title }) {
 
       <link rel='manifest' href='/manifest.json' />
       <meta name='theme-color' content='#fffbeb' />
-      {/*<meta name='theme-color' content='#ded5c4' />*/}
+      {/* <meta name='theme-color' content='#ded5c4' /> */}
 
       <meta name='msapplication-TileColor' content='#fffbeb' />
-      {/*<meta name='msapplication-TileColor' content='#ded5c4' />*/}
-      <meta
-        name='msapplication-TileImage'
-        content='/ico/ms-icon-144x144.png'
-      />
+      {/* <meta name='msapplication-TileColor' content='#ded5c4' /> */}
+      <meta name='msapplication-TileImage' content='/ico/ms-icon-144x144.png' />
     </Helmet>
   )
 }
 
-
 Head.propTypes = {
   title: PropTypes.string,
+}
+
+Head.defaultProps = {
+  title: 'stevenkneiser.com',
 }
