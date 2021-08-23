@@ -1,19 +1,32 @@
-import { env } from 'process'
-
 import React from 'react'
+import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
 
-export default function Head() {
-  const production = env.NODE_ENV === 'production'
+
+export default function Head({ title }) {
+  title = title || 'stevenkneiser.com'
+  const description = 'Steven Kneiser\'s little home on the internet'
+  const structured_data =  {"headline": title,"description": description,"@type":"WebPage","url":"stevenkneiser.com","@context":"https://schema.org"}
 
   return (
     <Helmet>
+      <html lang='en' />
       <meta charset='utf-8' />
       <meta name='viewport' content='width=device-width, initial-scale=1' />
       <meta
         httpEquiv='Content-Security-Policy'
         content='upgrade-insecure-requests'
       />
+
+      {/* General metadata */}
+      <title>{title}</title>
+      <meta name="twitter:title" content={title} />
+      <meta property="og:title" content={title} />
+      <meta name="description" content={description} />
+      <meta name="twitter:description" content={description} />
+      <meta property="og:description" content={description} />
+
+      <script type="application/ld+json">{JSON.stringify(structured_data)}</script>
 
       {/*
       <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -103,4 +116,9 @@ export default function Head() {
       />
     </Helmet>
   )
+}
+
+
+Head.propTypes = {
+  title: PropTypes.string,
 }

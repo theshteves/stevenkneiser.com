@@ -1,5 +1,5 @@
 module.exports = {
-  siteMetadata: {
+  siteMetadata: { // NOTE: this data isn't doing anything. Query it through GraphQL
     siteUrl: 'https://stevenkneiser.com',
     title: 'Steven Kneiser',
     titleTemplate: 'SK - %s',
@@ -23,12 +23,6 @@ module.exports = {
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sitemap',
     {
-      resolve: 'gatsby-plugin-manifest',
-      options: {
-        icon: 'src/assets/ico/favicon-16x16.png',
-      },
-    },
-    {
       resolve: 'gatsby-transformer-remark',
       options: {
         "excerpt_separator": '<!-- excerpt -->',
@@ -46,8 +40,8 @@ module.exports = {
       }
     },
     'gatsby-plugin-mdx',
-    'gatsby-plugin-sharp',
     'gatsby-remark-images',
+    'gatsby-plugin-sharp',
     'gatsby-transformer-sharp',
     {
       resolve: 'gatsby-source-filesystem',
@@ -80,7 +74,6 @@ module.exports = {
     },
   ],
   flags: {
-    DEV_SSR: false
-  }
-
+    DEV_SSR: true,
+  },
 }
