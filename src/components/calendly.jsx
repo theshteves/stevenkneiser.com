@@ -4,7 +4,7 @@ import { openPopupWidget } from 'react-calendly'
 import * as calendlyStyles from './calendly.module.css'
 import theshteves from '../assets/img/theshteves-transparent.webp'
 
-export default function Calendlyt() {
+export default function Calendly() {
   const onClick = () => openPopupWidget('https://calendly.com/kneiser/30min')
 
   return (
