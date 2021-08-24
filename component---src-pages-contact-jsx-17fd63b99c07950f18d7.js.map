@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-contact-jsx-17fd63b99c07950f18d7.js","mappings":"gLAGe,SAASA,IACtB,OACE","sources":["webpack://steven-kneiser/./src/pages/contact.jsx"],"sourcesContent":["// inspired by sviers /contact\nimport React from 'react'\n\nexport default function ContactPage() {\n  return (\n    <p>hi</p>\n  )\n}\n"],"names":["ContactPage"],"sourceRoot":""}
