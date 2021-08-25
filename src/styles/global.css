@@ -183,3 +183,6 @@ figure {
 @keyframes hide { 0% { transform: translateY(-24rem) } }
 
 #toc { animation: 1s hide ease-in; }
+
+/* markdown quotes get nice left padding, but it's too aggressive when rendered as previews on post-it notes */
+.postit blockquote { @apply pl-0; }

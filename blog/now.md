@@ -5,27 +5,10 @@ date: "2021-08-21"
 draft: true
 ---
 
-An always up-to-date list
-<br />on my current objectives
+An always-up-to-date list
+<br />of my current objectives
 
 <!-- excerpt -->
-
-> NOTE: I just opened this draft<br />_so browse at your own risk_<br /><p class='text-8xl'>☢️</p>
-
-<figure class='flex mt-24 mb-8 text-4xl bg-gradient-to-bl from-yellow-50 via-yellow-50 to-yellow-300 w-max p-4 rounded items-center'>
-  <div class='px-4'>✍️ </div>
-  <a href="/blog">Return to /blog</a>
-</figure>
-
-<br />
-<br />
-<br />
-
-<img src="/coffee-splatter-9.png" alt="Coffee Splatter 9" style="width: 80%" />
-
-> TODO: automate "last updated" timestamp
-
-<br />
 
 ## Living in downtown Indianapolis
 

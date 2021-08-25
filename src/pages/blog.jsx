@@ -12,6 +12,7 @@ export const query = graphql`
           permalink
           title
           date(formatString: "MMMM Do 'YY")
+          draft
         }
         excerpt(format: HTML)
         timeToRead

@@ -5,7 +5,7 @@ import texture from '../assets/img/exclusive-paper.png'
 
 export default function Preview({ node }) {
   const { frontmatter, excerpt, timeToRead } = node
-  const { permalink, title, date } = frontmatter
+  const { permalink, title, date, draft } = frontmatter
 
   return (
     <div
@@ -18,7 +18,7 @@ export default function Preview({ node }) {
       }
     >
       <div
-        className='my-80 postit bg-yellow-300'
+        className={ draft ? 'my-80 postit bg-yellow-100' : 'my-80 postit bg-yellow-300' }
         style={{ backgroundImage: `url(${texture})` }}
       >
         <p className='my-1 text-left font-mono'>{date}</p>
@@ -27,9 +27,11 @@ export default function Preview({ node }) {
         </p>
 
         <Link to={permalink}>
-          <h2 className='text-3xl text-blue-700'>{title}</h2>
+          <h2 className={draft ? 'text-3xl text-gray-500' : 'text-3xl text-blue-600' }>{title}</h2>
         </Link>
         <div dangerouslySetInnerHTML={{ __html: excerpt }} />
+
+        { draft ? <p className='my-1 text-center font-mono font-bold'>[incomplete draft]</p> : null }
       </div>
     </div>
   )
