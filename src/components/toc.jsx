@@ -7,13 +7,17 @@ export default function TableOfContents({ contents }) {
   return (
     <div
       id='toc'
-      className='group hidden xl:block fixed right-0 mr-24 z-10 transform hover:-translate-y-96 transition duration-300'
-      style={{ bottom: '15%' }}
+      className='group hidden fixed right-0 -bottom-64 z-10 transform hover:-translate-y-96 transition duration-300 translate-x-1/2 translate-y-0' //xl:block
+      style={{
+          display: "none !important",
+          height: "800px",
+          width: "1014px",
+      }}
     >
       <img
-        className='absolute top-0 left-0 w-90 h-90'
+        className='absolute top-0 left-0 w-full h-full'
         style={{
-          transform: 'scale(2.5) translate(24%, 22%)',
+          transform: '',
           zIndex: '-10',
           borderRadius: '29%',
         }}
@@ -21,15 +25,14 @@ export default function TableOfContents({ contents }) {
         alt='magnifying glass'
       />
 
-      <p className='text-2xl font-bold text-center'>
+      <p className='text-2xl font-bold text-center overflow-hidden'>
         <span className='group-hover:hidden'>
-          Hover here
-          <br />
-          for{' '}
+          Hover here for{' '}
         </span>
+        <br />
         Table of Contents
       </p>
-      <div dangerouslySetInnerHTML={{ __html: contents }} />
+      <div className="absolute left-0 w-80 overflow-hidden" dangerouslySetInnerHTML={{ __html: contents }} />
     </div>
   )
 }

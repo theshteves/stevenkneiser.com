@@ -21,7 +21,7 @@ export default function IndexPage() {
           🚧
           <div
             className='inline-block ml-12'
-            style={{ animation: '4s elevate infinite alternate' }}
+            style={{ animation: '4s elevate infinite linear alternate' }}
           >
             🏗
           </div>
