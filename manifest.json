@@ -4,6 +4,7 @@
  "display": "standalone",
  "start_url": "/",
  "scope": "https://stevenkneiser.com/",
+ "prefer_related_applications": false,
  "theme_color": "#78350F",
  "background_color": "#FFFBEB",
  "icons": [
