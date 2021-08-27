@@ -13,7 +13,7 @@ This is my "Best Of":
 
 This list continues to evolve today & I'll continue to fight the temptation to bloat it over time. I may post other best-of's individually, but this is the home for my consistent top performers. I have a recency bias where I write about my most recent obsessions, but this is a home for sticky ideas that have withstood the test of more time (& my attention-span).
 
-On final review, this list is more US-centric than I'd prefer, so I encourage people to check out this [world map of the world by population](https://ourworldindata.org/world-population-cartogram){:target="\_blank"} & this [animated world map of twitter activity over one month (2013)](https://vimeo.com/347801005){:target="\_blank"}. The internet isn't just your country, so this map gives you  a better feel for who you'll be interacting with in the future.
+On final review, this list is more US-centric than I'd prefer, so I encourage people to check out this [world map of the world by population](https://ourworldindata.org/world-population-cartogram) & this [animated world map of twitter activity over one month (2013)](https://vimeo.com/347801005). The internet isn't just your country, so this map gives you  a better feel for who you'll be interacting with in the future.
 
 
 * [Attia on Longevity](#how-aging-will-kill-you-what-you-can-do-about-that)
@@ -21,7 +21,7 @@ On final review, this list is more US-centric than I'd prefer, so I encourage pe
 * [2 decades of Inflation](#2-decades-of-inflation)
 * [A case for optimism](#a-case-for-optimism)
 * [first, 10](#all-you-need-is-10)
-* tiny product is why
+* [Small Business 2.0](#small-business-20-revolution)
 * [Theory of Constraints](#theory-of-constraints)
 * [how software is eating the world](#how-software-is-eating-the-world)
 * maturing environmentalism <!---an old dog in environmentalism learned new tricks-->
@@ -36,7 +36,7 @@ On final review, this list is more US-centric than I'd prefer, so I encourage pe
 
 <br />
 
-## [How aging will kill you<br />& what you can do about that](https://youtu.be/vDFxdkck354?t=478){:target="\_blank"}
+## [How aging will kill you<br />& what you can do about that](https://youtu.be/vDFxdkck354?t=478)
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/vDFxdkck354?start=478" title="Peter Attia - Reverse engineered approach to human longevity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -61,7 +61,7 @@ training for the normal olympics.
 <br /><br />
 
 
-### [r/personalfinance flowchart](https://www.reddit.com/r/personalfinance/wiki/commontopics){:target="\_blank"}
+### [r/personalfinance flowchart](https://www.reddit.com/r/personalfinance/wiki/commontopics)
 
 _(Specific to the U.S.)_
 
@@ -84,7 +84,7 @@ The grass really is greener on the other side
 
 <br />
 
-I wrote recently about ["Whose Ladder Are You Climbing?"](https://creatorswhocode.com/blog/whose-ladder){:target="\_blank"} precisely because this ladder is the only one worth climbing (& the top of it is probably _way_ lower than you think)
+I wrote recently about ["Whose Ladder Are You Climbing?"](https://creatorswhocode.com/blog/whose-ladder) precisely because this ladder is the only one worth climbing (& the top of it is probably _way_ lower than you think)
 
 > _"How come there's no 'life essentials' class in high school??? I wish
 > someone had taught me earlier about budgeting, taxes, how to change a tire"_
@@ -114,7 +114,7 @@ Their words, not mine
 <br /><br />
 
 
-### [2 decades of inflation](https://en.wikipedia.org/wiki/Baumol%27s_cost_disease){:target="\_blank"}
+### [2 decades of inflation](https://en.wikipedia.org/wiki/Baumol%27s_cost_disease)
 
 _(Specific to the U.S.)_
 
@@ -127,7 +127,7 @@ You may be familiar
 but not every dollar is equal [in the way you thought],
 <br />so let's peak behind that curtain _...by sector_
 
-![Baumol's Cost Disease](/assets/img/cost-disease.webp){:style="width:100%"}
+![Baumol's Cost Disease](/assets/img/cost-disease.webp)
 
 Worth noting "average hourly wages"
 <br />isn't the same as _median_ hourly wages,
@@ -139,7 +139,7 @@ These are the waters you might not have realized you're swimming in. Outside of 
 <br /><br />
 
 
-### [A case for optimism](https://ourworldindata.org/wrong-about-the-world){:target="\_blank"}
+### [A case for optimism](https://ourworldindata.org/wrong-about-the-world)
 
 ALRIGHT! Now on to the fun stuff!
 
@@ -148,7 +148,7 @@ Include link to their world map by population instead of surface area. This woul
 <br /><br />
 
 
-### [How Software Is Eating The World](https://breakingsmart.com/en/season-1){:target="\_blank"}
+### [How Software Is Eating The World](https://breakingsmart.com/en/season-1)
 
 Let me be clear, this is a book-length collection of essays elaborating on the ideas of someone who invented the original, graphical web browser & has gone on to run one of the most successful venture capital firms funding countless software companies who lay the landscape for the world you live in today. While the lead writer may drop more SAT words than you've seen in a while, this is a masterful summary of how _...software is eating the world._
 
@@ -157,7 +157,7 @@ For all you "non-technical" folks who don't have Computer Science degrees, I'd c
 <br /><br />
 
 
-### [Theory of Constraints](https://fortelabs.co/blog/theory-of-constraints-101/){:target="\_blank"}
+### [Theory of Constraints](https://fortelabs.co/blog/theory-of-constraints-101/)
 
 This is an entire series of essays on a hidden gem of the manufacturing industry. People around me today in software probably don't know that "Agile" & agile methodologies are little more than a paintjob over this more timeless idea from a much less sexy industry (which is one reason they dressed it up in new clothes)
 
@@ -166,7 +166,7 @@ This is an entire series of essays on a hidden gem of the manufacturing industry
 <br /><br />
 
 
-### [All you need is 10](https://seths.blog/2009/04/first-ten/){:target="\_blank"}
+### [All you need is 10](https://seths.blog/2009/04/first-ten/)
 
 "but Global™ this! Macroeconomic™ that! Geopolitical™ these!"
 
@@ -206,7 +206,7 @@ BONUS: study his writing for a masterclass in simplicity (this blurb was longer 
 <br /><br />
 
 
-### [Everything Is A Remix™](https://www.everythingisaremix.info/watch-the-series){:target="\_blank"}
+### [Everything Is A Remix™](https://www.everythingisaremix.info/watch-the-series)
 
 Being original is overrated, but more importantly it's not realistic
 
@@ -215,13 +215,17 @@ Being original is overrated, but more importantly it's not realistic
 <br /><br />
 
 
-### [Small Business 2.0 Revolution](https://stackingthebricks.com/why-you-should-do-a-tiny-product-first/){:target="\_blank"}
+### [Small Business 2.0 Revolution](https://stackingthebricks.com/why-you-should-do-a-tiny-product-first/)
 
 Alright, this is second entrepreneurship one that repeatedly comes to mind as arguably the important concept
 
 <br /><br />
 
-### [Has The West "lost it"?](https://www.youtube.com/watch?v=T1AY9H89tTY){:target="\_blank"}
+### [Has The West "lost it"?](https://www.youtube.com/watch?v=T1AY9H89tTY)
+
+This provocative topic, even from someone on the other side of the world, comes from a place of deep cultural investment & admiration. He even majored in Western Philosophy!
+
+This is an important icebreaker on how the U.S. might best prepare for a future where it no longer  absolute #1 geopolitical force that it has been for many decades. 
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/T1AY9H89tTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -233,7 +237,7 @@ The other 95.75% of the world, not to mention the future, have narratives of the
 
 
 <!---
-### [Against Waldenponding](https://breakingsmart.substack.com/p/against-waldenponding){:target="\_blank"}
+### [Against Waldenponding](https://breakingsmart.substack.com/p/against-waldenponding)
 
 When's the last time you've heard this:
 
@@ -245,7 +249,7 @@ When's the last time you've heard this:
 -->
 
 
-### [You don't have to be local](https://sive.rs/local){:target="\_blank"}
+### [You don't have to be local](https://sive.rs/local)
 
 This was a simple article that tapped me at the right time: it gave me
 permission. This realization is slwowly dawning on people all over the world.
@@ -259,7 +263,7 @@ I just didn't realize I even had a choice
 <br /><br />
 
 
-### [The biggest name in environmentalism changed their mind on urbanization, nuclear energy, & more over a long lifetime](https://e360.yale.edu/features/stewart_brands_strange_trip_whole_earth_to_nuclear_power){:target="\_blank"}
+### [The biggest name in environmentalism changed their mind on urbanization, nuclear energy, & more over a long lifetime](https://e360.yale.edu/features/stewart_brands_strange_trip_whole_earth_to_nuclear_power)
 
 Although even millenials might not recognize his name, Stewart Brand [TODO]. He now prefers the term eco-pragmatist. We can't go back & we can't afford to slow innnnovations on the horizon. Even if you're a proud tree-hugger who thinks that _"industrial civilization has committed crimes, sins against nature, and retribution is coming"_ ...then he's a respectful, sympathetic voice who learned some hard lessons.
 
@@ -268,7 +272,7 @@ We all have something to learn from someone who has been on the frontier of the 
 <br /><br />
 
 
-### [Improve your Air Quality](https://dynomight.net/air/){:target="\_blank"}
+### [Improve your Air Quality](https://dynomight.net/air/)
 
 A data-driven rant on why you should care about Air Quality & what you should do about it
 
@@ -282,11 +286,11 @@ _I promptly chucked my ultrasonic dehumidifier out the window after reading this
 
 ### Quotes
 
-> _"Life can be much broader once you discover one simple fact:<br /><br />everything around you that you call life was made up by people that were no smarter than you. And you can change it, you can influence it...<br /><br />Once you learn that, you'll never be the same again."_ <br />--[Steve Jobs](https://www.youtube.com/watch?v=kYfNvmF0Bqw){:target="\_blank"}
+> _"Life can be much broader once you discover one simple fact:<br /><br />everything around you that you call life was made up by people that were no smarter than you. And you can change it, you can influence it...<br /><br />Once you learn that, you'll never be the same again."_ <br />--[Steve Jobs](https://www.youtube.com/watch?v=kYfNvmF0Bqw)
 
 ---
 
-> _"...in the day-to-day trenches of adult life, there is actually no such thing as atheism. There is no such thing as not worshipping. Everybody worships. The only choice we get is what to worship. And the compelling reason for maybe choosing some sort of god or spiritual-type thing to worship–be it JC or Allah, be it YHWH or the Wiccan Mother Goddess, or the Four Noble Truths, or some inviolable set of ethical principles–is that pretty much anything else you worship will eat you alive."_ <br />--David Foster Wallace, [This is Water](https://fs.blog/2012/04/david-foster-wallace-this-is-water/){:target="\_blank"}
+> _"...in the day-to-day trenches of adult life, there is actually no such thing as atheism. There is no such thing as not worshipping. Everybody worships. The only choice we get is what to worship. And the compelling reason for maybe choosing some sort of god or spiritual-type thing to worship–be it JC or Allah, be it YHWH or the Wiccan Mother Goddess, or the Four Noble Truths, or some inviolable set of ethical principles–is that pretty much anything else you worship will eat you alive."_ <br />--David Foster Wallace, [This is Water](https://fs.blog/2012/04/david-foster-wallace-this-is-water/)
 
 ---
 
