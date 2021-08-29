@@ -1,42 +1,66 @@
 ---
-permalink: "/links2"
-title: "Links\nWorth\nSpreading"
+permalink: "/links"
+title: "Links Worth Spreading"
 date: "2021-06-28"
 ---
 
-[⇒ / (back home)](/)
+Ted Talks™
+<br />are for Ideas Worth Spreading
 
-_Last Updated: {{ site.time | date: "%B %d, %Y" }}_
+This list of mine
+<br />is for Links Worth Spreading
 
-This is my "Best Of":
-<br />my running list of links shared most
+<!-- excerpt -->
+<br />
 
-This list continues to evolve today & I'll continue to fight the temptation to bloat it over time. I may post other best-of's individually, but this is the home for my consistent top performers. I have a recency bias where I write about my most recent obsessions, but this is a home for sticky ideas that have withstood the test of more time (& my attention-span).
 
-On final review, this list is more US-centric than I'd prefer, so I encourage people to check out this [world map of the world by population](https://ourworldindata.org/world-population-cartogram) & this [animated world map of twitter activity over one month (2013)](https://vimeo.com/347801005). The internet isn't just your country, so this map gives you  a better feel for who you'll be interacting with in the future.
+This list continues to evolve today & I still fight the temptation to bloat it over time. I publish smaller best-of's, but **this is a permanent home for my most shared links.** There's enough recency bias on the worldwide web. These ideas have withstood the test of [my] time (...& attention-span).
 
+> NOTE: looking back, this list naturally ended up more US-centric than I'd prefer. Check out this [world map scaled by population](https://ourworldindata.org/world-population-cartogram) & this [animated world map of twitter activity over one month (2013)](https://vimeo.com/347801005) _...only one channel & in 2013!_ **The internet isn't just your country.** It's practically one of its own. Those visualizations will give you a better feel for your fellow citizens of the web who you'll bump into more of each year.
+
+<div class="w-full text-center text-8xl">🌎🌍🌏</div>
+
+Like it or not,
+<br />we're all stuck on the same spaceship! <span class="w-full text-center text-8xl">🚀</span>
+
+<br /><br />
+
+
+## Table of Contents
+
+**On Health:**
 
 * [Attia on Longevity](#how-aging-will-kill-you-what-you-can-do-about-that)
-* [r/personalfinance flowchart](#rpersonalfinance-flowchart)
+* [A rant on air quality]
+* [You don't have to be local](#you-dont-have-to-be-local)
+
+<br />
+
+**On Wealth:**
+
+* [If you did nothing else with money](#rpersonalfinance-flowchart)
 * [2 decades of Inflation](#2-decades-of-inflation)
-* [A case for optimism](#a-case-for-optimism)
-* [first, 10](#all-you-need-is-10)
+* [First, 10](#all-you-need-is-10)
 * [Small Business 2.0](#small-business-20-revolution)
 * [Theory of Constraints](#theory-of-constraints)
-* [how software is eating the world](#how-software-is-eating-the-world)
-* maturing environmentalism <!---an old dog in environmentalism learned new tricks-->
+
+<br />
+
+**On Progress:**
+
+* [How software is eating the world](#how-software-is-eating-the-world)
+* [A case for optimism](#a-case-for-optimism)
 * former UN ambassador for singapore on the ASEAN miracle vs The West
+* maturing environmentalism <!---an old dog in environmentalism learned new tricks-->
 * [Everything Is A Remix™](#everything-is-a-remix)
-* [You don't have to be local](#you-dont-have-to-be-local)
-* air quality
-* [memorable quotes](#quotes)
+* [Memorable quotes](#memorable-quotes)
 
 
 ---
 
 <br />
 
-## [How aging will kill you<br />& what you can do about that](https://youtu.be/vDFxdkck354?t=478)
+### [How aging will kill you<br />& what you can do about that](https://youtu.be/vDFxdkck354?t=478)
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/vDFxdkck354?start=478" title="Peter Attia - Reverse engineered approach to human longevity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -170,9 +194,13 @@ This is an entire series of essays on a hidden gem of the manufacturing industry
 
 "but Global™ this! Macroeconomic™ that! Geopolitical™ these!"
 
-Good news! You can build a calm life in your own backyard. This is calm amidst the storm. **This is soothing wisdom from an age of distraction**.
+Good news! You can build a calm life in your own backyard. This is calm amidst the storm. **This is soothing wisdom from an age of distraction**. With today's absurd marketing potential via the Internet, there's this seductive incentive to just try to extract a tiny value out of lots of people, even millions (e.g. living comfortably on YouTube Ad revenue from millions of views, living comfortably on App Store revenue from millions of $.49 downloads).
 
-In an era of infinite leverage, it's a seductive fantasy to try to extract a tiny value out of lots of people, even millions.
+> _"Just because you can doesn't mean you should"_
+
+Don't skip the line by providing pennies of value to some when  you can provide immense value to
+
+<br />
 
 Seth is a master of moderation
 <br />with a focus on generosity
@@ -181,7 +209,7 @@ Seth is a master of moderation
 He doesn't "try to change the world"
 <br />He just shows up every day
 
-After 5 years of consuming every thoughtpiece that gives the faintest smell of entrepreneurship, this is one of my top 5, it came to mind second. What makes it better than any other though is raw simplicity. Unlike the others, this is the most timeless. It will never go out of style. It doesn't have any prerequisites. It doesn't even give you permission to procrastinate by reading another follow-up article.
+After 5 years of consuming every thoughtpiece that gives the faintest smell of entrepreneurship, this is my #2. Only #2 because what it lacks in length & detail is made up for in density & a meditative simplicity. Unlike the others, this is the most timeless. It will never go out of style. It doesn't have any prerequisites. It doesn't even give you permission to procrastinate by reading another follow-up article.
 
 First, 10.
 <br />& they'll take it from there
@@ -190,18 +218,25 @@ First, 10.
 When is it good enough?
 
 When you can stop pushing
-because they've started pulling
-because they're getting value from you
+<br />because they've started pulling
+<br />because they like you _that much_
 
 <br />
 
-Create for 10, not 10,000
+**Create for 10, not 10,000**
 
 First, 10.
 <br />& they'll take it from there
 <br />but only once your stuff is good enough
 
-BONUS: study his writing for a masterclass in simplicity (this blurb was longer than his average post)
+Don't try to skip ahead in line:
+you could scale to 10,000 casual fans
+but start by WOW'ing just 10 before you bother
+
+By virtue of your work ethic,
+you just might stumble on the right idea
+
+BONUS: study his writing for a masterclass in simplicity (this blurb was much longer than his average post)
 
 <br /><br />
 
@@ -217,13 +252,21 @@ Being original is overrated, but more importantly it's not realistic
 
 ### [Small Business 2.0 Revolution](https://stackingthebricks.com/why-you-should-do-a-tiny-product-first/)
 
-Alright, this is second entrepreneurship one that repeatedly comes to mind as arguably the important concept
+If [First, 10](#all-you-need-is-10) was my #2 favorite "entrepreneurship" read, then what could possibly be #1?
+
+Where that previous one stands the  test of time, this one makes up for in specificity ...even though this window of opportunity has a little more of a time limit.
 
 <br /><br />
 
+
 ### [Has The West "lost it"?](https://www.youtube.com/watch?v=T1AY9H89tTY)
 
-This provocative topic, even from someone on the other side of the world, comes from a place of deep cultural investment & admiration. He even majored in Western Philosophy!
+This provocative talk is a masterclass in persuasion. I expect no less eloquence from someone who studied Western Philosophy. Don't let the title decieve you: this ice-breaker comes from a place of deep cultural & admiration.
+
+...& more importantly, from a well-connected UN ambassador on the other side of the world. If you weren't aware, Singapore is an incomparably tiny city-state that could not be more embedded into global trade. If you're American, I doubt you could name more people on one hand that are more immersed in current geopolitics.
+
+This is a cold shower
+<br />This is a wake-up call
 
 This is an important icebreaker on how the U.S. might best prepare for a future where it no longer  absolute #1 geopolitical force that it has been for many decades. 
 
@@ -284,7 +327,7 @@ _I promptly chucked my ultrasonic dehumidifier out the window after reading this
 <br /><br />
 
 
-### Quotes
+### Memorable Quotes
 
 > _"Life can be much broader once you discover one simple fact:<br /><br />everything around you that you call life was made up by people that were no smarter than you. And you can change it, you can influence it...<br /><br />Once you learn that, you'll never be the same again."_ <br />--[Steve Jobs](https://www.youtube.com/watch?v=kYfNvmF0Bqw)
 
@@ -298,8 +341,3 @@ _I promptly chucked my ultrasonic dehumidifier out the window after reading this
 > knows: I neither know nor think that I know.<br /><br />In this latter particular,
 > then, I seem to have slightly the advantage of him..."_ <br />--Socrates (not
 > in English though) <br />... --Plato (as documented in his "Apology") <br />... ... --Michael Scott
-
-<br /><br />
-
-
-[⇒ / (back home)](/)
