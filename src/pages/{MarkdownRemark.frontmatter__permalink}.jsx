@@ -1,6 +1,7 @@
 import React from 'react'
 import { graphql, Link } from 'gatsby'
 
+import Poke from '../components/Pageclip/poke'
 import Layout from '../components/layout'
 import TableOfContents from '../components/toc'
 
@@ -45,7 +46,9 @@ export default function Template({ data }) {
             <p>This is an incomplete draft<br /><em>so browse at your own risk</em><br /></p><p className="text-8xl">☢️</p>
           </blockquote>
 
-          <figure className='flex mb-16 text-4xl bg-gradient-to-bl from-yellow-50 via-yellow-50 to-yellow-300 w-max p-4 rounded items-center'>
+          {/*<Poke />*/}
+
+          <figure className='flex mb-16 text-2xl bg-gradient-to-bl from-yellow-50 via-yellow-50 to-yellow-300 w-max p-4 rounded items-center'>
             <div className='px-4'>✍️ </div>
             <Link to="/blog">Return to /blog</Link>
           </figure> 
@@ -65,7 +68,7 @@ export default function Template({ data }) {
 
       <div dangerouslySetInnerHTML={{ __html: html }} />
 
-      <figure className='flex mt-24 mb-8 text-4xl bg-gradient-to-bl from-yellow-50 via-yellow-50 to-yellow-300 w-max p-4 rounded items-center'>
+      <figure className='flex mt-24 mb-8 text-2xl bg-gradient-to-bl from-yellow-50 via-yellow-50 to-yellow-300 w-max p-4 rounded items-center'>
         <div className='px-4'>✍️ </div>
         <Link to='/blog'>Return to /blog</Link>
       </figure>

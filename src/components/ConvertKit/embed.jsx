@@ -21,7 +21,7 @@ export default function Embed() {
         data-format='inline'
         data-version='5'
         data-options={options}
-        min-width='400 500 600 700 800'
+        style={{ minWidth: '400 500 600 700 800' }}
       >
         <div data-style='clean'>
           <ul

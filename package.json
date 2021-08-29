@@ -13,7 +13,8 @@
     "clean": "gatsby clean",
     "lint": "eslint src/ --ext .js,.jsx",
     "lint:old": "npm run lint --ignore-path \".gitignore,public/*\"",
-    "lint:fix": "npm run lint -- --fix"
+    "lint:fix": "npm run lint -- --fix",
+    "refresh": "curl -X POST http://localhost:4000/__refresh"
   },
   "dependencies": {
     "@headlessui/react": "^1.4.0",

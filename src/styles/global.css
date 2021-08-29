@@ -30,9 +30,11 @@ h1, h2, h3, h4, h5, h6 { @apply mt-16 mb-8 font-bold text-xl leading-loose text-
 h1 { @apply font-bold text-4xl sm:text-6xl lg:text-8xl; }
 h2 { @apply font-bold text-2xl sm:text-4xl lg:text-6xl; }
 
-p { @apply my-4 text-base sm:text-lg md:text-xl leading-relaxed text-gray-500; }
-a { @apply text-lg text-blue-800 underline; } /* visited:text-purple-600; } */
-ul { list-style-type: disc; @apply list-inside text-gray-500; }
+p, li { @apply my-4 text-base sm:text-lg md:text-xl leading-relaxed text-gray-500; }
+li { @apply my-1; }
+a { @apply text-blue-800 underline; } /* visited:text-purple-600; } */
+ul, ol { @apply text-left list-inside text-gray-500; }
+ul { list-style-type: disc; }
 
 blockquote { @apply pl-6 md:pl-12 xl:pl-24; }
 
@@ -186,3 +188,5 @@ figure {
 
 /* markdown quotes get nice left padding, but it's too aggressive when rendered as previews on post-it notes */
 .postit blockquote { @apply pl-0; }
+
+hr { @apply my-8; height: 12rem; background-image: url("../assets/img/coffee/coffee-splatter-6.png"); border-top-width: 0; background-position: center center; background-repeat: no-repeat; background-size: contain; }

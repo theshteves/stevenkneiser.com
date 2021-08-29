@@ -22,14 +22,14 @@ export default function Preview({ node }) {
         style={{ backgroundImage: `url(${texture})` }}
       >
         <p className='my-1 text-left font-mono'>{date}</p>
-        <p className='my-1 text-right font-mono -mt-8'>
-          ({timeToRead} {timeToRead === 1 ? 'minute' : 'minutes'})
+        <p className='my-1 text-right font-mono -mb-8'>
+          ({timeToRead}-min read)
         </p>
 
         <Link to={permalink}>
           <h2 className={draft ? 'text-3xl text-gray-500' : 'text-3xl text-blue-600' }>{title}</h2>
         </Link>
-        <div dangerouslySetInnerHTML={{ __html: excerpt }} />
+        <div className="text-left" dangerouslySetInnerHTML={{ __html: excerpt }} />
 
         { draft ? <p className='my-1 text-center font-mono font-bold'>[incomplete draft]</p> : null }
       </div>
