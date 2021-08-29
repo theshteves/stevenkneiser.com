@@ -1,6 +1,6 @@
 ---
 permalink: /blog/four-words
-title: "4 Words Are Enough"
+title: "4 words are enough"
 date:   "2019-05-28"
 ---
 Get to the point

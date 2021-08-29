@@ -1,20 +1,22 @@
 ---
 permalink: /blog/business-is-trust
-title:  "Business is trust"
+title:  "Business is Trust"
 date:   "2019-04-16"
 ---
-Which sounds most painful?
+Which sounds most intimidating?
 
 * applying for jobs out of reach
-* asking a stranger on a date
-* building a business that alone can sustain you
+* asking that stranger on a date
+* building a sustainable business
 
 <!-- excerpt -->
 
 These are transactions, and they require communication  
-If you want someone else's time or money, then you need to earn their trust 
+If you want someone else's time or money,  
+then you need to earn their trust 
 
-Trust is a communication cache: when we trust, we needn't say another word  
+> **Trust is a communication cache: when we trust, we needn't say another word**
+
 In love, trust brings comfort & security  
 In business, trust brings money & success
 
@@ -37,6 +39,6 @@ People only buy when they _trust_ me to solve their problem
 * How long did I take to build that trust?
 * How abruptly could I burn that trust for a quick buck?
 
-Just because we could doesn't mean we should  
+Just because you could doesn't mean you should  
 Ask yourself: "how can I earn more trust today?"  
 It's often as simple as showing up
