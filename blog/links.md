@@ -28,6 +28,10 @@ Like it or not,
 
 ## Table of Contents
 
+These clusters emerged organically, but don't feel the need to read this page in-order
+
+You can even skip my remarks & spam  "Open in New Tab"
+
 **On Health:**
 
 * [How aging will kill you <br />& what you can do about that](#how-aging-will-kill-you-br---what-you-can-do-about-that)
@@ -181,7 +185,7 @@ You may be familiar
 but not every dollar is equal [in the way you thought],
 <br />so let's peak behind that curtain _...by sector_
 
-<img class="h-full mx-auto" src="/img/2-decades-of-inflation.webp" alt="U.S. Price Changes (2000 to 2020)" />
+<img class="mx-auto" src="/img/2-decades-of-inflation.webp" alt="U.S. Price Changes (2000 to 2020)" />
 
 Worth noting "average hourly wages"
 <br />isn't the same as _median_ hourly wages,
