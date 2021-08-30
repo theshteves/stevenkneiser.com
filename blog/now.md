@@ -28,12 +28,14 @@ Don't forget awesome partner & 2 cats
 
 ## Returning to software
 
-This update ultimately became a dedicated essay:
+This update blossomed into an entire essay:
 
-<figure class='flex my-8 text-4xl bg-gradient-to-bl from-yellow-50 via-yellow-50 to-yellow-300 w-max p-4 rounded items-center'>
+<figure class='flex my-8 text-xl bg-gradient-to-bl from-yellow-50 via-yellow-50 to-yellow-300 w-max p-4 rounded items-center'>
   <div class='px-4'>👨‍💻 </div>
   <a href='/blog/return-to-software'>My Return To Software</a>
 </figure>
+
+<br />
 
 Here's how it's going:
 
@@ -46,11 +48,11 @@ For non-technical readers [on a phone],
 <br />I shipped code last year
 <br />(almost daily)
 
-> _Disclosure:<br />because I value integrity:<br />...& I just like disclosures:<br />I was the developer of an open-source bot many many years ago that's gained some popularity over time to manipulate this contribution graph, but the effect was less than [a fifth?] of my output last year._
+> _**Disclosure:<br />because I value integrity:**<br />...& I just like disclosures:<br />I was the developer of an open-source bot many many years ago that's gained some popularity over time to manipulate this contribution graph, but the effect was less than [a fifth?] of my output last year._
 > 
 > _I even held myself publicly accountable, replying every single day to [one long Twitter thread](https://twitter.com/theshteves/status/1277811840274358272) with what I shipped for that day (so even written contributions to another blog show up here). That streak is still going unbroken._
 > 
-> _In other words, the bot's contributions aren't even really filling out any down-periods [as they usually do]. The only visible down-periods in the first place come from days I shipped updates in advance._
+> _In other words, the bot's contributions aren't even filling out any down-periods [as they usually do]. The only visible down-periods in the first place come from days I shipped updates in advance or after midnight._
 
 <br /><br />
 
@@ -59,7 +61,7 @@ For non-technical readers [on a phone],
 
 Apparently I've been writing like I'm running out of time too. This was succinct but just a tad too long & distracting for this page:
 
-<figure class='flex my-8 text-4xl bg-gradient-to-bl from-yellow-50 via-yellow-50 to-yellow-300 w-max p-4 rounded items-center'>
+<figure class='flex my-8 text-xl bg-gradient-to-bl from-yellow-50 via-yellow-50 to-yellow-300 w-max p-4 rounded items-center'>
   <div class='px-4'>🤓 </div>
   <a href='/blog/liberal-arts'>I Was Wrong <span class="sm:hidden"><br /></span>About The Liberal Arts</a>
 </figure>
@@ -88,9 +90,12 @@ Before the pandemic, I had radically experimented with my nutrition over 2 years
 <br /><br />
 
 
-## Still Writing daily for CreatorsWhoCode
+## Writing daily for CreatorsWhoCode.com
 
-We're approaching Day 400 of shipping public updates daily
+Over 400 days of shipping daily public updates:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">ACCOUNTABILITY THREAD:<br>I will ship every day<br><br>Yesterday, I turned 24 🎉<br>Last year: immense growth, but private<br>This year: working &amp; learning in public</p>&mdash; Steven Kneiser 👨🏼‍🍳 (@theshteves) <a href="https://twitter.com/theshteves/status/1277811840274358272?ref_src=twsrc%5Etfw">June 30, 2020</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 * TODO: elaborate
 
@@ -102,11 +107,12 @@ We're approaching Day 400 of shipping public updates daily
 That's right:
 <br />_there's more where this came from!_
 
-The more reading & studying I do, the more I have to write & share. I've gotten to an exciting point in my life where I'm developing more internally-consistent worldviews while mainting an openness to mystery & wonder. The only thing I really know is that no one really knows.
+The more reading & studying I do, the more I have to write & share. I've gotten to an exciting point in my life where I'm revisiting some deeply-held worldviews while sustaining an openness to mystery & wonder. The only thing I really know is that I don't. & yet I've never wanted to know more.
+
 
 <br />
 
-Let's build futures worth building
+> Let's build futures worth building
 
 The funny thing is **I've always _been_ a researcher. I only recently made a habit of writing stuff down.** It forces me to take these ideas more seriously. Why not share it with the people most invested in me?
 
@@ -201,10 +207,10 @@ How you can help:
 
 # Let's catch up!
 
-Since only the smart, funny, & attractive people such as yourself made it this far, my calendar is particularly open for the next few months if you love chatting on the phone or Zoom. You can schedule time for me to call you soon if you click/tap on my picture in the bottom left! I don't know how long I can keep that up.
+_Since only the smart, funny, & attractive people such as yourself are still reading,_ my calendar is particularly open for the next few months if you love chatting on the phone or Zoom. You can schedule time for me to call you soon if you click/tap on my picture in the bottom left! I don't know how long I can keep that up.
 
-* TODO: include calendly component
+* TODO: [schedule here in the mean time](https://calendly.com/kneiser/30min)
 
-<br />
+---
 
-_This is a /now page inspired by [nownownow.com](https://nownownow.com) & also [Steph Smith's dashboard](https://stephsmith.io/open) idea to publish more continuous data_
+_This is a /now page inspired by [nownownow.com](https://nownownow.com) & also [Steph Smith's open dashboard idea](https://stephsmith.io/open) to publish more continuous data_

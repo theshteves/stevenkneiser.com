@@ -1,6 +1,6 @@
 ---
 permalink: /blog/liberal-arts
-title: "I Was Wrong About The Liberal Arts"
+title: "I was wrong about The Liberal Arts"
 date: "2021-07-19"
 ---
 

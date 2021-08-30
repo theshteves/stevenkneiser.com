@@ -1,6 +1,6 @@
 ---
 permalink: /blog/return-to-software
-title: "My Return To Software"
+title: "My Return to Software"
 date: "2021-08-15"
 draft: true
 ---
