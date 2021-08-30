@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksteven_kneiser=self.webpackChunksteven_kneiser||[]).push([[532],{6653:function(e,n,t){t.r(n),t.d(n,{default:function(){return a}});var r=t(7294),l=t(6406),u=t(6039);function a(){"undefined"!=typeof window&&window.location.href;return r.createElement(l.Z,null,r.createElement("h1",null,"A personal note",r.createElement("br",null),"from me to you",r.createElement("br",null),"every week"),r.createElement(u.Z,{className:"mx-0"}))}}}]);
+//# sourceMappingURL=component---src-pages-subscribe-jsx-221460c4f80da75934bf.js.map
