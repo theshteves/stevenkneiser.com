@@ -11,7 +11,7 @@ export const query = graphql`
         frontmatter {
           permalink
           title
-          date(formatString: "MMMM Do 'YY")
+          date(formatString: "MMMM Do, YYYY")
           draft
         }
         excerpt(format: HTML)

@@ -18,7 +18,7 @@ export default function Footer() {
         </span>{' '}
         &{' '}
         <span className='font-bold'>
-          I&apos;ll send you my Top 10
+          I&apos;ll send you my Top 11
           <span className='md:hidden'>
             <br />
           </span>{' '}
@@ -38,10 +38,11 @@ export default function Footer() {
       </p>
 
       <Embed />
-      <p className='italic font-extralight text-black mx-auto -mt-2 mb-8'>
-        Absolutely no spam, ever.
+
+      <p className='italic font-light text-black mx-auto -mt-2 mb-8'>
+        Absolutely no spam, ever
         <br />
-        Unsubscribe anytime.
+        Unsubscribe anytime
       </p>
       {/* <Register /> */}
     </footer>

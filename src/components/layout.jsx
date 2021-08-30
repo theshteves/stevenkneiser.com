@@ -11,7 +11,7 @@ export default function Layout({ children, title }) {
       <Head title={title} />
       <NavBar />
 
-      <main className='md:container md:mx-auto p-4 pt-20 min-h-screen'>
+      <main className='p-4 pt-20 min-h-screen md:container md:mx-auto'>
         {children}
       </main>
 

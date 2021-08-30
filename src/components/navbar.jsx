@@ -27,11 +27,11 @@ export default function NavBar() {
     >
       {({ open }) => (
         <>
-          <div className='max-w-7xl mx-auto px-2 sm:px-6 lg:px-8'>
+          <div className='px-4 md:container md:mx-auto'>
             <div className='relative flex items-center justify-between h-16'>
               <div className='absolute inset-y-0 left-0 flex items-center sm:hidden'>
                 {/* Mobile menu button */}
-                <Disclosure.Button className='inline-flex items-center justify-center p-2 rounded-md text-gray-300 hover:text-white hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-white'>
+                <Disclosure.Button className='inline-flex items-center justify-center p-2 rounded-md text-gray-300 hover:text-white hover:bg-pink-900 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-white'>
                   <span className='sr-only'>Open main menu</span>
                   {open ? (
                     <XIcon className='block h-6 w-6' aria-hidden='true' />
@@ -42,7 +42,7 @@ export default function NavBar() {
               </div>
 
               <div className='flex-1 flex items-center justify-center sm:items-stretch sm:justify-start'>
-                <Link to='/' className='no-underline'>
+                <Link to='/' className='no-underline px-4 rounded-md hover:bg-pink-900'>
                   <div className='flex-shrink-0 flex items-center border-black filter invert overflow-hidden'>
                     <p className='my-0 font-light text-2xl text-black'>
                       Steven
@@ -59,7 +59,7 @@ export default function NavBar() {
                 </Link>
 
                 <div className='hidden sm:block sm:ml-6'>
-                  <div className='flex space-x-4 items-center h-full pl-16'>
+                  <div className='flex space-x-4 items-center h-full pl-24'>
                     {nav.map((item) => (
                       <Link
                         to={item.href}
@@ -69,8 +69,8 @@ export default function NavBar() {
                           className: classNames(
                             isCurrent
                               ? 'bg-yellow-50 text-yellow-900 opacity-70'
-                              : 'text-gray-300 hover:bg-yellow-700 hover:text-white',
-                            'px-3 py-2 rounded-md text-2xl font-medium'
+                              : 'text-gray-100 hover:bg-pink-900 hover:text-white',
+                            'px-3 py-2 rounded-md text-2xl font-light no-underline'
                           ),
                         })}
                       >
@@ -94,8 +94,8 @@ export default function NavBar() {
                     className: classNames(
                       isCurrent
                         ? 'bg-yellow-50 text-yellow-900 opacity-70'
-                        : 'text-gray-300 hover:bg-yellow-700 hover:text-white',
-                      'block px-3 py-2 rounded-md text-2xl text-center font-medium'
+                        : 'text-gray-100 hover:bg-pink-900 hover:text-white',
+                      'block px-3 py-2 rounded-md text-2xl text-center font-light no-underline'
                     ),
                   })}
                 >

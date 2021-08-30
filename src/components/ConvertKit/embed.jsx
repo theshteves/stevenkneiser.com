@@ -16,7 +16,6 @@ export default function Embed() {
         action='https://app.convertkit.com/forms/2490056/subscriptions'
         className='seva-form formkit-form mx-auto'
         method='post'
-        data-sv-form='2490056'
         data-uid='e4d58f3a7c'
         data-format='inline'
         data-version='5'

@@ -38,10 +38,10 @@ export default function IndexPage() {
             <span className='inline-block transform translate-y-4 rotate-12'>
               ...the{' '}
             </span>
-            <span className='inline-block transform translate-y-14 rotate-45'>
+            <span className='inline-block transform translate-y-20 rotate-45'>
               ...internet
             </span>
-            <span className='inline-block transform translate-y-48 rotate-90 translate-x-20'>
+            <span className='inline-block transform translate-y-56 rotate-90 translate-x-28'>
               ...weee
               <span className='font-thin text-gray-400'>eeeeeeeeee</span>
               <span className='filter blur'>ee</span>
@@ -50,15 +50,15 @@ export default function IndexPage() {
           </span>
         </h2>
 
-        <figure className='flex my-8 text-4xl bg-gradient-to-bl from-yellow-50 via-yellow-50 to-yellow-300 w-max p-4 rounded items-center'>
+        <figure className='flex my-8 text-2xl bg-gradient-to-bl from-yellow-50 via-yellow-50 to-yellow-300 w-max p-4 rounded items-center'>
           <div className='px-4'>👤 </div>
           <Link to='/about'>More /about me</Link>
         </figure>
-        <figure className='flex my-8 text-4xl bg-gradient-to-bl from-yellow-50 via-yellow-50 to-yellow-300 w-max p-4 rounded items-center'>
+        <figure className='flex my-8 text-2xl bg-gradient-to-bl from-yellow-50 via-yellow-50 to-yellow-300 w-max p-4 rounded items-center'>
           <div className='px-4'>📆 </div>
           <Link to='/now'>What I’m doing /now</Link>
         </figure>
-        <figure className='flex my-8 text-4xl bg-gradient-to-bl from-yellow-50 via-yellow-50 to-yellow-300 w-max p-4 rounded items-center'>
+        <figure className='flex my-8 text-2xl bg-gradient-to-bl from-yellow-50 via-yellow-50 to-yellow-300 w-max p-4 rounded items-center'>
           <div className='px-4'>✍️ </div>
           <Link to='/blog'>Recent /blog writing</Link>
         </figure>
