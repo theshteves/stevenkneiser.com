@@ -18,7 +18,9 @@ export default function Preview({ node }) {
       }
     >
       <div
-        className={ draft ? 'my-80 postit bg-yellow-100' : 'my-80 postit bg-yellow-300' }
+        className={
+          draft ? 'my-80 postit bg-yellow-100' : 'my-80 postit bg-yellow-300'
+        }
         style={{ backgroundImage: `url(${texture})` }}
       >
         <p className='my-1 text-left font-mono'>{date}</p>
@@ -27,11 +29,24 @@ export default function Preview({ node }) {
         </p>
 
         <Link to={permalink}>
-          <h2 className={draft ? 'text-3xl text-gray-500' : 'text-3xl text-blue-600' }>{title}</h2>
+          <h2
+            className={
+              draft ? 'text-3xl text-gray-500' : 'text-3xl text-blue-600'
+            }
+          >
+            {title}
+          </h2>
         </Link>
-        <div className="text-left" dangerouslySetInnerHTML={{ __html: excerpt }} />
+        <div
+          className='text-left'
+          dangerouslySetInnerHTML={{ __html: excerpt }}
+        />
 
-        { draft ? <p className='my-1 text-center font-mono font-bold'>[incomplete draft]</p> : null }
+        {draft ? (
+          <p className='my-1 text-center font-mono font-bold'>
+            [incomplete draft]
+          </p>
+        ) : null}
       </div>
     </div>
   )

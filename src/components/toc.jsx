@@ -7,11 +7,11 @@ export default function TableOfContents({ contents }) {
   return (
     <div
       id='toc'
-      className='group hidden fixed right-0 -bottom-64 z-10 transform hover:-translate-y-96 transition duration-300 translate-x-1/2 translate-y-0' //xl:block
+      className='group hidden fixed right-0 -bottom-64 z-10 transform hover:-translate-y-96 transition duration-300 translate-x-1/2 translate-y-0' // xl:block
       style={{
-          display: "none !important",
-          height: "800px",
-          width: "1014px",
+        display: 'none !important',
+        height: '800px',
+        width: '1014px',
       }}
     >
       <img
@@ -26,13 +26,14 @@ export default function TableOfContents({ contents }) {
       />
 
       <p className='text-2xl font-bold text-center overflow-hidden'>
-        <span className='group-hover:hidden'>
-          Hover here for{' '}
-        </span>
+        <span className='group-hover:hidden'>Hover here for </span>
         <br />
         Table of Contents
       </p>
-      <div className="absolute left-0 w-80 overflow-hidden" dangerouslySetInnerHTML={{ __html: contents }} />
+      <div
+        className='absolute left-0 w-80 overflow-hidden'
+        dangerouslySetInnerHTML={{ __html: contents }}
+      />
     </div>
   )
 }
