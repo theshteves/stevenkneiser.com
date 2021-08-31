@@ -42,7 +42,10 @@ export default function NavBar() {
               </div>
 
               <div className='flex-1 flex items-center justify-center sm:items-stretch sm:justify-start'>
-                <Link to='/' className='no-underline px-4 rounded-md hover:bg-pink-900'>
+                <Link
+                  to='/'
+                  className='no-underline px-4 rounded-md hover:bg-pink-900'
+                >
                   <div className='flex-shrink-0 flex items-center border-black filter invert overflow-hidden'>
                     <p className='my-0 font-light text-2xl text-black'>
                       Steven

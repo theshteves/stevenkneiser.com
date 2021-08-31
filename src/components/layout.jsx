@@ -4,10 +4,15 @@ import React from 'react'
 import NavBar from './navbar'
 import Footer from './footer'
 import Head from './head'
+import background from '../assets/img/notebook-dark.png'
 
 export default function Layout({ children, title }) {
   return (
-    <div id='layout' className='w-screen'>
+    <div
+      id='layout'
+      className='w-screen bg-yellow-50'
+      style={{ backgroundImage: `url(${background})` }}
+    >
       <Head title={title} />
       <NavBar />
 

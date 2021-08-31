@@ -40,24 +40,34 @@ export default function Template({ data }) {
         </p>
       </div>
 
-      { draft ? 
+      {draft ? (
         <>
-          <blockquote className="-mt-8 font-mono text-center">
-            <p>This is an incomplete draft<br /><em>so browse at your own risk</em><br /></p><p className="text-8xl">☢️</p>
+          <blockquote className='-mt-8 font-mono text-center'>
+            <p>
+              This is an incomplete draft
+              <br />
+              <em>so browse at your own risk</em>
+              <br />
+            </p>
+            <p className='text-8xl'>☢️</p>
           </blockquote>
 
-          {/*<Poke />*/}
+          {/* <Poke /> */}
 
           <figure className='flex mb-16 text-2xl bg-gradient-to-bl from-yellow-50 via-yellow-50 to-yellow-300 w-max p-4 rounded items-center'>
             <div className='px-4'>✍️ </div>
-            <Link to="/blog">Return to /blog</Link>
-          </figure> 
+            <Link to='/blog'>Return to /blog</Link>
+          </figure>
 
-          <img src="/coffee-splatter-9.png" alt="Coffee Splatter 9" className="w-10/12" />
+          <img
+            src='/coffee-splatter-9.png'
+            alt='Coffee Splatter 9'
+            className='w-10/12'
+          />
         </>
-      : null }
+      ) : null}
 
-      { tableOfContents ? <TableOfContents contents={tableOfContents} /> : null }
+      {tableOfContents ? <TableOfContents contents={tableOfContents} /> : null}
 
       {/* TODO: ToC
       <div className="postit bg-yellow-300">
