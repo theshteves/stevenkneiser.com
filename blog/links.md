@@ -28,9 +28,11 @@ Like it or not,
 
 ## Table of Contents
 
-These clusters emerged organically, but don't feel the need to read this page in-order
+Jump around!
+<br />Spam "open in new tab"
+<br />No need to read top-to-bottom
 
-You can even skip my remarks & spam  "Open in New Tab"
+<br />
 
 **On Health:**
 
@@ -56,7 +58,7 @@ You can even skip my remarks & spam  "Open in New Tab"
 * [A case for optimism](#a-case-for-optimism)
 * [How software is eating the world](#how-software-is-eating-the-world)
 * [A Singaporean perspective on US-China relations](#a-singaporean-perspective-on-us-china-relations)
-* Hard-earned lessons in Environmentalism [locked]
+* Hard-earned lessons in Environmentalism [temporarily disabled]
 * [Memorable quotes](#memorable-quotes)
 
 
@@ -68,17 +70,16 @@ You can even skip my remarks & spam  "Open in New Tab"
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/vDFxdkck354?start=478" title="Peter Attia - Reverse engineered approach to human longevity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Don't worry, there's no strong-arm philosophy/product/pitch at the end here: just a survey of some exploratory research. This isn't a short-sweet tactical summary, but rather an interesting strategy that will make you reconsider typical 
+Don't worry, there's no strong-arm philosophy/product/pitch at the end here: just a survey of some exploratory research. This isn't a short-sweet tactical summary, but rather an interesting strategy that might make you reconsider your approach.
 
 Here's Peter, both an engineer & accomplished medical doctor, speaking to a room
 of medical researchers so don't expect to follow every detail of this
-discussion, but this is a great summary of some of the best current thinking on how to
+discussion. This is a great summary of some of the best current thinking on how to
 not let aging sneak up on you so much.
 
 Seeing an ordered list of aging-related disease based on likelihood really
-reframed how I think about taking care of my body. There's an old-person
-survival olympics that you have decades to train for & it looks nothing like
-training for the normal olympics.
+reframed how I think about taking care of my body. There's a "longevity olypmics" that you have decades to train for & it looks nothing like
+training for the normal olympics. You might not even aspire to live much longer than average, but you can start thinking about how to live better in the coming decades.
 
 > **_"The key to living longer [for now] is delaying the onset of chronic disease"_**
 
@@ -92,7 +93,7 @@ A data-driven rant on why you should care about air quality & a supplementary gu
 In an urbanizing world,
 <br />sensitivity to air pollution both outdoors & indoors will probably continue to grow more relevant
 
-_I promptly chucked my ultrasonic dehumidifier out the window after reading this_
+_I promptly chucked my ultrasonic humidifier out the window after reading this_
 
 <br /><br />
 
@@ -100,10 +101,10 @@ _I promptly chucked my ultrasonic dehumidifier out the window after reading this
 ### [You don't have to be local](https://sive.rs/local)
 
 This was a simple article that tapped me at the right time: it gave me
-permission. This realization is slwowly dawning on people all over the world.
-The more friends you make in different countries & timezones, the more you
-question how you distribute you time. ClubHouse/Twitter Spaces/etc shrink that
-distance down to your room. There are multiple conferences going on all around
+permission. This realization is slowly dawning on people all over the world.
+The more friends you make in different countries & timezones, the more **you
+question how you distribute your time**. The internet shrinks that
+distance between you & others down to your room. There are multiple conferences going on all around
 you in this city in the sky.
 
 I just didn't realize I even had a choice
@@ -115,7 +116,7 @@ I just didn't realize I even had a choice
 
 > _(Specific to the U.S.)_
 
-The art of investing is the art of decision-making. Every decision you make is a vote for the person you'll become. **This is the lazy-yet-informed approach to maximize your returns _relative to your risk & effort_**. Recall the tired saying "20% of effort that will yield you 80% of the results"
+The art of investing is the art of decision-making. Every decision you make is a vote for the person you'll become. **This is the lazy-yet-informed approach to maximize your returns _relative to your risk & effort_**. Recall that tired 80/20 saying about "the 20% of efforts that will yield you 80% of the results"?
 
 In my experience,
 <br />you'll take this 1 of 2 ways
@@ -173,7 +174,7 @@ Their words, not mine
 > _(Specific to the U.S.)_
 
 Like many things,
-<br />you might take an interest in economics
+<br />you might not take an interest in economics
 <br />but economics certainly takes an interest in you!
 
 This single graph explains so much of the current economy around us [in the U.S.]. **In the last 20 years, what goods & services have become more expensive dollar-for-dollar & by how much?**
@@ -192,7 +193,7 @@ Worth noting "average hourly wages"
 <br />since ~1971 there's been a
 <br />...rather controversial divide
 
-**Take a good, long look & study this graph**
+**Take a good long look at this graph**
 
 These are the waters you might not have realized you're swimming in. Outside of the "he said : she said" noise of day-to-day politics, this is the playing field that tells 80% of the story. We're all processors in the same societal super-computer grinding our gears towards better solutions to this problem.
 
@@ -201,9 +202,11 @@ These are the waters you might not have realized you're swimming in. Outside of 
 
 ### [All you need is 10](https://seths.blog/2009/04/first-ten/)
 
-"but Global™ this! Macroeconomic™ that! Geopolitical™ these!"
+> _"but Global™ this!
+> <br />Macroeconomic™ that
+> <br />Geopolitical™ these!"_
 
-Good news! You can build a calm life in your own backyard. This is calm amidst the storm. **This is soothing wisdom from an age of distraction**. With today's absurd marketing potential via the Internet, there's this seductive incentive to just try to extract a tiny value out of lots of people, even millions (e.g. living comfortably on YouTube Ad revenue from millions of views, living comfortably on App Store revenue from millions of $.49 downloads).
+Good news! You can build a calm life in your own backyard. This is about the calm amidst the storm. **This is soothing wisdom from an age of distraction**. With today's absurd marketing potential via the Internet, there's this seductive incentive to just try to extract a tiny value out of lots of people, even millions (e.g. living comfortably on YouTube Ad revenue from millions of views, living comfortably on App Store revenue from millions of $.49 downloads).
 
 > _"Just because you can doesn't mean you should"_
 
@@ -263,7 +266,7 @@ Where that previous one stands the  test of time, this one makes up for in speci
 
 ### [Theory of Constraints](https://fortelabs.co/blog/theory-of-constraints-101/)
 
-This is an entire series of essays on a hidden gem of the manufacturing industry. People around me today in software probably don't know that "Agile" & agile methodologies are little more than a paintjob over this more timeless idea from a much less sexy industry (which is one reason they dressed it up in new clothes)
+This is an entire series of essays on a hidden gem of the manufacturing industry. People around me today in software probably don't know that "Agile" & agile methodologies are little more than a paint-job over this more timeless idea from a much less sexy industry (which is one reason they dressed it up in new clothes)
 
 * TODO: elaborate (also Lindy Effect breakdown)
 
@@ -293,7 +296,7 @@ Social media algorithms benefit from a negativity bias, but is the world really 
 
 Don't lose the forest for the trees
 
-We certainly have no shortage of work left to do, but **"knowledge about what we have achieved leaves no place for cynicism"**. Our World in Data™ is a goldmine of empirical data. I linked the one I did because it felt most relevant but I encourage you to filter their articles for other topics you're interested in! I'll drop one more relevant link for [their longer compilation of data on Optimism & Pessism](https://ourworldindata.org/optimism-pessimism).
+We certainly have no shortage of work left to do, but **"knowledge about what we have achieved leaves no place for cynicism"**. Our World in Data™ is a goldmine of empirical data. I linked the one I did because it felt most relevant but I encourage you to filter their articles for other topics you're interested in! I'll drop one more relevant link for [their longer compilation of data on Optimism & Pessimism](https://ourworldindata.org/optimism-pessimism).
 
 <iframe src="https://ourworldindata.org/grapher/share-in-poverty-relative-to-different-poverty-thresholds?time=earliest..2017&country=~OWID_WRL" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
@@ -312,7 +315,7 @@ For all you "non-technical" folks who don't have Computer Science degrees, I'd c
 
 ### [A Singaporean perspective on US-China relations](https://www.youtube.com/watch?v=T1AY9H89tTY)
 
-This provocative talk is a masterclass in persuasion. Don't let the title decieve you: this ice-breaker comes from a place of deep cultural investment & admiration in Western Philosophy.
+This provocative talk is a masterclass in persuasion. Don't let the title deceive you: this ice-breaker comes from a place of deep cultural investment & admiration in Western Philosophy.
 
 ...& more importantly, from a well-connected UN ambassador on the other side of the world. If you weren't aware, the country of Singapore is a brilliant city-state that administers by some measures the busiest port in the world. For their size, they could not be more deeply embedded in the global network of trade, which gives them a unique outsider-yet-insider perspective on India, China, & the U.S. to name a few.
 
