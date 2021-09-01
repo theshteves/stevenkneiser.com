@@ -6,6 +6,8 @@ import texture from '../assets/img/exclusive-paper.png'
 export default function Preview({ node }) {
   const { frontmatter, excerpt, timeToRead } = node
   const { permalink, title, date, draft } = frontmatter
+  const dayOfYear = date.split(',')[0]
+  const year = date.slice(-4)
 
   return (
     <div
@@ -23,30 +25,39 @@ export default function Preview({ node }) {
         }
         style={{ backgroundImage: `url(${texture})` }}
       >
-        <p className='my-1 text-left font-mono'>{date}</p>
-        <p className='my-1 text-right font-mono -mb-8'>
-          ({timeToRead}-min read)
+        <p className='my-1 text-left font-mono transform -rotate-6 italic'>
+          {dayOfYear},{' '}
+          <span
+            className={
+              year === '2021'
+                ? ''
+                : 'inline-block rounded-lg px-1 text-white bg-yellow-600 italic'
+            }
+          >
+            {year}
+          </span>
         </p>
+
+        {draft ? (
+          <p className='mt-4 text-center font-mono'>[draft in progress]</p>
+        ) : null}
 
         <Link to={permalink}>
           <h2
             className={
-              draft ? 'text-3xl text-gray-500' : 'text-3xl text-blue-600'
+              draft
+                ? 'text-3xl text-gray-500 mt-0'
+                : 'text-3xl text-blue-700 mt-4'
             }
           >
             {title}
           </h2>
         </Link>
+
         <div
           className='text-left'
           dangerouslySetInnerHTML={{ __html: excerpt }}
         />
-
-        {draft ? (
-          <p className='my-1 text-center font-mono font-bold'>
-            [incomplete draft]
-          </p>
-        ) : null}
       </div>
     </div>
   )

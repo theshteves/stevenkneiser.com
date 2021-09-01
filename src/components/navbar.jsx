@@ -72,7 +72,7 @@ export default function NavBar() {
                           className: classNames(
                             isCurrent
                               ? 'bg-yellow-50 text-yellow-900 opacity-70'
-                              : 'text-gray-100 hover:bg-pink-900 hover:text-white',
+                              : 'text-gray-100 hover:bg-red-900 hover:text-white',
                             'px-3 py-2 rounded-md text-2xl font-light no-underline'
                           ),
                         })}
@@ -97,7 +97,7 @@ export default function NavBar() {
                     className: classNames(
                       isCurrent
                         ? 'bg-yellow-50 text-yellow-900 opacity-70'
-                        : 'text-gray-100 hover:bg-pink-900 hover:text-white',
+                        : 'text-gray-100 hover:bg-red-900 hover:text-white',
                       'block px-3 py-2 rounded-md text-2xl text-center font-light no-underline'
                     ),
                   })}
