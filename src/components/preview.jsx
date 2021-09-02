@@ -14,7 +14,7 @@ export default function Preview({ node }) {
       className={
         timeToRead % 2
           ? timeToRead === 1
-            ? 'self-center'
+            ? 'transform self-center'
             : 'transform -rotate-2 self-center'
           : 'transform rotate-1 self-center'
       }
@@ -39,15 +39,15 @@ export default function Preview({ node }) {
         </p>
 
         {draft ? (
-          <p className='mt-4 text-center font-mono'>[draft in progress]</p>
+          <p className='mt-4 text-right font-mono'>🔒 draft in progress</p>
         ) : null}
 
         <Link to={permalink}>
           <h2
             className={
               draft
-                ? 'text-3xl text-gray-500 mt-0'
-                : 'text-3xl text-blue-700 mt-4'
+                ? 'text-3xl text-gray-500 mt-4'
+                : 'text-3xl text-blue-700 mt-8'
             }
           >
             {title}
