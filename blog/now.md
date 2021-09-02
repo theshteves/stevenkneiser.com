@@ -1,20 +1,26 @@
 ---
 permalink: /now
 title: "What I'm doing /now"
-date: "2021-08-21"
-draft: true
+date: "2021-09-01"
 ---
 
-An always-up-to-date list
-<br />of my current objectives
+**My current focus & objectives**  
+(always up-to-date)
 
 <!-- excerpt -->
+<br />
 
-## Living in downtown Indianapolis
+## Living in Indianapolis
 
-_with an awesome partner & 2 cats_
+_in the heart of downtown<br />with an awesome partner & 2 cats_
 
-* TODO: elaborate
+> _"With $7 billion in tech company acquisitions and IPOs, **the most affordable housing market in the country, and a high production of software jobs**, Indianapolis (and Indiana as a whole) is uniquely positioned to grow."_
+> 
+> -- [TechPoint](https://techpoint.org/)
+>
+> (they're who put the city on my radar.<br />I met them at [Purdue's hackathon](https://boilermake.org/))
+
+Check out more data at [2018 Indianapolis Tech Census](https://powderkeg.com/indianapolis-tech-census/)
 
 <!---
 I love this place & it's definitely one of the most underrated urban centers in the Us (did I also mention affordable?), but that doesn't stop me from peaking for my personal ideal fitting my odd priorities. It's got almost everything, but the entire world is urbanizing & I'm keeping an eye out for exceptional satellite cities. I think remote work was largely overhyped because social media hasn't innovated enough to make online communities intimate enough. The worldwide web will ge tthere, but I believe very strongly we're not even in the Day 1 of the internet. 95% of "remote work" will recede because they don't have enough operational & cultural sophistication to support asynchronous work yet. The pandemic was an external force, but the shif tto remote work needs to be an internal suction because the tools are so good. They're great, but they're not there yet (e.g. Slack repulses the average employee way more than it pulls in with excitment). Once there are better online conference tools (I have no clue. It might take as much as mass adoption of more affordable next-gen augmented reality). Still on the search for the ideal city

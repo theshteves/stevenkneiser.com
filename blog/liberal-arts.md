@@ -1,6 +1,6 @@
 ---
 permalink: /blog/liberal-arts
-title: "I was wrong about The Liberal Arts"
+title: "I was wrong about the Liberal Arts"
 date: "2021-07-19"
 ---
 
@@ -10,9 +10,9 @@ To me,
 …but recently I’ve grown sick of New Content™ about tech, business, & self-help
 
 <!-- excerpt -->
+<br />
 
-
-**I’ve gotten obsessed with “old & boring non-fiction”**: history, philosophy, & especially “The Classics” [of the Western Canon]. Don't worry, I'm just as fascinated with Southeast Asia & regions/narratives outside Europe.
+**I’ve gotten obsessed with “old & boring non-fiction”**: history, philosophy, & especially “The Classics [of Western Thought]". Don't worry, I'm just as fascinated with regions & narratives that aren't north of the Mediterranean Sea.
 
 In other words,
 <br />I’m a STEM kid who finally “got” Liberal Arts
@@ -21,7 +21,7 @@ In other words,
 
 _Where were these interests growing up?_
 
-**I now embrace Liberal Arts as both less AND more important** than "Technical Arts" (e.g. software, UX design, digital marketing, etc). The Technical Arts are more important: young adults need that first taste of success when they practice the crafts of their time (crafts come & go every generation, if not decade). They need a profitable flywheel if they want to fly outside their parents' nest.
+**I now embrace Liberal Arts as both less AND more important** than "Technical Arts" (e.g. software, UX design, digital marketing, etc). The Technical Arts are more important: young adults need that first taste of success when they practice the crafts of their time (crafts come & go every generation). They need a profitable flywheel if they want to fly outside their parents' nest.
 
 Why are these two arts
 <br />even taught in the same years?

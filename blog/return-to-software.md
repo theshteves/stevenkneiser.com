@@ -1,6 +1,6 @@
 ---
 permalink: /blog/return-to-software
-title: "My Return to Software"
+title: "My return to software"
 date: "2021-08-15"
 draft: true
 ---
@@ -8,7 +8,7 @@ draft: true
 > _"but this time it's different..."_
 
 <!-- excerpt -->
-
+<br />
 
 <!---
 * TI-84
