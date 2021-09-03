@@ -38,7 +38,7 @@ This update blossomed into an entire essay:
 
 <figure class='flex my-8 text-xl bg-gradient-to-bl from-yellow-50 via-yellow-50 to-yellow-300 w-max p-4 rounded items-center'>
   <div class='px-4'>👨‍💻 </div>
-  <a href='/blog/return-to-software'>My Return To Software</a>
+  <a href='/blog/return-to-software'>My return to software</a>
 </figure>
 
 <br />
@@ -69,7 +69,7 @@ Apparently I've been writing like I'm running out of time too. This was succinct
 
 <figure class='flex my-8 text-xl bg-gradient-to-bl from-yellow-50 via-yellow-50 to-yellow-300 w-max p-4 rounded items-center'>
   <div class='px-4'>🤓 </div>
-  <a href='/blog/liberal-arts'>I Was Wrong <span class="sm:hidden"><br /></span>About The Liberal Arts</a>
+  <a href='/blog/liberal-arts'>I was wrong <span class="sm:hidden"><br /></span>about the Liberal Arts</a>
 </figure>
 
 <br /><br />
@@ -77,17 +77,19 @@ Apparently I've been writing like I'm running out of time too. This was succinct
 
 ## Finally exercising again 
 
-**January 2020**: I'm in the best shape of my life since high school varsity sports. I'm weight training for the first time in my life (& consistently at that). I've radically experimented with my diet & I'm not even unfalsifiably opinionated or cult-like about my particular approach to nutrition. My blood lipids have remarkably reversed course & I'm even underweight.
+**January 2020**: I'm in the best shape of my life since high school varsity sports. I'm weight training for the first time in my life (& consistently at that). I've radically experimented with my diet & I'm not even unfalsifiably opinionated or cult-like about my particular approach to nutrition. My blood lipids have remarkably reversed course & I'm ...underweight?
 
 _~ the-virus-that-shall-not-be-named knocks on the door ~_
 
-**January 2021**: I'm in the worst shape of my life. Maybe I should ask my doctor abou-- oh, those are just called stretch marks 🙃 ...at least now I can cut my own hair! _If only I could do more than shave it off_
+**January 2021**: I'm in the worst shape of my life. Maybe I should ask my doctor abou-- oh, those are just called stretch marks 😩
 
-**June 2021**: Alright, no more worst-case prepping. I can start grabbing fresh ingredients twice weekly & cooking again. Let's try out the ultra-simple Ferriss-style:
+**June 2021**: Alright, no more worst-case prepping. I don't need to efficiently speedrun grocery stores twice monthly anymore. I can start patiently grabbing fresh ingredients twice weekly & cooking again. Let's return to the ultra-simple Ferriss-style:
 
-* meat & veggies
+* meat & non-starch veggies
 * w/ a side of legumes & kettlebell swings
-* & 1 _helluva'_ glutinous cheat day per week
+* & 1 _helluva'_ glutinous cheat day per week <br />(_what?_ Yeah the variance is actually productive)<br />..._mostly_ productive 😉
+
+I'm already feeling like myself again
 
 <!---
 Before the pandemic, I had radically experimented with my nutrition over 2 years to evaporate my cholesterol problem & started weight training [freeweights of course] for the very first time in my life. After dialing in those habits, I consciously decided to halt everything in early February 2020 (even turned down 2 job offers! one after a FOUR HOUR phone negotiation where they made an exploitative offer that would've screwed me if the rumors about a pandemic were true & the other I actually accepting on condition that it was remote only for them to bait&switch me right before the start date) & optimize all of that to go complete survival mode &gotten into the best shape of my life post-pandemic. After a year of rationing on anything & everything that I can easily carry home that minimizes the number of trips I need to make to the grocery store, I've ballooned back to my all-time high weight. I don't know why it took me so long to recommit but as of last month I'm back on the horse & I feel [relatively] better about myself with each passing day
@@ -98,36 +100,47 @@ Before the pandemic, I had radically experimented with my nutrition over 2 years
 
 ## Writing daily for CreatorsWhoCode.com
 
-Over 400 days of shipping daily public updates:
+Over 400 days of shipping daily public updates on Twitter:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">ACCOUNTABILITY THREAD:<br>I will ship every day<br><br>Yesterday, I turned 24 🎉<br>Last year: immense growth, but private<br>This year: working &amp; learning in public</p>&mdash; Steven Kneiser 👨🏼‍🍳 (@theshteves) <a href="https://twitter.com/theshteves/status/1277811840274358272?ref_src=twsrc%5Etfw">June 30, 2020</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
-* TODO: elaborate
+<script defer src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 <br /><br />
 
 
-## Ramping up writing to launch personal newsletter!
+## Launched personal site & newsletter!
 
 That's right:
 <br />_there's more where this came from!_
 
-The more reading & studying I do, the more I have to write & share. I've gotten to an exciting point in my life where I'm revisiting some deeply-held worldviews while sustaining an openness to mystery & wonder. The only thing I really know is that I don't. & yet I've never wanted to know more.
+Why?
 
+I'm not here to advertise anything. My social network is increasingly global & I need a stable [digital] address to keep contact with friends. **My weekly newsletter is for anyone who wants to keep in-touch with me**, even when we can't justify a conversation every week or month.
+
+_The social accountability is a nice plus too_
+
+**Want in?**
+<br />**⬇️  Scroll to the very bottom of this page ⬇️**
+
+(If you stop enjoying it at any point, then just go ahead & unsubscribe: it's nothing personal. _Even if_ I happen to notice, I won't read into it.)
+
+<!---
+I don't feel a strong separation between people. I really don't care if we haven't met "in real life". make a distinction between friends I've met in-person & haven't. "very close friends" or who lives closer to me.
+-->
 
 <br />
 
-> Let's build futures worth building
+The more reading & studying I do, the more I have to write & share. I've gotten to an exciting point in my life where I'm revisiting some deeply-held worldviews while sustaining an openness to mystery & wonder. The only thing I really know is that I don't. & yet [I've never wanted to Know™ as badly as I do now](/blog/liberal-arts).
 
-The funny thing is **I've always _been_ a researcher. I only recently made a habit of writing stuff down.** It forces me to take these ideas more seriously. Why not share it with the people most invested in me?
+The funny thing is that _I've always been_ a researcher, without realizing it. I only recently made a habit of writing stuff down. It forces me to take my ideas more seriously & hold myself to a higher standard of rigor. **Why not share that with those most invested in me?** I believe everyone has something to teach us.
+
+> Let's build futures worth building
 
 <!---
 What makes it even cooler is expressing it isn't just for free. I get compounding returns to forcibly clarifying my thoughts much further than before. The act of recalling information actually reinforces it & expressing my thoughts nudges me towards consuming higher-quality ideas.
 -->
 
 **Want in?**
-<br />or want more details?
 <br />**⬇️  Scroll to the very bottom of this page ⬇️**
 
 <br /><br />
@@ -211,12 +224,10 @@ How you can help:
 
 <br /><br />
 
-# Let's catch up!
+## Let's catch up!
 
-_Since only the smart, funny, & attractive people such as yourself are still reading,_ my calendar is particularly open for the next few months if you love chatting on the phone or Zoom. You can schedule time for me to call you soon if you click/tap on my picture in the bottom left! I don't know how long I can keep that up.
-
-* TODO: [schedule here in the mean time](https://calendly.com/kneiser/30min)
+_Since only the smartest, funniest, & most attractive readers such as yourself read this far... my calendar is particularly open for the next few months if you love chatting on the phone or Zoom. You can [schedule time for me to call you soon](https://calendly.com/kneiser/30min) <span class="line-through">if you click/tap on my picture in the bottom left</span>! We'll see how long I can keep that up.
 
 ---
 
-_This is a /now page inspired by [nownownow.com](https://nownownow.com) & also [Steph Smith's open dashboard idea](https://stephsmith.io/open) to publish more continuous data_
+_This page was inspired by [nownownow.com](https://nownownow.com) & also [Steph Smith's open dashboard idea](https://stephsmith.io/open) to publish continuous data_
