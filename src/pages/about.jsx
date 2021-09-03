@@ -35,6 +35,8 @@ export default function AboutPage() {
       <h2 id='me-in-10-minutes'>Me in 10 minutes</h2>
       <img src={coffee2} alt='Coffee Splatter 7' className='w-1/2' />
 
+      <p>You can also find me on <a href="https://twitter.com/theshteves">Twitter</a><br />or write me a note at <a href="mailto:stevenkneiser@gmail.com">stevenkneiser@gmail.com</a></p>
+
       <figure className='flex my-8 text-2xl bg-gradient-to-bl from-yellow-50 via-yellow-50 to-yellow-300 w-max p-4 rounded items-center'>
         <div className='px-4'>📆 </div>
         <Link to='/now'>What I’m doing /now</Link>
