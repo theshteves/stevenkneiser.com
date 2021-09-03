@@ -21,12 +21,12 @@ In other words,
 
 _Where were these interests growing up?_
 
-**I now embrace Liberal Arts as both less AND more important** than "Technical Arts" (e.g. software, UX design, digital marketing, etc). The Technical Arts are more important: young adults need that first taste of success when they practice the crafts of their time (crafts come & go every generation). They need a profitable flywheel if they want to fly outside their parents' nest.
+**I now embrace Liberal Arts as both less AND more important** than "Technical Arts" (e.g. software, UX design, digital marketing, etc). The Technical Arts are more important: young adults need that first taste of success that comes from engaging with the crafts of their time. The only problem is that crafts have come & gone every generation since the Industrial Revolution. That's a good problem to have.
 
 Why are these two arts
 <br />even taught in the same years?
 
-Yet the Technical Arts offer only an antidote to dependency & individualism. What about engaging in the awe-inspiring world around us? One day--like it or not--we all must graduate to the stage of the Liberal Arts to join those timeless dialogues in a productive way.
+Sure, the Technical Arts offer an antidote to dependency, but what about engaging in the awe-inspiring world around us, with people nothing like us? One day--like it or not--we all must graduate to the stage of the Liberal Arts to join those timeless & borderless dialogues (at least productively).
 
 <br />
 

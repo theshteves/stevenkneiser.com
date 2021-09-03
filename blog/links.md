@@ -58,7 +58,7 @@ Jump around!
 * [A case for optimism](#a-case-for-optimism)
 * [How software is eating the world](#how-software-is-eating-the-world)
 * [A Singaporean perspective on US-China relations](#a-singaporean-perspective-on-us-china-relations)
-* Hard-earned lessons in Environmentalism [temporarily disabled]
+* Hard-earned lessons in Environmentalism [coming soon]
 * [Memorable quotes](#memorable-quotes)
 
 
@@ -68,7 +68,7 @@ Jump around!
 
 ### [How aging will kill you <br /> & what you can do about that](https://youtu.be/vDFxdkck354?t=478)
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/vDFxdkck354?start=478" title="Peter Attia - Reverse engineered approach to human longevity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/vDFxdkck354?start=478" title="Peter Attia - Reverse engineered approach to human longevity" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Don't worry, there's no strong-arm philosophy/product/pitch at the end here: just a survey of some exploratory research. This isn't a short-sweet tactical summary, but rather an interesting strategy that might make you reconsider your approach.
 
@@ -100,14 +100,17 @@ _I promptly chucked my ultrasonic humidifier out the window after reading this_
 
 ### [You don't have to be local](https://sive.rs/local)
 
-This was a simple article that tapped me at the right time: it gave me
+This simple thoughtpiece tapped me at the right time: it gave me
 permission. This realization is slowly dawning on people all over the world.
-The more friends you make in different countries & timezones, the more **you
-question how you distribute your time**. The internet shrinks that
-distance between you & others down to your room. There are multiple conferences going on all around
-you in this city in the sky.
+The more friends you make in different countries/timezones, the more people move closer to major urban hubs (especially ones far away from you), the more you **question how you distribute your time locally vs globally**.
 
-I just didn't realize I even had a choice
+The automobile reshaped America when it shrunk the time-distance between the opportunities of the city to further stretches of land (now suburbs). The internet shrinks that distance between you & everyone else down to within your room. **There are entire semi-public conferences going on as we speak all around you in this City in the Sky.** Perhaps you should network a little more around these Shops in the Sky?
+
+<br />
+
+**How would you approach the world differently if that window of opportunity was closing?** Thought experiment: if the internet as you knew it today only had another 10 years before fracturing, imploding, or getting monopolized by AI, would you reconsider your approach to this once in a planetary history opportunity?
+
+**Your favorite friends, artists, & partners in the whole literal world are at last reachable** up there. Is it not worth a few extra years searching? Distance is no longer an excuse. I just didn't realize I even had a choice.
 
 <br /><br />
 
@@ -177,7 +180,7 @@ Like many things,
 <br />you might not take an interest in economics
 <br />but economics certainly takes an interest in you!
 
-This single graph explains so much of the current economy around us [in the U.S.]. **In the last 20 years, what goods & services have become more expensive dollar-for-dollar & by how much?**
+This single graph explains so much of the current economy around us [in the U.S.]. **In the last 20 years, what goods & services have become relatively more costly & by how much?**
 
 You may be familiar
 <br />with _the general idea_ of inflation
@@ -206,11 +209,13 @@ These are the waters you might not have realized you're swimming in. Outside of 
 > <br />Macroeconomic™ that
 > <br />Geopolitical™ these!"_
 
-Good news! You can build a calm life in your own backyard. This is about the calm amidst the storm. **This is soothing wisdom from an age of distraction**. With today's absurd marketing potential via the Internet, there's this seductive incentive to just try to extract a tiny value out of lots of people, even millions (e.g. living comfortably on YouTube Ad revenue from millions of views, living comfortably on App Store revenue from millions of $.49 downloads).
+Good news! You can start in the calm of your small world.
+
+This is staying out of the storm. **This is soothing wisdom from & for the age of distraction**. With today's absurd marketing potential via the Internet, there's this seductive incentive to just try to extract a tiny value out of lots of people, even millions (e.g. living comfortably on YouTube Ad revenue from millions of views, living comfortably on App Store revenue from millions of $.49 downloads).
 
 > _"Just because you can doesn't mean you should"_
 
-Don't skip the line by providing pennies of value to some when  you can provide immense value to
+It's never that easy & it's the least rewarding. Don't try to skip the line by providing pennies of value to some. Find ways to provide immense value to the very few around you that you can. This is less about top-down spray-and-pray, but rather bottoms-up building your capacity to chew on bigger problems.
 
 <br />
 
@@ -257,9 +262,19 @@ BONUS: study his writing for a masterclass in simplicity (this blurb was much lo
 
 If [First, 10](#all-you-need-is-10) was my #2 favorite "entrepreneurship" read, then what could possibly be #1?
 
-Where that previous one stands the  test of time, this one makes up for in specificity ...even though this window of opportunity has a little more of a time limit.
+Where that previous one stands the test of time, this one makes up for in relevance & specificity ...even though this window of opportunity has a little more of a time limit.
 
-* TODO: elaborate
+<br />
+
+Looking back now, this essay had a profound effect on my career. It even thematically fits the layered meaning behind the name of my other blog, [Creators Who Code](https://creatorswhocode.com). Why? Because the best coders _know when NOT to code_. They should instead view themselves as more general creators who only code ...when it finally come to that.
+
+Oh, you know how to code?
+
+Good for you. Don't become a hammer that starts look at everything as if it were a nail. The biggest downside to software is often the release time especially for the first iteration.
+
+<br>
+
+Another huge takeaway that I completely forgot hit me from this: I did a complete 180 on my lifelong distaste for writing. My writing wasn't actually all that bad, but gosh was it like pulling teeth every time & always over-budget. I'm being way too harsh on my pre-adult writing, but I didn't enjoy it _until stirring on this essay_: writing done right can provide 95% of the value™ of software for 5% of the time investment! **Writing has a significantly shorter product iteration speed**, if not the shortest. Why start with software when I can churn out multiple written product tests in a day & see what sticks?
 
 <br /><br />
 
@@ -285,7 +300,7 @@ Being original is overrated
 They've continued the project,
 but I'm referring to the original 2015 version:
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/nJPERZDfyWc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/nJPERZDfyWc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" loading="lazy" allowfullscreen></iframe>
 
 <br /><br />
 
@@ -331,7 +346,7 @@ If that sounds absurd,
 <br />the [world map scaled by population](https://ourworldindata.org/world-population-cartogram)
 <br />at the very introduction of this page
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/T1AY9H89tTY?start=204" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/T1AY9H89tTY?start=204" title="YouTube video player" frameborder="0" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 It's a crucial conversation<br />because it just doesn't divide cleanly into the "No, we're the worst." "No, we're the best." culture wars & narratives inside the U.S.
 
@@ -355,9 +370,9 @@ When's the last time you've heard this:
 -->
 
 
-### Hard-earned lessons in Environmentalism [locked]
+### Hard-earned lessons in Environmentalism [coming soon]
 
-> _NOTE: temporarily disabled_
+Coming Soon: rethinking Green™ & notes on ecopragmatism from a lifetime
 
 <!---
 ### [Hard-earned lessons in Environmentalism](https://e360.yale.edu/features/stewart_brands_strange_trip_whole_earth_to_nuclear_power)
@@ -366,8 +381,9 @@ Although even millenials might not recognize his name, Stewart Brand [TODO]. He 
 
 We all have something to learn from someone who has been on the frontier of the environmental movement since the '60s & '70s. This is the only exception to my rule for this page because the exact link to him isn't as important as his perspective that has loomed over me.  There may be better summaries, but this short interview is a brief enough introduction to his current thinking.
 
-<br /><br />
 -->
+<br /><br />
+
 
 ### Memorable Quotes
 
