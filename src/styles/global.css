@@ -171,12 +171,21 @@ figure {
   mask-image: url("../assets/img/grunge-texture.png");
 }
 
-/* Path stubborn plugin */
+/* Patch stubborn markdown renderer */
+:not(:target) > .markdown-header.before:hover {
+  transform: translate(-100%, 0.5rem);
+  @apply transition;
+}
+
+:target > .markdown-header > .markdown-header-link {
+  transform: translate(2rem, -2.5rem) rotate(30deg);
+}
+
 .markdown-header > .markdown-header-link {
   background-image: url("../assets/img/thumbtack.webp");
   transform: translate(2rem, -2.5rem) rotate(70deg);
   width: 2.8rem;
-  @apply bg-cover h-12;
+  @apply bg-cover h-12 transition;
   /* @apply visible; */
 }
 
