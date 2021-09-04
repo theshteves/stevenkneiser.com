@@ -226,7 +226,7 @@ How you can help:
 
 ## Let's catch up!
 
-_Since only the smartest, funniest, & most attractive readers such as yourself read this far... my calendar is particularly open for the next few months if you love chatting on the phone or Zoom. You can [schedule time for me to call you soon](https://calendly.com/kneiser/30min) <span class="line-through">if you click/tap on my picture in the bottom left</span>! We'll see how long I can keep that up.
+_Since only the smartest, funniest, & most attractive readers such as yourself read this far..._ my calendar is particularly open for the next few months if you love chatting on the phone or Zoom. You can [schedule time directly into my calendar to chat](https://calendly.com/kneiser/30min) <span class="line-through">if you click/tap on my picture in the bottom left</span>! We'll see how long I can keep that up. I look forward to meeting you!
 
 ---
 
