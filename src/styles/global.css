@@ -164,7 +164,7 @@ figure {
   transform:rotate(-5deg);
   border:10px solid red;
   -webkit-mask-size: contain;
-  -webkit-mask-image: url("");
+  -webkit-mask-image: url("../assets/img/grunge-texture.png");
   -o-mask-image:url("../assets/img/grunge-texture.png");
   -moz-mask-image:url("../assets/img/grunge-texture.png");
   -ms-mask-image:url("../assets/img/grunge-texture.png");
