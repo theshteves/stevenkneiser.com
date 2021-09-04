@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[RSS Feed for stevenkneiser.com]]></title><description><![CDATA[Steven Kneiser's little home on the internet]]></description><link>https://stevenkneiser.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 04 Sep 2021 19:10:40 GMT</lastBuildDate><item><title><![CDATA[What I'm doing /now]]></title><description><![CDATA[My current focus & objectives (always up-to-date)]]></description><link>https://stevenkneiser.com/now</link><guid isPermaLink="false">https://stevenkneiser.com/now</guid><pubDate>Wed, 01 Sep 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;My current focus &amp;#x26; objectives&lt;/strong&gt;&lt;br&gt;
+(always up-to-date)&lt;/p&gt;
+&lt;!-- excerpt --&gt;
+&lt;br /&gt;
+&lt;h2 id=&quot;living-in-indianapolis&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#living-in-indianapolis&quot; aria-label=&quot;living in indianapolis permalink&quot; class=&quot;markdown-header before&quot;&gt;&lt;div class=&apos;markdown-header-link&apos;&gt;&lt;/div&gt;&lt;/a&gt;Living in Indianapolis&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;in the heart of downtown&lt;br /&gt;with an awesome partner &amp;#x26; 2 cats&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&quot;With $7 billion in tech company acquisitions and IPOs, &lt;strong&gt;the most affordable housing market in the country, and a high production of software jobs&lt;/strong&gt;, Indianapolis (and Indiana as a whole) is uniquely positioned to grow.&quot;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;-- &lt;a href=&quot;https://techpoint.org/&quot;&gt;TechPoint&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;(they&apos;re who put the city on my radar.&lt;br /&gt;I met them at &lt;a href=&quot;https://boilermake.org/&quot;&gt;Purdue&apos;s hackathon&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Check out more data at &lt;a href=&quot;https://powderkeg.com/indianapolis-tech-census/&quot;&gt;2018 Indianapolis Tech Census&lt;/a&gt;&lt;/p&gt;
+&lt;!---
+I love this place &amp; it&apos;s definitely one of the most underrated urban centers in the Us (did I also mention affordable?), but that doesn&apos;t stop me from peaking for my personal ideal fitting my odd priorities. It&apos;s got almost everything, but the entire world is urbanizing &amp; I&apos;m keeping an eye out for exceptional satellite cities. I think remote work was largely overhyped because social media hasn&apos;t innovated enough to make online communities intimate enough. The worldwide web will ge tthere, but I believe very strongly we&apos;re not even in the Day 1 of the internet. 95% of &quot;remote work&quot; will recede because they don&apos;t have enough operational &amp; cultural sophistication to support asynchronous work yet. The pandemic was an external force, but the shif tto remote work needs to be an internal suction because the tools are so good. They&apos;re great, but they&apos;re not there yet (e.g. Slack repulses the average employee way more than it pulls in with excitment). Once there are better online conference tools (I have no clue. It might take as much as mass adoption of more affordable next-gen augmented reality). Still on the search for the ideal city
+
+Don&apos;t forget awesome partner &amp; 2 cats
+
+&gt; _&quot;The unexamined life is not worth living&quot;_&lt;br /&gt;--Socrates (but not in English)&lt;br /&gt;... --Plato (documented in his &quot;Apology&quot;)&lt;br /&gt;... ... --Michael Scott
+--&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;returning-to-software&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#returning-to-software&quot; aria-label=&quot;returning to software permalink&quot; class=&quot;markdown-header before&quot;&gt;&lt;div class=&apos;markdown-header-link&apos;&gt;&lt;/div&gt;&lt;/a&gt;Returning to software&lt;/h2&gt;
+&lt;p&gt;This update blossomed into an entire essay:&lt;/p&gt;
+&lt;figure class=&apos;flex my-8 text-xl bg-gradient-to-bl from-yellow-50 via-yellow-50 to-yellow-300 w-max p-4 rounded items-center&apos;&gt;
+  &lt;div class=&apos;px-4&apos;&gt;👨‍💻 &lt;/div&gt;
+  &lt;a href=&apos;/blog/return-to-software&apos;&gt;My return to software&lt;/a&gt;
+&lt;/figure&gt;
+&lt;br /&gt;
+&lt;p&gt;Here&apos;s how it&apos;s going:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/theshteves&quot;&gt;&lt;img height=&quot;418&quot; src=&apos;/github-contrib-year.webp&apos; alt=&apos;GitHub contribution graph&apos; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;For non-technical readers [on a phone],
+&lt;br /&gt;this is an instantly-recognizable
+&lt;br /&gt;GitHub &quot;contribution graph&quot;:
+&lt;br /&gt;it hints at how frequently
+&lt;br /&gt;I shipped code last year
+&lt;br /&gt;(almost daily)&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Disclosure:&lt;br /&gt;because I value integrity:&lt;/strong&gt;&lt;br /&gt;...&amp;#x26; I just like disclosures:&lt;br /&gt;I was the developer of an open-source bot many many years ago that&apos;s gained some popularity over time to manipulate this contribution graph, but the effect was less than [a fifth?] of my output last year.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;I even held myself publicly accountable, replying every single day to &lt;a href=&quot;https://twitter.com/theshteves/status/1277811840274358272&quot;&gt;one long Twitter thread&lt;/a&gt; with what I shipped for that day (so even written contributions to another blog show up here). That streak is still going unbroken.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;In other words, the bot&apos;s contributions aren&apos;t even filling out any down-periods [as they usually do]. The only visible down-periods in the first place come from days I shipped updates in advance or after midnight.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;reading-like-im-running-out-of-time&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#reading-like-im-running-out-of-time&quot; aria-label=&quot;reading like im running out of time permalink&quot; class=&quot;markdown-header before&quot;&gt;&lt;div class=&apos;markdown-header-link&apos;&gt;&lt;/div&gt;&lt;/a&gt;Reading like I&apos;m running out of time&lt;/h2&gt;
+&lt;p&gt;Apparently I&apos;ve been writing like I&apos;m running out of time too. This was succinct but just a tad too long &amp;#x26; distracting for this page:&lt;/p&gt;
+&lt;figure class=&apos;flex my-8 text-xl bg-gradient-to-bl from-yellow-50 via-yellow-50 to-yellow-300 w-max p-4 rounded items-center&apos;&gt;
+  &lt;div class=&apos;px-4&apos;&gt;🤓 &lt;/div&gt;
+  &lt;a href=&apos;/blog/liberal-arts&apos;&gt;I was wrong &lt;span class=&quot;sm:hidden&quot;&gt;&lt;br /&gt;&lt;/span&gt;about the Liberal Arts&lt;/a&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;finally-exercising-again&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#finally-exercising-again&quot; aria-label=&quot;finally exercising again permalink&quot; class=&quot;markdown-header before&quot;&gt;&lt;div class=&apos;markdown-header-link&apos;&gt;&lt;/div&gt;&lt;/a&gt;Finally exercising again&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;January 2020&lt;/strong&gt;: I&apos;m in the best shape of my life since high school varsity sports. I&apos;m weight training for the first time in my life (&amp;#x26; consistently at that). I&apos;ve radically experimented with my diet &amp;#x26; I&apos;m not even unfalsifiably opinionated or cult-like about my particular approach to nutrition. My blood lipids have remarkably reversed course &amp;#x26; I&apos;m ...underweight?&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;~ the-virus-that-shall-not-be-named knocks on the door ~&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;January 2021&lt;/strong&gt;: I&apos;m in the worst shape of my life. Maybe I should ask my doctor abou-- oh, those are just called stretch marks 😩&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;June 2021&lt;/strong&gt;: Alright, no more worst-case prepping. I don&apos;t need to efficiently speedrun grocery stores twice monthly anymore. I can start patiently grabbing fresh ingredients twice weekly &amp;#x26; cooking again. Let&apos;s return to the ultra-simple Ferriss-style:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;meat &amp;#x26; non-starch veggies&lt;/li&gt;
+&lt;li&gt;w/ a side of legumes &amp;#x26; kettlebell swings&lt;/li&gt;
+&lt;li&gt;&amp;#x26; 1 &lt;em&gt;helluva&apos;&lt;/em&gt; glutinous cheat day per week &lt;br /&gt;(&lt;em&gt;what?&lt;/em&gt; Yeah the variance is actually productive)&lt;br /&gt;...&lt;em&gt;mostly&lt;/em&gt; productive 😉&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I&apos;m already feeling like myself again&lt;/p&gt;
+&lt;!---
+Before the pandemic, I had radically experimented with my nutrition over 2 years to evaporate my cholesterol problem &amp; started weight training [freeweights of course] for the very first time in my life. After dialing in those habits, I consciously decided to halt everything in early February 2020 (even turned down 2 job offers! one after a FOUR HOUR phone negotiation where they made an exploitative offer that would&apos;ve screwed me if the rumors about a pandemic were true &amp; the other I actually accepting on condition that it was remote only for them to bait&amp;switch me right before the start date) &amp; optimize all of that to go complete survival mode &amp;gotten into the best shape of my life post-pandemic. After a year of rationing on anything &amp; everything that I can easily carry home that minimizes the number of trips I need to make to the grocery store, I&apos;ve ballooned back to my all-time high weight. I don&apos;t know why it took me so long to recommit but as of last month I&apos;m back on the horse &amp; I feel [relatively] better about myself with each passing day
+--&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;writing-daily-for-creatorswhocodecom&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#writing-daily-for-creatorswhocodecom&quot; aria-label=&quot;writing daily for creatorswhocodecom permalink&quot; class=&quot;markdown-header before&quot;&gt;&lt;div class=&apos;markdown-header-link&apos;&gt;&lt;/div&gt;&lt;/a&gt;Writing daily for CreatorsWhoCode.com&lt;/h2&gt;
+&lt;p&gt;Over 400 days of shipping daily public updates on Twitter:&lt;/p&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;ACCOUNTABILITY THREAD:&lt;br&gt;I will ship every day&lt;br&gt;&lt;br&gt;Yesterday, I turned 24 🎉&lt;br&gt;Last year: immense growth, but private&lt;br&gt;This year: working &amp;amp; learning in public&lt;/p&gt;&amp;mdash; Steven Kneiser 👨🏼‍🍳 (@theshteves) &lt;a href=&quot;https://twitter.com/theshteves/status/1277811840274358272?ref_src=twsrc%5Etfw&quot;&gt;June 30, 2020&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script defer src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt; 
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;launched-personal-site--newsletter&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#launched-personal-site--newsletter&quot; aria-label=&quot;launched personal site  newsletter permalink&quot; class=&quot;markdown-header before&quot;&gt;&lt;div class=&apos;markdown-header-link&apos;&gt;&lt;/div&gt;&lt;/a&gt;Launched personal site &amp;#x26; newsletter!&lt;/h2&gt;
+&lt;p&gt;That&apos;s right:
+&lt;br /&gt;&lt;em&gt;there&apos;s more where this came from!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Why?&lt;/p&gt;
+&lt;p&gt;I&apos;m not here to advertise anything. My social network is increasingly global &amp;#x26; I need a stable [digital] address to keep contact with friends. &lt;strong&gt;My weekly newsletter is for anyone who wants to keep in-touch with me&lt;/strong&gt;, even when we can&apos;t justify a conversation every week or month.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The social accountability is a nice plus too&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Want in?&lt;/strong&gt;
+&lt;br /&gt;&lt;strong&gt;⬇️  Scroll to the very bottom of this page ⬇️&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;(If you stop enjoying it at any point, then just go ahead &amp;#x26; unsubscribe: it&apos;s nothing personal. &lt;em&gt;Even if&lt;/em&gt; I happen to notice, I won&apos;t read into it.)&lt;/p&gt;
+&lt;!---
+I don&apos;t feel a strong separation between people. I really don&apos;t care if we haven&apos;t met &quot;in real life&quot;. make a distinction between friends I&apos;ve met in-person &amp; haven&apos;t. &quot;very close friends&quot; or who lives closer to me.
+--&gt;
+&lt;br /&gt;
+&lt;p&gt;The more reading &amp;#x26; studying I do, the more I have to write &amp;#x26; share. I&apos;ve gotten to an exciting point in my life where I&apos;m revisiting some deeply-held worldviews while sustaining an openness to mystery &amp;#x26; wonder. The only thing I really know is that I don&apos;t. &amp;#x26; yet &lt;a href=&quot;/blog/liberal-arts&quot;&gt;I&apos;ve never wanted to Know™ as badly as I do now&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The funny thing is that &lt;em&gt;I&apos;ve always been&lt;/em&gt; a researcher, without realizing it. I only recently made a habit of writing stuff down. It forces me to take my ideas more seriously &amp;#x26; hold myself to a higher standard of rigor. &lt;strong&gt;Why not share that with those most invested in me?&lt;/strong&gt; I believe everyone has something to teach us.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Let&apos;s build futures worth building&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;!---
+What makes it even cooler is expressing it isn&apos;t just for free. I get compounding returns to forcibly clarifying my thoughts much further than before. The act of recalling information actually reinforces it &amp; expressing my thoughts nudges me towards consuming higher-quality ideas.
+--&gt;
+&lt;p&gt;&lt;strong&gt;Want in?&lt;/strong&gt;
+&lt;br /&gt;&lt;strong&gt;⬇️  Scroll to the very bottom of this page ⬇️&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;!---
+## [TODO: any other major GTD-style projects]
+
+The.
+
+
+* Living in the heart of downtown Indianapolis with an awesome partner
+* self-studying entirely new interests in geography, world history, &amp; jumping around the western canon (reconsidering a lot of worldviews after thinking outside the U.S., searching earnestly for lost ideas on technological progressinnovative cultures, lost ideas on technological progress, &amp; tracking the symbiotic coevolution of humanity with technology)
+
+How you can help:
+
+
+* job searching
+* building my case for tech optimism
+* [note: keep these limited to GTD-style outcomes I&apos;m reaching for]
+* shipping daily updates to this cwc (+now this site)
+* designing a better WFH lifestyle trying to make more internet friends outside the US (i.e. neglecting local relationships in favor of global ones [link sivers essay])
+* finally strength training again for the first time since the pandemic (I&apos;ve slowly ballooned up to college-grad weight &amp; lack of shape RIGHT after the best shape &amp; blood lipids of my life)
+* [TODO: just do a GTD weekly review &amp; that will inform this page]
+--&gt;
+&lt;!---
+&gt;  TODO: get nownownow backlink
+
+* writing &amp; shipping daily for &gt;CWC (new-age &quot;creator economy&quot; small business some day in 5 years)
+
+* REALLY enjoying remote work (especially as excuse to dail-in routine + nutrition + workouts)
+* open &amp; searching for work. I&apos;m getting extremely excited about collaboration again, as I recently figured out I wasn&apos;t searching for &quot;freedom from&quot; but &quot;freedom to&quot;nimmerse myself more deeply with others (hey, [OnDeck](/why-ondeck))
+
+...
+
+* Living with my long-term girlfriend in downtown Indianapolis for the near-term &amp; trying to discover my dream, long-term city [TODO: show candidates] ...I have a lurking suspicion that it will probably be a satellite city for remote work, even though global trends suggest that people are increasingly urbanizing
+
+* Self-teaching more liberal arts (I&apos;ve long been a die-hard STEM kid &amp; I think it&apos;s the most practical. I both believe that STEM is one of the more important things to START learning with, so that you have a utilitarian/practical place to integrate yourself into the world, but as time passes: I both feel that Liberal Arts is both MORE &amp; LESS important than STEM. Less in that it shouldn&apos;t really precede STEM ...ideally, I think a more optimal balance is to focus more purely on current capacities/technologies/etc earlier in education BEFORE you mature onto what is ultmately more important. I didn&apos;t have the stomach or capcity for history, social studies, philosophy before, but now I have a life with real-world objectives that shine context &amp; make it immensely useful. So let me be clear: I&apos;ve recently come to appreciate Liberal Arts as a higher goal, but only insofar as I have the capcity to concern mself with them. I think we&apos;ve had a recent overproduction of liberal arts education as evidenced by all the recent grads that  don&apos;t find themselves a good place to start in the world. Liberal arts isn&apos;t given, it&apos;s earned. In short, I&apos;ve come to understand that logic isn&apos;t a strict subset of math. They are seperate neterprises &amp; most of this is the necesary move from studying the world of the deductive to the world of the inductive.) ... in theory if I were to raise kids today, I would STEM them to heck for the first 20 years so they&apos;re super effective operators in the world, then graudate them onto the higher, ongoing never-ending conversations of Liberal Arts, but now rooted in real-world urgency &amp; NEVER letting their eyes of the dashboard controls &amp; immediacy of life.)
+
+  * Studying the Western Canon
+  * Trying to decentralize my philosophy from the US
+  * Building the case for Tech Optimism
+  * Studying geography &amp; geopolitics
+
+&lt;br /&gt;
+
+## Recent Reading
+
+* The Hitchhiker&apos;s Guide to the Galaxy (audiobook by the author himself is a perfect motivation to go to bed early)
+* ...
+
+&lt;br /&gt;
+
+## Favorite Quote:
+
+* &quot;happy is the country without a history&quot;
+* &quot;... something someting life is a crisis &amp; yet we still live&quot;
+* darwin on survival of most adaptable &gt; smartest &gt; strongest
+
+## What I&apos;m geeking out about
+
+* Isaac Arthur on Futurism
+* CaspianReport on Geopolitics
+* Atlas Pro on Geography
+* The massive works of Britannica &amp; Wikipedia
+* The Western Canon™ (classic books throughout history that shifted Western Thought)
+* Lingco??? on languages
+* Effective Altruism
+* Open Philantrhopy
+
+* David&apos;s essay on serious christians
+* Long Now lecture by Singapore UN ambassador
+* worldview diversification: ajeya
+
+&lt;br /&gt;
+
+&gt; TODO: include calendly link for friends (or at least call-to-action to text, twitter DM, or email me)
+--&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;lets-catch-up&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#lets-catch-up&quot; aria-label=&quot;lets catch up permalink&quot; class=&quot;markdown-header before&quot;&gt;&lt;div class=&apos;markdown-header-link&apos;&gt;&lt;/div&gt;&lt;/a&gt;Let&apos;s catch up!&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Since only the smartest, funniest, &amp;#x26; most attractive readers such as yourself read this far...&lt;/em&gt; my calendar is particularly open for the next few months if you love chatting on the phone or Zoom. You can &lt;a href=&quot;https://calendly.com/kneiser/30min&quot;&gt;schedule time directly into my calendar to chat&lt;/a&gt; &lt;span class=&quot;line-through&quot;&gt;if you click/tap on my picture in the bottom left&lt;/span&gt;! We&apos;ll see how long I can keep that up. I look forward to meeting you!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;This page was inspired by &lt;a href=&quot;https://nownownow.com&quot;&gt;nownownow.com&lt;/a&gt; &amp;#x26; also &lt;a href=&quot;https://stephsmith.io/open&quot;&gt;Steph Smith&apos;s open dashboard idea&lt;/a&gt; to publish continuous data&lt;/em&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[My return to software]]></title><description><![CDATA["but this time it's different..."]]></description><link>https://stevenkneiser.com/blog/return-to-software</link><guid isPermaLink="false">https://stevenkneiser.com/blog/return-to-software</guid><pubDate>Sun, 15 Aug 2021 00:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&quot;but this time it&apos;s different...&quot;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;!-- excerpt --&gt;
+&lt;br /&gt;
+&lt;!---
+* TI-84
+* Movie: The Social Network
+* MHacks IV
+
+* \&gt;SH
+* Hack The Planet
+* QCOM
+* Game Design
+
+* Eship &quot;education&quot;
+* digital nomad gone stale (why?)
+* audience-focused bootstrapping
+* sales bootcamp
+* Woven
+* Tiago+GTD (jet-rocketed into post-rat economy of twitter, so the next chapter is twitter era)
+
+* Writer&apos;s Bloc
+* Kenzie Academy
+* the diagnosis
+* Britannica (from geography to geopolitics to world history to The Western Canon to The Liberal Arts)
+--&gt;
+&lt;p&gt;I can recall the awe:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&quot;So you&apos;re saying...&lt;br /&gt;if I knew just the right things to type,&lt;br /&gt;I could build ...ANYTHING??&lt;br /&gt;&lt;br /&gt;That with pure scribbles,&lt;br /&gt;I&apos;d build something very concrete&lt;br /&gt;that would affect people?&quot;&lt;/em&gt;&lt;br /&gt;--me, before learning to code&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Unreal. Pure magic. I could see it all right then &amp;#x26; there from the Quadratic Formula in Algerba II: &lt;strong&gt;coding is a real-life superpower&lt;/strong&gt;. The thought of typing something into existence seemed no different from fictional wizards/sorcerers/magicians who chant cryptic words that actually summon strange things into existence. As children, we grasp for any sign that we are one-of-a-kind, that our story will be told like the others&apos; we&apos;ve heard, that we alone might be the protagonist.&lt;/p&gt;
+&lt;p&gt;Santa Claus was no longer real, but at last I&apos;d found a crack in my own reality. What castles in the sky would this superpower lift me to?&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&quot;Any sufficiently advanced technology is indistinguishable from magic&quot;&lt;/em&gt; --Arthur C. Clarke&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;br /&gt;
+&lt;p&gt;Sorry, this is about &quot;/now&quot;,
+&lt;br /&gt;not &quot;/please-tell-me-your-sanitized-life-story&quot;&lt;/p&gt;
+&lt;p&gt;So what&apos;s the point?&lt;/p&gt;
+&lt;p&gt;When I  finished college, I wasn&apos;t the average Computer Science student who just showed up to classes &amp;#x26; took my tests. I did every single thing I could outside of the classroom to master my craft. I went to dozens of  conferences, I&apos;d shipped products, I&apos;d collaborated with skilled artists &amp;#x26; designers, I&apos;d coordinated teams, &amp;#x26; I even worked at a big tech company (not once, but twice).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Personally, I didn&apos;t stumble out of college with a degree, but a formidable 3 years of product management experience&lt;/strong&gt; (especially in rapid prototyping)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;But I had enough&lt;/strong&gt;: I had already climbed the mountain I came to climb&lt;/p&gt;
+&lt;p&gt;I didn&apos;t need to &quot;start my career&quot;
+&lt;br /&gt;&lt;strong&gt;I was ready for the next chapter&lt;/strong&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;I now had enough tools in my toolbelt, that technical competence wasn&apos;t my bottleneck any more. I wasn&apos;t the type to just sit down &amp;#x26; cash in on those skills for the next decade. I wanted more. &lt;strong&gt;I wanted to understand &quot;the Business™ side&quot;.&lt;/strong&gt; I wanted to build companies of own so that I could employ all my friends &amp;#x26; build the software we saw in the world&lt;/p&gt;
+&lt;p&gt;...but I had 1 nagging, existential question:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&quot;&lt;em&gt;even if&lt;/em&gt; I could build anything I wanted&lt;br /&gt;&lt;br /&gt;&lt;em&gt;even if&lt;/em&gt; I could get better at managing a larger team to build quicker&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;what did that matter ...if I couldn&apos;t figure out &lt;em&gt;which&lt;/em&gt; problems were &lt;em&gt;most worth&lt;/em&gt; solving?&lt;/strong&gt;&quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;I needed perspective&lt;br /&gt;&amp;#x26; from &lt;em&gt;outside&lt;/em&gt; my domain of expertise&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;TODO: elaborate&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;...&lt;/p&gt;
+&lt;p&gt;I&apos;ve always loved software, but I&apos;m big on communication: I want to relate to others outside software. I&apos;m a craftsperson who loves to chat just as much with marketers &amp;#x26; salespeople about their craft. My high school tagline was &quot;always ready to pull back the curtain &amp;#x26; study the clockwork&quot; &amp;#x26; that&apos;s never changed.&lt;/p&gt;
+&lt;p&gt;I invested a few years to better understand &quot;business&quot; &amp;#x26; the entire revenue-side of organizations. But I never intended to leave my background behind. It&apos;s true that the half-life of technical knowledge is shortening, so I want to re-engage with the craft of software as long as I can keep up.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;So I might be a little rusty,
+&lt;br /&gt;but I&apos;m back&lt;/strong&gt;
+&lt;br/&gt;&amp;#x26; this time I know where I want to go&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;TODO: more to come&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;TODO: this justifies its own essay. Extract this into an isolated essay to link to&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!---
+I started my coding journey before college &amp; before I knew it was a well-paying career path (even though that helped me to commit long-term). If it were any other way, I wouldn&apos;t find myself constantly returning to it after time off.  Sure, it&apos;s something I enjoy, but it&apos;s always for a different purpose:
+--&gt;
+&lt;!---
+3 questions 
+
+I got obsessed with distribution.
+
+&amp; now I&apos;m back at  the begininning: great product is what matters. Turns out &quot;distribution&quot; is a double-edged sword: however good or bad your  product/service is, good distribution merely spreads the word faster. In this sense, poor distribution is an advantage because it gives you room to experiment &amp; fail brutally without permanent reputational damage, even if I&apos;m oversimplifying.
+
+If my life were a video game, this is like I beat the game once  already, so I&apos;m ready to come back to the first level.
+--&gt;
+&lt;!---
+software -&gt; entrepreneurship -&gt; digital marketing -&gt; sales -&gt; writer -&gt; software (but this time it&apos;s different) -&gt; DevRel??? No-Code Ops?? solo-creator?? startup mercenary??
+--&gt;</content:encoded></item><item><title><![CDATA[I was wrong about the Liberal Arts]]></title><description><![CDATA[To me,
+non-fiction >> fiction …but recently I’ve grown sick of New Content™ about tech, business, & self-help]]></description><link>https://stevenkneiser.com/blog/liberal-arts</link><guid isPermaLink="false">https://stevenkneiser.com/blog/liberal-arts</guid><pubDate>Mon, 19 Jul 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;To me,
+&lt;br /&gt;non-fiction &gt;&gt; fiction&lt;/p&gt;
+&lt;p&gt;…but recently I’ve grown sick of New Content™ about tech, business, &amp;#x26; self-help&lt;/p&gt;
+&lt;!-- excerpt --&gt;
+&lt;br /&gt;
+&lt;p&gt;&lt;strong&gt;I’ve gotten obsessed with “old &amp;#x26; boring non-fiction”&lt;/strong&gt;: history, philosophy, &amp;#x26; especially “The Classics [of Western Thought]&quot;. Don&apos;t worry, I&apos;m just as fascinated with regions &amp;#x26; narratives that aren&apos;t north of the Mediterranean Sea.&lt;/p&gt;
+&lt;p&gt;In other words,
+&lt;br /&gt;I’m a STEM kid who finally “got” Liberal Arts&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;&lt;em&gt;Where were these interests growing up?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I now embrace Liberal Arts as both less AND more important&lt;/strong&gt; than &quot;Technical Arts&quot; (e.g. software, UX design, digital marketing, etc). The Technical Arts are more important: young adults need that first taste of success that comes from engaging with the crafts of their time. The only problem is that crafts have come &amp;#x26; gone every generation since the Industrial Revolution. That&apos;s a good problem to have.&lt;/p&gt;
+&lt;p&gt;Why are these two arts
+&lt;br /&gt;even taught in the same years?&lt;/p&gt;
+&lt;p&gt;Sure, the Technical Arts offer an antidote to dependency, but what about engaging in the awe-inspiring world around us, with people nothing like us? One day--like it or not--we all must graduate to the stage of the Liberal Arts to join those timeless &amp;#x26; borderless dialogues (at least productively).&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;I was wrong&lt;/p&gt;
+&lt;p&gt;I was wrong all along
+&lt;br /&gt;so consider this my love song:&lt;/p&gt;
+&lt;p&gt;Liberal Arts degrees are often wasted on the young &amp;#x26; inexperienced who have nothing at stake. &lt;strong&gt;The Liberal Arts don&apos;t belong solely behind college degrees: they reach to the heights of one’s lifelong pursuit of wisdom.&lt;/strong&gt; The arts are but an ever-evolving conversation that belies the burden of adulthood.&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;There’s no escape
+&lt;br /&gt;There’s no graduation
+&lt;br /&gt;So join the conversation&lt;/p&gt;
+&lt;p&gt;Adults get pop quizzes too
+&lt;br /&gt;just with graver consequences&lt;/p&gt;
+&lt;p&gt;This is your only second chance
+&lt;br /&gt;Skip the reading at your own risk&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;&lt;em&gt;...you ARE reading this time, right?&lt;/em&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Links Worth Spreading]]></title><description><![CDATA[Ted Talks™
+are for Ideas Worth Spreading This list of mine
+is for Links Worth Spreading]]></description><link>https://stevenkneiser.com/links</link><guid isPermaLink="false">https://stevenkneiser.com/links</guid><pubDate>Mon, 28 Jun 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Ted Talks™
+&lt;br /&gt;are for Ideas Worth Spreading&lt;/p&gt;
+&lt;p&gt;This list of mine
+&lt;br /&gt;is for Links Worth Spreading&lt;/p&gt;
+&lt;!-- excerpt --&gt;
+&lt;br /&gt;
+&lt;p&gt;This list continues to evolve today &amp;#x26; I still fight the temptation to bloat it over time. I publish smaller best-of&apos;s, but &lt;strong&gt;this is a permanent home for my most shared links.&lt;/strong&gt; There&apos;s enough recency bias on the worldwide web. These ideas have withstood the test of [my] time (...&amp;#x26; attention-span).&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;NOTE: looking back, this list naturally ended up more US-centric than I&apos;d prefer. Check out this &lt;a href=&quot;https://ourworldindata.org/world-population-cartogram&quot;&gt;world map scaled by population&lt;/a&gt; &amp;#x26; this &lt;a href=&quot;https://vimeo.com/347801005&quot;&gt;animated world map of twitter activity over one month (2013)&lt;/a&gt; &lt;em&gt;...only one channel &amp;#x26; in 2013!&lt;/em&gt; &lt;strong&gt;The internet isn&apos;t just your country&lt;/strong&gt;, but effectively one of its own. Those visualizations will give you a better feel for your fellow citizens of the web. You&apos;ll bump into more of them each year.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;w-full text-center text-8xl&quot;&gt;🌎🌍🌏&lt;/div&gt;
+&lt;p&gt;Like it or not,
+&lt;br /&gt;we&apos;re all stuck on the same spaceship! &lt;span class=&quot;w-full text-center text-8xl&quot;&gt;🚀&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;table-of-contents&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#table-of-contents&quot; aria-label=&quot;table of contents permalink&quot; class=&quot;markdown-header before&quot;&gt;&lt;div class=&apos;markdown-header-link&apos;&gt;&lt;/div&gt;&lt;/a&gt;Table of Contents&lt;/h2&gt;
+&lt;p&gt;Jump around!
+&lt;br /&gt;Spam &quot;open in new tab&quot;
+&lt;br /&gt;No need to read top-to-bottom&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;&lt;strong&gt;On Health:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#how-aging-will-kill-you-br---what-you-can-do-about-that&quot;&gt;How aging will kill you &lt;br /&gt;&amp;#x26; what you can do about that&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#improve-your-air-quality&quot;&gt;Improve your air quality&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#you-dont-have-to-be-local&quot;&gt;You don&apos;t have to be local&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br /&gt;
+&lt;p&gt;&lt;strong&gt;On Wealth:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#rpersonalfinance-flowchart&quot;&gt;If you did nothing else with money&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#2-decades-of-inflation&quot;&gt;2 decades of Inflation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#all-you-need-is-10&quot;&gt;First, 10&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#small-business-20-revolution&quot;&gt;Small Business 2.0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#theory-of-constraints&quot;&gt;Theory of Constraints&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br /&gt;
+&lt;p&gt;&lt;strong&gt;On Progress:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#everything-is-a-remix&quot;&gt;Everything Is A Remix™&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#a-case-for-optimism&quot;&gt;A case for optimism&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#how-software-is-eating-the-world&quot;&gt;How software is eating the world&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#a-singaporean-perspective-on-us-china-relations&quot;&gt;A Singaporean perspective on US-China relations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Hard-earned lessons in Environmentalism [coming soon]&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#memorable-quotes&quot;&gt;Memorable quotes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;br /&gt;
+&lt;h3 id=&quot;how-aging-will-kill-you-br---what-you-can-do-about-that&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#how-aging-will-kill-you-br---what-you-can-do-about-that&quot; aria-label=&quot;how aging will kill you br   what you can do about that permalink&quot; class=&quot;markdown-header before&quot;&gt;&lt;div class=&apos;markdown-header-link&apos;&gt;&lt;/div&gt;&lt;/a&gt;&lt;a href=&quot;https://youtu.be/vDFxdkck354?t=478&quot;&gt;How aging will kill you &lt;br /&gt; &amp;#x26; what you can do about that&lt;/a&gt;&lt;/h3&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/vDFxdkck354?start=478&quot; title=&quot;Peter Attia - Reverse engineered approach to human longevity&quot; loading=&quot;lazy&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;Don&apos;t worry, there&apos;s no strong-arm philosophy/product/pitch at the end here: just a survey of some exploratory research. This isn&apos;t a short-sweet tactical summary, but rather an interesting strategy that might make you reconsider your approach.&lt;/p&gt;
+&lt;p&gt;Here&apos;s Peter, both an engineer &amp;#x26; accomplished medical doctor, speaking to a room
+of medical researchers so don&apos;t expect to follow every detail of this
+discussion. This is a great summary of some of the best current thinking on how to
+not let aging sneak up on you so much.&lt;/p&gt;
+&lt;p&gt;Seeing an ordered list of aging-related disease based on likelihood really
+reframed how I think about taking care of my body. There&apos;s a &quot;longevity olypmics&quot; that you have decades to train for &amp;#x26; it looks nothing like
+training for the normal olympics. You might not even aspire to live much longer than average, but you can start thinking about how to live better in the coming decades.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;&quot;The key to living longer [for now] is delaying the onset of chronic disease&quot;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;improve-your-air-quality&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#improve-your-air-quality&quot; aria-label=&quot;improve your air quality permalink&quot; class=&quot;markdown-header before&quot;&gt;&lt;div class=&apos;markdown-header-link&apos;&gt;&lt;/div&gt;&lt;/a&gt;&lt;a href=&quot;https://dynomight.net/air/&quot;&gt;Improve your air quality&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;A data-driven rant on why you should care about air quality &amp;#x26; a supplementary guide for a cheap DIY air purifier that totally gets the job done&lt;/p&gt;
+&lt;p&gt;In an urbanizing world,
+&lt;br /&gt;sensitivity to air pollution both outdoors &amp;#x26; indoors will probably continue to grow more relevant&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;I promptly chucked my ultrasonic humidifier out the window after reading this&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;you-dont-have-to-be-local&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#you-dont-have-to-be-local&quot; aria-label=&quot;you dont have to be local permalink&quot; class=&quot;markdown-header before&quot;&gt;&lt;div class=&apos;markdown-header-link&apos;&gt;&lt;/div&gt;&lt;/a&gt;&lt;a href=&quot;https://sive.rs/local&quot;&gt;You don&apos;t have to be local&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;This simple thoughtpiece tapped me at the right time: it gave me
+permission. This realization is slowly dawning on people all over the world.
+The more friends you make in different countries/timezones, the more people move closer to major urban hubs (especially ones far away from you), the more you &lt;strong&gt;question how you distribute your time locally vs globally&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;The automobile reshaped America when it shrunk the time-distance between the opportunities of the city to further stretches of land (now suburbs). The internet shrinks that distance between you &amp;#x26; everyone else down to within your room. &lt;strong&gt;There are entire semi-public conferences going on as we speak all around you in this City in the Sky.&lt;/strong&gt; Perhaps you should network a little more around these Shops in the Sky?&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;&lt;strong&gt;How would you approach the world differently if that window of opportunity was closing?&lt;/strong&gt; Thought experiment: if the internet as you knew it today only had another 10 years before fracturing, imploding, or getting monopolized by AI, would you reconsider your approach to this once in a planetary history opportunity?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Your favorite friends, artists, &amp;#x26; partners in the whole literal world are at last reachable&lt;/strong&gt; up there. Is it not worth a few extra years searching? Distance is no longer an excuse. I just didn&apos;t realize I even had a choice.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;rpersonalfinance-flowchart&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#rpersonalfinance-flowchart&quot; aria-label=&quot;rpersonalfinance flowchart permalink&quot; class=&quot;markdown-header before&quot;&gt;&lt;div class=&apos;markdown-header-link&apos;&gt;&lt;/div&gt;&lt;/a&gt;&lt;a href=&quot;https://www.reddit.com/r/personalfinance/wiki/commontopics&quot;&gt;r/PersonalFinance flowchart&lt;/a&gt;&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;(Specific to the U.S.)&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The art of investing is the art of decision-making. Every decision you make is a vote for the person you&apos;ll become. &lt;strong&gt;This is the lazy-yet-informed approach to maximize your returns &lt;em&gt;relative to your risk &amp;#x26; effort&lt;/em&gt;&lt;/strong&gt;. Recall that tired 80/20 saying about &quot;the 20% of efforts that will yield you 80% of the results&quot;?&lt;/p&gt;
+&lt;p&gt;In my experience,
+&lt;br /&gt;you&apos;ll take this 1 of 2 ways
+&lt;br /&gt;(assuming this is new to you):&lt;/p&gt;
+&lt;p&gt;Some people are so ecstatic that they binge this kinda stuff for months, but
+others...&lt;br /&gt;let&apos;s just say&lt;br /&gt;&lt;em&gt;it&apos;s not their idea of fun&lt;/em&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;If you&apos;re already intimidated or overwhelmed at the mere idea of counting up all the bills on your counter or fees in your accounts, you&apos;re probably suffering from a backwards case of &quot;grass is greener&quot;. Ignorance is not bliss &amp;#x26; you know it: it eats away at you from the inside until you&apos;re a hollow shell of your former self. Getting clear on &quot;your finances&quot; is the only antidote to stress, the only therapy of its kind. &lt;strong&gt;For some of you, thinking about money is like eating broken glass &amp;#x26; staring into the abyss&lt;/strong&gt;, when it&apos;s actually more like roping off a crime scene &amp;#x26; getting the victims the answers they deserve.&lt;/p&gt;
+&lt;p&gt;You may think you have nothing, that you&apos;re doomed, but a quick google search will find you many stories of people that have gotten out of significantly more dire financial circumstances. Just because you have 40k/80k/120k in student loan debt &amp;#x26; several thousand in credit card debt is far from the end of the world.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The grass really is greener on the other side&lt;/strong&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;I recently wrote about &lt;a href=&quot;https://creatorswhocode.com/blog/whose-ladder&quot;&gt;&quot;Whose Ladder Are You Climbing?&quot;&lt;/a&gt; when it dawned on me that &lt;strong&gt;many &quot;career ladders&quot; felt more like spider webs of someone else&apos;s design&lt;/strong&gt; to tie me up &amp;#x26; bite my head off. Without getting to know you, I&apos;d consider this one of the few ladders worth investing the time to climb. What matters is that it&apos;s a climb &lt;em&gt;of your own design&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Best of all, the top of whatever ladder you choose it is probably &lt;em&gt;way&lt;/em&gt; lower than you think! You almost certainly don&apos;t need to park your dreams behind some arbitrary &quot;ermm, 3 million??&quot; number [assuming no  extreme inflation]. I&apos;ve met people that said with a straight face that they&apos;d need a couple billion to do what they &quot;really&quot; want to do. Don&apos;t be this person. There are probably opportunities to get 60% of the experience for 1% of the cost. This corner case was precisely the reason Tim Ferriss wrote the scammy-sounding-by-design-but-100%-legit-&amp;#x26;-game-changing book &quot;The 4-Hour Workweek&quot; (you could probably preview the first 2 chapters on Amazon for free if you&apos;re that curious)&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&quot;How come there&apos;s no &apos;life essentials&apos; class in high school??? I wish
+someone had taught me earlier about budgeting, taxes, how to change a tire, etc&lt;br /&gt;...ya&apos;know, the ~AcTuAlLy ImPoRtAnT sTuFf~, not math with letters&quot;&lt;/em&gt;
+&lt;br /&gt;--every American has this uncle&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The flowchart I linked is your stable foundation. This isn&apos;t the be-all end-all on the art of investing for people who&apos;ve entirely escaped the game of money, but this could be a more sustainable path &lt;em&gt;to get you there&lt;/em&gt;.&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;What if you&apos;re a trigger-happy capitalist who wants to YOLO more than 1% of your net worth into speculative investments? Hey, live your life. BUT &lt;strong&gt;if you don&apos;t at least understand these fundamentals in &amp;#x26; out, you haven&apos;t earned the right&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&quot;Rule #1: never lose money&lt;br /&gt;Rule #2: never forget rule #1&quot;&lt;/em&gt;&lt;br /&gt;--Warren Buffett&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&quot;A fool &amp;#x26; his money are soon parted&quot;&lt;/em&gt;&lt;br /&gt;--[proverb]&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;br /&gt;
+&lt;p&gt;That&apos;s my plea
+&lt;br /&gt;&amp;#x26; I hope you&apos;ll thank me
+&lt;br /&gt;for not burying it further down&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;P.S. Your parents called 📞&lt;br /&gt;they want to know when you&apos;re finally going to get a haircut &amp;#x26; a &quot;real&quot; job&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Their words, not mine&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Disclosure:&lt;br /&gt;because I value integrity:&lt;/strong&gt; &lt;br /&gt;I&apos;m not a &quot;Fiduciary Financial Advisor&quot; (nor am I a Medical Doctor), &amp;#x26; I don&apos;t play one on the internet. This is strictly for informational purposes only. I&apos;ve placed a high-level of trust &amp;#x26; confidence in your critical-thinking abilities to decide on the best course of action for you. There will always be rare windows of opportunity to completely disregard all conventional advice (&amp;#x26; many many many more scams misleading you with the fantasy of getting rich quick). My hope is that this perspective/philosophy/approach simply provides a useful comparison to other financial ideas you might consider over your lifetime.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;2-decades-of-inflation&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#2-decades-of-inflation&quot; aria-label=&quot;2 decades of inflation permalink&quot; class=&quot;markdown-header before&quot;&gt;&lt;div class=&apos;markdown-header-link&apos;&gt;&lt;/div&gt;&lt;/a&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Baumol%27s_cost_disease&quot;&gt;2 decades of inflation&lt;/a&gt;&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;(Specific to the U.S.)&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Like many things,
+&lt;br /&gt;you might not take an interest in economics
+&lt;br /&gt;but economics certainly takes an interest in you!&lt;/p&gt;
+&lt;p&gt;This single graph explains so much of the current economy around us [in the U.S.]. &lt;strong&gt;In the last 20 years, what goods &amp;#x26; services have become relatively more costly &amp;#x26; by how much?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;You may be familiar
+&lt;br /&gt;with &lt;em&gt;the general idea&lt;/em&gt; of inflation
+&lt;br /&gt;&amp;#x26; how $80 was &lt;em&gt;&quot;actually a pretty big deal&quot;&lt;/em&gt; in 1910,&lt;/p&gt;
+&lt;p&gt;but not every dollar is equal [in the way you thought],
+&lt;br /&gt;so let&apos;s peak behind that curtain &lt;em&gt;...by sector&lt;/em&gt;&lt;/p&gt;
+&lt;img class=&quot;mx-auto&quot; src=&quot;/img/2-decades-of-inflation.webp&quot; alt=&quot;U.S. Price Changes (2000 to 2020)&quot; /&gt;
+&lt;p&gt;Worth noting &quot;average hourly wages&quot;
+&lt;br /&gt;isn&apos;t the same as &lt;em&gt;median&lt;/em&gt; hourly wages,
+&lt;br /&gt;since ~1971 there&apos;s been a
+&lt;br /&gt;...rather controversial divide&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Take a good long look at this graph&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;These are the waters you might not have realized you&apos;re swimming in. Outside of the &quot;he said : she said&quot; noise of day-to-day politics, this is the playing field that tells 80% of the story. We&apos;re all processors in the same societal super-computer grinding our gears towards better solutions to this problem.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;all-you-need-is-10&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#all-you-need-is-10&quot; aria-label=&quot;all you need is 10 permalink&quot; class=&quot;markdown-header before&quot;&gt;&lt;div class=&apos;markdown-header-link&apos;&gt;&lt;/div&gt;&lt;/a&gt;&lt;a href=&quot;https://seths.blog/2009/04/first-ten/&quot;&gt;All you need is 10&lt;/a&gt;&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&quot;but Global™ this!
+&lt;br /&gt;Macroeconomic™ that
+&lt;br /&gt;Geopolitical™ these!&quot;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Good news! You can start in the calm of your small world.&lt;/p&gt;
+&lt;p&gt;This is staying out of the storm. &lt;strong&gt;This is soothing wisdom from &amp;#x26; for the age of distraction&lt;/strong&gt;. With today&apos;s absurd marketing potential via the Internet, there&apos;s this seductive incentive to just try to extract a tiny value out of lots of people, even millions (e.g. living comfortably on YouTube Ad revenue from millions of views, living comfortably on App Store revenue from millions of $.49 downloads).&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&quot;Just because you can doesn&apos;t mean you should&quot;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;It&apos;s never that easy &amp;#x26; it&apos;s the least rewarding. Don&apos;t try to skip the line by providing pennies of value to some. Find ways to provide immense value to the very few around you that you can. This is less about top-down spray-and-pray, but rather bottoms-up building your capacity to chew on bigger problems.&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;Seth is a master of moderation
+&lt;br /&gt;with a focus on generosity
+&lt;br /&gt;who inspires by example&lt;/p&gt;
+&lt;p&gt;He doesn&apos;t &quot;try to change the world&quot;
+&lt;br /&gt;He just shows up every day&lt;/p&gt;
+&lt;p&gt;After 5 years of consuming every thoughtpiece that gives the faintest smell of entrepreneurship, this is my #2. Only #2 because what it lacks in length &amp;#x26; detail is made up for in density &amp;#x26; a meditative simplicity. Unlike the others, this is the most timeless. It will never go out of style. It doesn&apos;t have any prerequisites. It doesn&apos;t even give you permission to procrastinate by reading another follow-up article.&lt;/p&gt;
+&lt;p&gt;First, 10.
+&lt;br /&gt;&amp;#x26; they&apos;ll take it from there
+&lt;br /&gt;but only once your stuff is good enough&lt;/p&gt;
+&lt;p&gt;When is it good enough?&lt;/p&gt;
+&lt;p&gt;When you can stop pushing
+&lt;br /&gt;because they&apos;ve started pulling
+&lt;br /&gt;because they like you &lt;em&gt;that much&lt;/em&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;&lt;strong&gt;Create for 10, not 10,000&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;First, 10.
+&lt;br /&gt;&amp;#x26; they&apos;ll take it from there
+&lt;br /&gt;but only once your stuff is good enough&lt;/p&gt;
+&lt;p&gt;Don&apos;t try to skip ahead in line:
+you could scale to 10,000 casual fans
+but start by WOW&apos;ing just 10 before you bother&lt;/p&gt;
+&lt;p&gt;By virtue of your work ethic,
+you just might stumble on the right idea&lt;/p&gt;
+&lt;p&gt;BONUS: study his writing for a masterclass in simplicity (this blurb was much longer than his average post)&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;small-business-20-revolution&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#small-business-20-revolution&quot; aria-label=&quot;small business 20 revolution permalink&quot; class=&quot;markdown-header before&quot;&gt;&lt;div class=&apos;markdown-header-link&apos;&gt;&lt;/div&gt;&lt;/a&gt;&lt;a href=&quot;https://stackingthebricks.com/why-you-should-do-a-tiny-product-first/&quot;&gt;Small Business 2.0 Revolution&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;If &lt;a href=&quot;#all-you-need-is-10&quot;&gt;First, 10&lt;/a&gt; was my #2 favorite &quot;entrepreneurship&quot; read, then what could possibly be #1?&lt;/p&gt;
+&lt;p&gt;Where that previous one stands the test of time, this one makes up for in relevance &amp;#x26; specificity ...even though this window of opportunity has a little more of a time limit.&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;Looking back now, this essay had a profound effect on my career. It even thematically fits the layered meaning behind the name of my other blog, &lt;a href=&quot;https://creatorswhocode.com&quot;&gt;Creators Who Code&lt;/a&gt;. Why? Because the best coders &lt;em&gt;know when NOT to code&lt;/em&gt;. They should instead view themselves as more general creators who only code ...when it finally come to that.&lt;/p&gt;
+&lt;p&gt;Oh, you know how to code?&lt;/p&gt;
+&lt;p&gt;Good for you. Don&apos;t become a hammer that starts look at everything as if it were a nail. The biggest downside to software is often the release time especially for the first iteration.&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;Another huge takeaway that I completely forgot hit me from this: I did a complete 180 on my lifelong distaste for writing. My writing wasn&apos;t actually all that bad, but gosh was it like pulling teeth every time &amp;#x26; always over-budget. I&apos;m being way too harsh on my pre-adult writing, but I didn&apos;t enjoy it &lt;em&gt;until stirring on this essay&lt;/em&gt;: writing done right can provide 95% of the value™ of software for 5% of the time investment! &lt;strong&gt;Writing has a significantly shorter product iteration speed&lt;/strong&gt;, if not the shortest. Why start with software when I can churn out multiple written product tests in a day &amp;#x26; see what sticks?&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;theory-of-constraints&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#theory-of-constraints&quot; aria-label=&quot;theory of constraints permalink&quot; class=&quot;markdown-header before&quot;&gt;&lt;div class=&apos;markdown-header-link&apos;&gt;&lt;/div&gt;&lt;/a&gt;&lt;a href=&quot;https://fortelabs.co/blog/theory-of-constraints-101/&quot;&gt;Theory of Constraints&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;This is an entire series of essays on a hidden gem of the manufacturing industry. People around me today in software probably don&apos;t know that &quot;Agile&quot; &amp;#x26; agile methodologies are little more than a paint-job over this more timeless idea from a much less sexy industry (which is one reason they dressed it up in new clothes)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;TODO: elaborate (also Lindy Effect breakdown)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you&apos;re interested in project management, make sure not to skim over any sentences. This paradigm-shift is all about the subtle nuances. The power behind this ultra-deceptively simple forced me to rethink how I approach any project of formidable scale. The biggest diamond hidden in plain sight is when you don&apos;t try to apply this to entire organizations, but even on the scale of how you approach your work as an individual.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;everything-is-a-remix&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#everything-is-a-remix&quot; aria-label=&quot;everything is a remix permalink&quot; class=&quot;markdown-header before&quot;&gt;&lt;div class=&apos;markdown-header-link&apos;&gt;&lt;/div&gt;&lt;/a&gt;&lt;a href=&quot;https://www.everythingisaremix.info/watch-the-series&quot;&gt;Everything Is A Remix™&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Being original is overrated
+&lt;br /&gt;nor is it really realistic&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&quot;Good artists copy. Great artists steal.&quot;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;They&apos;ve continued the project,
+but I&apos;m referring to the original 2015 version:&lt;/p&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/nJPERZDfyWc&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; loading=&quot;lazy&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;a-case-for-optimism&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#a-case-for-optimism&quot; aria-label=&quot;a case for optimism permalink&quot; class=&quot;markdown-header before&quot;&gt;&lt;div class=&apos;markdown-header-link&apos;&gt;&lt;/div&gt;&lt;/a&gt;&lt;a href=&quot;https://ourworldindata.org/wrong-about-the-world&quot;&gt;A case for optimism&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Social media algorithms benefit from a negativity bias, but is the world really getting worse?&lt;/p&gt;
+&lt;p&gt;Don&apos;t lose the forest for the trees&lt;/p&gt;
+&lt;p&gt;We certainly have no shortage of work left to do, but &lt;strong&gt;&quot;knowledge about what we have achieved leaves no place for cynicism&quot;&lt;/strong&gt;. Our World in Data™ is a goldmine of empirical data. I linked the one I did because it felt most relevant but I encourage you to filter their articles for other topics you&apos;re interested in! I&apos;ll drop one more relevant link for &lt;a href=&quot;https://ourworldindata.org/optimism-pessimism&quot;&gt;their longer compilation of data on Optimism &amp;#x26; Pessimism&lt;/a&gt;.&lt;/p&gt;
+&lt;iframe src=&quot;https://ourworldindata.org/grapher/share-in-poverty-relative-to-different-poverty-thresholds?time=earliest..2017&amp;country=~OWID_WRL&quot; loading=&quot;lazy&quot; style=&quot;width: 100%; height: 600px; border: 0px none;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;how-software-is-eating-the-world&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#how-software-is-eating-the-world&quot; aria-label=&quot;how software is eating the world permalink&quot; class=&quot;markdown-header before&quot;&gt;&lt;div class=&apos;markdown-header-link&apos;&gt;&lt;/div&gt;&lt;/a&gt;&lt;a href=&quot;https://breakingsmart.com/en/season-1&quot;&gt;How Software Is Eating The World&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Let me be clear, this is a book-length collection of essays elaborating on the ideas of someone who invented the original, graphical web browser &amp;#x26; has gone on to run one of the most successful venture capital firms funding countless software companies who lay the landscape for the world you live in today. While the lead writer may drop more SAT words than you&apos;ve seen in a while, this is a masterful summary of how &lt;em&gt;...software is eating the world.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;For all you &quot;non-technical&quot; folks who don&apos;t have Computer Science degrees, I&apos;d commit to whichever 3-5 chapters most grab your interest. You&apos;ve heard &quot;transformational technology&quot; enough times to question &quot;really? When I look back in history, I don&apos;t see any comparison of this much sustaining innovation. Is this all just hype propping up a failing system? How far can this revolution &lt;em&gt;really&lt;/em&gt; go?&quot; ...this might be the most thorough introduction to open your eyes.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;a-singaporean-perspective-on-us-china-relations&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#a-singaporean-perspective-on-us-china-relations&quot; aria-label=&quot;a singaporean perspective on us china relations permalink&quot; class=&quot;markdown-header before&quot;&gt;&lt;div class=&apos;markdown-header-link&apos;&gt;&lt;/div&gt;&lt;/a&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=T1AY9H89tTY&quot;&gt;A Singaporean perspective on US-China relations&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;This provocative talk is a masterclass in persuasion. Don&apos;t let the title deceive you: this ice-breaker comes from a place of deep cultural investment &amp;#x26; admiration in Western Philosophy.&lt;/p&gt;
+&lt;p&gt;...&amp;#x26; more importantly, from a well-connected UN ambassador on the other side of the world. If you weren&apos;t aware, the country of Singapore is a brilliant city-state that administers by some measures the busiest port in the world. For their size, they could not be more deeply embedded in the global network of trade, which gives them a unique outsider-yet-insider perspective on India, China, &amp;#x26; the U.S. to name a few.&lt;/p&gt;
+&lt;p&gt;This is a cold shower
+&lt;br /&gt;This is a wake-up call&lt;/p&gt;
+&lt;p&gt;Regardless of your sentiment towards &quot;The West&quot; (which is much more than the U.S. by the way), you don&apos;t have to be a complete doomer to benefit from the inquiry:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&quot;How might we, the world,&lt;br/&gt;best prepare for a future where the U.S.&lt;br /&gt;is no longer the undisputed hegemon?&quot;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;If that sounds absurd,
+&lt;br /&gt;I encourage you to revisit
+&lt;br /&gt;the &lt;a href=&quot;https://ourworldindata.org/world-population-cartogram&quot;&gt;world map scaled by population&lt;/a&gt;
+&lt;br /&gt;at the very introduction of this page&lt;/p&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/T1AY9H89tTY?start=204&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; loading=&quot;lazy&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;It&apos;s a crucial conversation&lt;br /&gt;because it just doesn&apos;t divide cleanly into the &quot;No, we&apos;re the worst.&quot; &quot;No, we&apos;re the best.&quot; culture wars &amp;#x26; narratives inside the U.S.&lt;/p&gt;
+&lt;p&gt;The other 95.75% of the world,
+&lt;br /&gt;not to mention the future,
+&lt;br /&gt;have their own narratives&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;!---
+### [Against Waldenponding](https://breakingsmart.substack.com/p/against-waldenponding)
+
+When&apos;s the last time you&apos;ve heard this:
+
+&gt; _&quot;Ugh, we just need to disconnect more &amp; get away from it all&quot;_
+
+...it&apos;s one thing to savor the time you get to be around friends &amp; family, but perhaps the fantasies of taking months at a time away from society aren&apos;t what they&apos;re cracked up to be. I love this stuff so much because I&apos;ve never heard this counter-argument: it makes me feel equally more &amp; less at peace with the world today. That&apos;s a paradox I love to lean into.
+
+&lt;br /&gt;&lt;br /&gt;
+--&gt;
+&lt;h3 id=&quot;hard-earned-lessons-in-environmentalism-coming-soon&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#hard-earned-lessons-in-environmentalism-coming-soon&quot; aria-label=&quot;hard earned lessons in environmentalism coming soon permalink&quot; class=&quot;markdown-header before&quot;&gt;&lt;div class=&apos;markdown-header-link&apos;&gt;&lt;/div&gt;&lt;/a&gt;Hard-earned lessons in Environmentalism [coming soon]&lt;/h3&gt;
+&lt;p&gt;Coming Soon: rethinking Green™ &amp;#x26; notes on ecopragmatism from a lifetime&lt;/p&gt;
+&lt;!---
+### [Hard-earned lessons in Environmentalism](https://e360.yale.edu/features/stewart_brands_strange_trip_whole_earth_to_nuclear_power)
+
+Although even millenials might not recognize his name, Stewart Brand [TODO]. He now prefers the term eco-pragmatist. We can&apos;t go back &amp; we can&apos;t afford to slow innnnovations on the horizon. Even if you&apos;re a proud tree-hugger who thinks that _&quot;industrial civilization has committed crimes, sins against nature, and retribution is coming&quot;_ ...then he&apos;s a respectful, sympathetic voice who learned some hard lessons.
+
+We all have something to learn from someone who has been on the frontier of the environmental movement since the &apos;60s &amp; &apos;70s. This is the only exception to my rule for this page because the exact link to him isn&apos;t as important as his perspective that has loomed over me.  There may be better summaries, but this short interview is a brief enough introduction to his current thinking.
+
+--&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;memorable-quotes&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#memorable-quotes&quot; aria-label=&quot;memorable quotes permalink&quot; class=&quot;markdown-header before&quot;&gt;&lt;div class=&apos;markdown-header-link&apos;&gt;&lt;/div&gt;&lt;/a&gt;Memorable Quotes&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&quot;Life can be much broader once you discover one simple fact:&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;everything around you that you call life was made up by people that were no smarter than you.&lt;/strong&gt; And you can change it, you can influence it...&lt;br /&gt;&lt;br /&gt;Once you learn that, you&apos;ll never be the same again.&quot;&lt;/em&gt; &lt;br /&gt;--&lt;a href=&quot;https://www.youtube.com/watch?v=kYfNvmF0Bqw&quot;&gt;Steve Jobs&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&quot;...in the day-to-day trenches of adult life, there is actually no such thing as atheism. &lt;strong&gt;There is no such thing as not worshipping. Everybody worships. The only choice we get is what to worship.&lt;/strong&gt; And the compelling reason for maybe choosing some sort of god or spiritual-type thing to worship–be it JC or Allah, be it YHWH or the Wiccan Mother Goddess, or the Four Noble Truths, or some inviolable set of ethical principles–is that pretty much anything else you worship will eat you alive.&quot;&lt;/em&gt; &lt;br /&gt;--David Foster Wallace, &lt;a href=&quot;https://fs.blog/2012/04/david-foster-wallace-this-is-water/&quot;&gt;This is Water&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&quot;...I am better off than he is---&lt;br /&gt;for &lt;strong&gt;he knows nothing, and thinks that he
+knows: I neither know nor think that I know.&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;In this latter particular,
+then, I seem to have slightly the advantage of him...&quot;&lt;/em&gt; &lt;br /&gt;--Socrates (not
+in English though) &lt;br /&gt;... --Plato (as documented in his &quot;Apology&quot;) &lt;br /&gt;... ... --Michael Scott&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[4 words are enough]]></title><description><![CDATA[Get to the point]]></description><link>https://stevenkneiser.com/blog/four-words</link><guid isPermaLink="false">https://stevenkneiser.com/blog/four-words</guid><pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Get to the point&lt;/p&gt;
+&lt;!-- excerpt --&gt;
+&lt;p&gt;Shorten your emails, &lt;span class=&quot;inline-block transform rotate-6 translate-y-3&quot;&gt;&lt;em&gt;JonathanTheFourth&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;We all know &lt;span class=&quot;inline-block transform rotate-6 translate-y-3&quot;&gt;&lt;em&gt;JonathanTheFourth&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Problems problem-solvers can't solve]]></title><description><![CDATA["I love math: it's repeatable & objective The other subjects are too 'up to interpretation'" --me, foolish high schooler]]></description><link>https://stevenkneiser.com/blog/problem-solving</link><guid isPermaLink="false">https://stevenkneiser.com/blog/problem-solving</guid><pubDate>Tue, 21 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&quot;I love math:&lt;br&gt;
+it&apos;s repeatable &amp;#x26; objective&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The other subjects are too&lt;br&gt;
+&apos;up to interpretation&apos;&quot;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;--me, foolish high schooler&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;!-- excerpt --&gt;
+&lt;br /&gt;
+&lt;p&gt;I studied engineering because I loved &quot;problem-solving&quot;&lt;br&gt;
+But problems come from many domains &amp;#x26; languages&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Markets rarely reward purists&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;College tests were consistent, built on an agreed-upon knowledge base&lt;br&gt;
+If none of my peers understood a problem, we&apos;d curse the professor&lt;br&gt;
+That culture helped us push the frontier of human knowledge, but&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Most problems aren&apos;t at the edges of science; they&apos;re between people&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Newton figured out Calculus long ago, but &lt;em&gt;billions&lt;/em&gt; still can&apos;t&lt;br&gt;
+The range of business problems dwarfs that of academia&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;&lt;em&gt;Good&lt;/em&gt; engineers, consultants, &amp;#x26; salespeople find solutions&lt;br&gt;
+but &lt;em&gt;Great&lt;/em&gt; ones find deeper problems&lt;br&gt;
+They don&apos;t solve what emerged,&lt;br&gt;
+but what brought it up&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Professionals aren&apos;t paid to answer,&lt;br&gt;
+but to further question&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;So what&apos;s the answer?&lt;br&gt;
+.&lt;br&gt;
+.&lt;br&gt;
+.&lt;br&gt;
+Wrong question&lt;/p&gt;
+&lt;h2 id=&quot;it-isnt-about-solving&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#it-isnt-about-solving&quot; aria-label=&quot;it isnt about solving permalink&quot; class=&quot;markdown-header before&quot;&gt;&lt;div class=&apos;markdown-header-link&apos;&gt;&lt;/div&gt;&lt;/a&gt;It isn&apos;t about solving&lt;/h2&gt;
+&lt;p&gt;It&apos;s about starting a new relationship&lt;br&gt;
+It&apos;s about &lt;em&gt;getting to know&lt;/em&gt; the problem&lt;/p&gt;
+&lt;p&gt;A problem well-defined is already solved&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Profound solutions aren&apos;t &quot;outside the box&quot;:&lt;br&gt;
+they come when you ask enough questions&lt;br&gt;
+to notice that &quot;the box&quot; was just a circle&lt;/strong&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;The most difficult problems I face&lt;br&gt;
+have multiple tempting half-solutions&lt;br&gt;
+that only distract from the pursuit of clarity&lt;/p&gt;
+&lt;p&gt;We&apos;ve already solved the small problems&lt;br&gt;
+We even solved solving with machines&lt;br&gt;
+so stop grinding your gears&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The most worthwhile question&lt;br&gt;
+is the one you haven&apos;t asked yet&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The very best even ask computers questions&lt;/em&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Business is Trust]]></title><description><![CDATA[Which sounds most intimidating? applying for jobs out of reach asking that stranger on a date building a sustainable business]]></description><link>https://stevenkneiser.com/blog/business-is-trust</link><guid isPermaLink="false">https://stevenkneiser.com/blog/business-is-trust</guid><pubDate>Tue, 16 Apr 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Which sounds most intimidating?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;applying for jobs out of reach&lt;/li&gt;
+&lt;li&gt;asking that stranger on a date&lt;/li&gt;
+&lt;li&gt;building a sustainable business&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- excerpt --&gt;
+&lt;p&gt;These are transactions, and they require communication&lt;br&gt;
+If you want someone else&apos;s time or money,&lt;br&gt;
+then you need to earn their trust&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Trust is a communication cache: when we trust, we needn&apos;t say another word&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;In love, trust brings comfort &amp;#x26; security&lt;br&gt;
+In business, trust brings money &amp;#x26; success&lt;/p&gt;
+&lt;h2 id=&quot;do-i-know-you&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#do-i-know-you&quot; aria-label=&quot;do i know you permalink&quot; class=&quot;markdown-header before&quot;&gt;&lt;div class=&apos;markdown-header-link&apos;&gt;&lt;/div&gt;&lt;/a&gt;Do I know you?&lt;/h2&gt;
+&lt;p&gt;Your career in your 20s is largely stockpiling social proof&lt;br&gt;
+When an employer asks for your portfolio, they need social proof&lt;br&gt;
+They only &lt;em&gt;trust&lt;/em&gt; some of the employers who&apos;ve &lt;em&gt;entrusted&lt;/em&gt; you before&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Does Bill Gates need a résumé?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Most people start dating through a social circle&lt;br&gt;
+You can &quot;go out&quot; but what if some cutie already hangs out with your friends?&lt;br&gt;
+They already &lt;em&gt;trust&lt;/em&gt; you because enough people &lt;em&gt;they trust&lt;/em&gt; do&lt;/p&gt;
+&lt;p&gt;This is why building my first business alone was so. damn. hard.&lt;br&gt;
+People only buy when they &lt;em&gt;trust&lt;/em&gt; me to solve their problem&lt;br&gt;
+&lt;strong&gt;Nothing matters&lt;/strong&gt; until I can prove it to them in their own language&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How long did I take to build that trust?&lt;/li&gt;
+&lt;li&gt;How abruptly could I burn that trust for a quick buck?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Just because you could doesn&apos;t mean you should&lt;br&gt;
+Ask yourself: &quot;how can I earn more trust today?&quot;&lt;br&gt;
+It&apos;s often as simple as showing up&lt;/p&gt;</content:encoded></item></channel></rss>
