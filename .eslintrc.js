@@ -1,6 +1,10 @@
 module.exports = {
   plugins: ['prettier', 'only-warn'],
   extends: ['airbnb', 'prettier'],
+  env: {
+    browser: true,
+    node: true
+  },
   rules: {
     'prettier/prettier': [
       'warn',
@@ -12,5 +16,6 @@ module.exports = {
         parser: 'flow'
       },
     ],
+    'react/prop-types': 'off', //ignore broken eslint-plugin-react bug
   },
 }

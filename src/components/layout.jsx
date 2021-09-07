@@ -4,6 +4,7 @@ import React from 'react'
 import NavBar from './navbar'
 import Footer from './footer'
 import Head from './head'
+
 import background from '../assets/img/notebook-dark.png'
 
 export default function Layout({ children, title }) {

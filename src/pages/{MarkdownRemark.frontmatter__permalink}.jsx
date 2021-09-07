@@ -1,3 +1,4 @@
+import PropTypes from 'prop-types'
 import React from 'react'
 import { graphql, Link } from 'gatsby'
 
@@ -92,3 +93,14 @@ export default function Template({ data }) {
     </Layout>
   )
 }
+
+Layout.propTypes = {
+  data: PropTypes.exact({
+    nodes: PropTypes.arrayOf({
+      frontmatter: PropTypes.object.isRequired,
+      timeToRead: PropTypes.string.isRequired,
+    }).isRequired,
+  }).isRequired,
+}
+
+Layout.defaultProps = {}

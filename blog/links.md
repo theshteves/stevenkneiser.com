@@ -7,7 +7,7 @@ date: "2021-06-28"
 Ted Talks™
 <br />are for Ideas Worth Spreading
 
-This list of mine
+This list
 <br />is for Links Worth Spreading
 
 <!-- excerpt -->

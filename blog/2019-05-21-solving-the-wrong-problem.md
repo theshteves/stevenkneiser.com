@@ -6,8 +6,8 @@ date:   "2019-05-21"
 > _"I love math:  
 > it's repeatable & objective_
 > 
-> _The other subjects are too  
-> 'up to interpretation'"_
+> _The other subjects  
+> are too 'up to interpretation'"_
 >
 > --me, foolish high schooler
 
