@@ -31,7 +31,7 @@ export default function Template({ data }) {
   const { date, title, draft } = frontmatter
 
   const meta = {
-    title,
+    title: `${title} - Steven Kneiser`,
     description: excerpt,
   }
 
