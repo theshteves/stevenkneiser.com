@@ -4,7 +4,7 @@ import { Link } from 'gatsby'
 import Layout from '../components/layout'
 
 import coffee from '../assets/img/coffee/coffee-splatter-7.png'
-import fart from '../assets/fart.mp3'
+import sfx from '../assets/fart.mp3'
 import theshteves from '../assets/img/theshteves-transparent.webp'
 
 export default function AboutPage() {
@@ -14,14 +14,17 @@ export default function AboutPage() {
 
   return (
     <Layout>
-      <img
-        src={theshteves}
-        className='mx-auto md:absolute top-16 right-16 block transform rotate-12 w-full md:w-2/5 opacity-80 z-10'
-        onClick={play}
-      />
-      <audio id='best-sfx'>
-        <source src={fart} type='audio/mpeg' />
-      </audio>
+      <button type='button' onClick={play} onKeyDown={play}>
+        <img
+          src={theshteves}
+          className='mx-auto md:absolute top-16 right-16 block transform rotate-12 w-full md:w-2/5 opacity-80 z-10'
+          alt='theshteves'
+        />
+        <audio id='best-sfx'>
+          <track src='../assets/fart.vtt' kind='captions' srcLang='en' />
+          <source src={sfx} type='audio/mpeg' />
+        </audio>
+      </button>
 
       <h2 id='me-in-10-seconds'>Me in 10 seconds</h2>
       <p className='italic'>
