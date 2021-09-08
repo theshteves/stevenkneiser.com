@@ -9,16 +9,18 @@ export default function Preview({ node }) {
   const dayOfYear = date.split(',')[0]
   const year = date.slice(-4)
 
+  const tiltClassName = (num) => {
+    if (num === 1) {
+      return 'transform self-center'
+    }
+    if (num % 2) {
+      return 'transform -rotate-2 self-center'
+    }
+    return 'transform rotate-1 self-center'
+  }
+
   return (
-    <div
-      className={
-        timeToRead % 2
-          ? timeToRead === 1
-            ? 'transform self-center'
-            : 'transform -rotate-2 self-center'
-          : 'transform rotate-1 self-center'
-      }
-    >
+    <div className={tiltClassName(timeToRead)}>
       <div
         className={
           draft ? 'my-80 postit bg-yellow-100' : 'my-80 postit bg-yellow-300'

@@ -38,6 +38,6 @@ export default function TableOfContents({ contents }) {
   )
 }
 
-TableOfContents.Proptypes = {
+TableOfContents.propTypes = {
   contents: PropTypes.element.isRequired,
 }

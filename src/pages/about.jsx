@@ -21,7 +21,7 @@ export default function AboutPage() {
           alt='theshteves'
         />
         <audio id='best-sfx'>
-          <track src='../assets/fart.vtt' kind='captions' srcLang='en' />
+          <track src='../assets/sfx.vtt' kind='captions' srcLang='en' />
           <source src={sfx} type='audio/mpeg' />
         </audio>
       </button>

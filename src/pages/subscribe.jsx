@@ -4,7 +4,7 @@ import Layout from '../components/layout'
 import Embed from '../components/ConvertKit/embed'
 
 export default function NewsletterPage() {
-  const url = typeof window !== 'undefined' ? window.location.href : ''
+  // const url = typeof window !== 'undefined' ? window.location.href : ''
 
   return (
     <Layout>
