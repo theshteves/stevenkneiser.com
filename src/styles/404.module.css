@@ -1,8 +1,8 @@
 .notFound {
-  height: 100vh;
+  @apply fixed h-screen inset-0;
   box-sizing: border-box;
   background-color: #000000;
-  background-image: radial-gradient(#11581E, #041607), url("/assets/img/404-noise.webp");
+  background-image: radial-gradient(#11581E, #041607), url("../assets/img/404-noise.webp");
   background-repeat: no-repeat;
   background-size: cover;
   font-family: monospace;
@@ -12,19 +12,17 @@
   margin: 0 auto;
 }
 
-.notFound > .noise {
+.noise {
+  @apply absolute w-full h-full;
   pointer-events: none;
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  background-image: url("/assets/img/404-noise.webp");
+  background-image: url("../assets/img/404-noise.webp");
   background-repeat: no-repeat;
   background-size: cover;
   z-index: -1;
   opacity: .02;
 }
 
-.notFound > .overlay {
+.overlay {
   pointer-events: none;
   position: absolute;
   width: 100%;
@@ -34,7 +32,7 @@
   z-index: 1;
 }
 
-.notFound > .overlay::before {
+.overlay::before {
   content: "";
   pointer-events: none;
   position: absolute;
@@ -62,13 +60,16 @@
   100% { background-position: 0 100vh; }
 }
 
-.notFound > .terminal {
+.terminal {
   box-sizing: inherit;
-  max-width: 100%;
   margin-top: 12rem;
   /*text-transform: uppercase;*/
+  @apply container mx-auto pl-8;
 }
 
+.terminal h1 {
+  @apply text-6xl md:text-8xl;
+}
 .terminal .output {
   color: rgba(128, 255, 128, 0.8);
   text-shadow: 0 0 1px rgba(51, 255, 51, 0.4), 0 0 2px rgba(255, 255, 255, 0.8);
@@ -76,14 +77,16 @@
 
 .terminal .output::before { content: "> "; }
 
-.terminal a {
+.terminal a, .terminal button {
+  text-decoration: underline;
   text-underline-offset: .35rem;
   color: #fff;
+  text-shadow: 0 0 1px rgba(51, 255, 51, 0.4), 0 0 2px rgba(255, 255, 255, 0.8);
 }
 
 .terminal .errorcode { color: white; }
 
-.notFound > .fullscreen {
+.fullscreen {
   position: fixed;
   top: 0;
   left: 0;
