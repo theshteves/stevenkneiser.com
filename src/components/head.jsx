@@ -7,9 +7,9 @@ export default function Head({ meta }) {
   const structuredData = {
     '@context': 'https://schema.org',
     '@type': 'WebPage',
-    'headline': title,
-    'description': description,
-    'url': 'stevenkneiser.com',
+    headline: title,
+    description,
+    url: 'stevenkneiser.com',
   }
 
   return (
