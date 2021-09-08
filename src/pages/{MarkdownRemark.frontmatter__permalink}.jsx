@@ -2,7 +2,7 @@ import PropTypes from 'prop-types'
 import React from 'react'
 import { graphql, Link } from 'gatsby'
 
-import Poke from '../components/Pageclip/poke'
+// import Poke from '../components/Pageclip/poke'
 import Layout from '../components/layout'
 import TableOfContents from '../components/toc'
 
@@ -27,7 +27,7 @@ export const query = graphql`
 export default function Template({ data }) {
   const { frontmatter, timeToRead, tableOfContents, html } =
     data.allMarkdownRemark.nodes[0]
-  const { date, permalink, title, draft } = frontmatter
+  const { date, title, draft } = frontmatter
 
   return (
     <Layout>

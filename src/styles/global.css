@@ -174,18 +174,21 @@ figure {
 /* Patch stubborn markdown renderer */
 :not(:target) > .markdown-header.before:hover {
   transform: translate(-100%, 0.5rem);
-  @apply transition;
+}
+:not(:target) > .markdown-header > .markdown-header-link:hover {
+  @apply opacity-60;
 }
 
 :target > .markdown-header > .markdown-header-link {
   transform: translate(2rem, -2.5rem) rotate(30deg);
+  @apply opacity-100;
 }
 
 .markdown-header > .markdown-header-link {
   background-image: url("../assets/img/thumbtack.webp");
   transform: translate(2rem, -2.5rem) rotate(70deg);
   width: 2.8rem;
-  @apply bg-cover h-12 transition;
+  @apply bg-cover h-12 transition opacity-20;
   /* @apply visible; */
 }
 
