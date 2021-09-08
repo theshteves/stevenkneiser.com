@@ -24,8 +24,14 @@ export const query = graphql`
 export default function BlogPage({ data }) {
   const { nodes } = data.allMarkdownRemark
 
+  const recentTitles = nodes.slice(1, 4).map(node => ' ' + node.frontmatter.title)
+  const meta = {
+    title: 'Blog - Steven Kneiser',
+    description: `The blog of Steven Kneiser:${recentTitles}, & more`,
+  }
+
   return (
-    <Layout>
+    <Layout meta={meta}>
       <h1>Most Recent</h1>
 
       <div className='mt-16 flex flex-wrap justify-evenly content-around items-center'>

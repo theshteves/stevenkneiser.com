@@ -7,14 +7,14 @@ import Head from './head'
 
 import background from '../assets/img/notebook-dark.png'
 
-export default function Layout({ children, title }) {
+export default function Layout({ children, meta }) {
   return (
     <div
       id='layout'
       className='w-screen bg-yellow-50'
       style={{ backgroundImage: `url(${background})` }}
     >
-      <Head title={title} />
+      <Head meta={meta} />
       <NavBar />
 
       <main className='p-4 pt-20 min-h-screen md:container md:mx-auto'>
@@ -27,10 +27,19 @@ export default function Layout({ children, title }) {
 }
 
 Layout.propTypes = {
-  children: PropTypes.arrayOf(PropTypes.element).isRequired,
-  title: PropTypes.string,
+  children: PropTypes.oneOfType([
+    PropTypes.arrayOf(PropTypes.element),
+    PropTypes.element,
+  ]).isRequired,
+  meta: PropTypes.exact({
+    title: PropTypes.string,
+    description: PropTypes.string,
+  }),
 }
 
 Layout.defaultProps = {
-  title: 'stevenkneiser.com',
+  meta: {
+    title: 'stevenkneiser.com',
+    description: `Steven Kneiser's little home on the internet`,
+  },
 }

@@ -2,14 +2,14 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
 
-export default function Head({ title }) {
-  const description = "Steven Kneiser's little home on the internet"
+export default function Head({ meta }) {
+  const { title, description } = meta
   const structuredData = {
-    headline: title,
-    description,
-    '@type': 'WebPage',
-    url: 'stevenkneiser.com',
     '@context': 'https://schema.org',
+    '@type': 'WebPage',
+    'headline': title,
+    'description': description,
+    'url': 'stevenkneiser.com',
   }
 
   return (
@@ -122,9 +122,8 @@ export default function Head({ title }) {
 }
 
 Head.propTypes = {
-  title: PropTypes.string,
-}
-
-Head.defaultProps = {
-  title: 'stevenkneiser.com',
+  meta: PropTypes.exact({
+    title: PropTypes.string,
+    description: PropTypes.string,
+  }).isRequired,
 }

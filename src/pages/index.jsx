@@ -6,8 +6,13 @@ import Calendly from '../components/calendly'
 import construction from '../assets/img/construction.webp'
 
 export default function IndexPage() {
+  const meta = {
+    title: `Hi, I'm Steven Kneiser`,
+    description: `Steven Kneiser's little home on the internet is now under construction`,
+  }
+
   return (
-    <Layout title="Hi, I'm Steven Kneiser">
+    <Layout meta={meta}>
       <figure className='py-8'>
         <h1 className='text-center'>
           stevenkneiser.com

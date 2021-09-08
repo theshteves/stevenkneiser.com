@@ -7,8 +7,13 @@ export const query = graphql`
   query {
     allMarkdownRemark {
       nodes {
+        frontmatter {
+          permalink
+          title
+          date
+          draft
+        }
         timeToRead
-        fileAbsolutePath
         wordCount {
           words
           paragraphs
@@ -22,7 +27,9 @@ export const query = graphql`
 export default function DataPage({ data }) {
   return (
     <Layout>
-      <pre className='font-mono'>{JSON.stringify(data, null, 2)}</pre>
+      <pre className='font-mono'>
+        {JSON.stringify(data, null, 2)}
+      </pre>
     </Layout>
   )
 }

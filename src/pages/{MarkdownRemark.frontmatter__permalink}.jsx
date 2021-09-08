@@ -16,6 +16,7 @@ export const query = graphql`
           title
           draft
         }
+        excerpt
         timeToRead
         tableOfContents
         html
@@ -25,12 +26,17 @@ export const query = graphql`
 `
 
 export default function Template({ data }) {
-  const { frontmatter, timeToRead, tableOfContents, html } =
+  const { frontmatter, excerpt, timeToRead, tableOfContents, html } =
     data.allMarkdownRemark.nodes[0]
   const { date, title, draft } = frontmatter
 
+  const meta = {
+    title: title,
+    description: excerpt,
+  }
+
   return (
-    <Layout>
+    <Layout meta={meta}>
       <h1>{title}</h1>
       <div className='mb-16'>
         <p className='font-mono my-0'>

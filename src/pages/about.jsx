@@ -8,12 +8,17 @@ import sfx from '../assets/fart.mp3'
 import theshteves from '../assets/img/theshteves-transparent.webp'
 
 export default function AboutPage() {
+  const meta = {
+    title: 'About - Steven Kneiser',
+    description: `Hi, I'm Steven Kneiser. I help new developers 💃🕺 STAND OUT. Like me, this page is a work-in-progress`,
+  }
+
   const play = () => {
     document.getElementById('best-sfx').play()
   }
 
   return (
-    <Layout>
+    <Layout meta={meta}>
       <button type='button' onClick={play} onKeyDown={play}>
         <img
           src={theshteves}
