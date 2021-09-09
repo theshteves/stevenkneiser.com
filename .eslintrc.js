@@ -1,6 +1,15 @@
 module.exports = {
-  plugins: ['prettier', 'only-warn'],
-  extends: ['airbnb', 'prettier'],
+  plugins: [
+    'prettier',
+    'only-warn',
+    'cypress',
+  ],
+  extends: [
+    'airbnb',
+    'prettier',
+    'plugin:cypress/recommended',
+    'plugin:chai-friendly/recommended',
+  ],
   env: {
     browser: true,
     node: true
