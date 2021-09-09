@@ -34,12 +34,5 @@ Layout.propTypes = {
   meta: PropTypes.exact({
     title: PropTypes.string,
     description: PropTypes.string,
-  }),
-}
-
-Layout.defaultProps = {
-  meta: {
-    title: 'stevenkneiser.com',
-    description: `Steven Kneiser's little home on the internet`,
-  },
+  }).isRequired,
 }

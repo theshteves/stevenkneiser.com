@@ -24,7 +24,7 @@ export const query = graphql`
   }
 `
 
-export default function DataPage({ data }) {
+export default function DebugPage({ data }) {
   return (
     <Layout>
       <pre className='font-mono'>{JSON.stringify(data, null, 2)}</pre>
