@@ -9,24 +9,50 @@ export const query = graphql`
     allMarkdownRemark(sort: { fields: frontmatter___date, order: DESC }) {
       nodes {
         frontmatter {
+          date
           permalink
           title
-          date(formatString: "MMMM Do, YYYY")
           draft
         }
         excerpt(format: HTML)
         timeToRead
       }
     }
+
+    allCwc(sort: { fields: date, order: DESC }) {
+      nodes {
+        date
+        url
+        title
+        excerpt
+      }
+    }
   }
 `
 
 export default function BlogPage({ data }) {
-  const { nodes } = data.allMarkdownRemark
+  // Merge all content, sorted by date
+  const personalBlog = data.allMarkdownRemark.nodes.map((node) => ({
+    date: new Date(`${node.frontmatter.date} 16:00`),
+    href: node.frontmatter.permalink,
+    title: node.frontmatter.title,
+    blurb: node.excerpt,
+    source: 'internal',
+    draft: node.frontmatter.draft,
+  }))
+  const cwcBlog = data.allCwc.nodes.map((node) => ({
+    date: new Date(`${node.date} 16:00`),
+    href: node.url,
+    title: node.title,
+    blurb: `<p>${node.excerpt}</p>`,
+    source: 'cwc',
+    draft: false,
+  }))
+  const previews = personalBlog.concat(cwcBlog).sort((a, b) => b.date - a.date)
 
-  const recentTitles = nodes
+  const recentTitles = previews
     .slice(1, 4)
-    .map((node) => ` ${node.frontmatter.title}`)
+    .map((preview) => ` ${preview.title}`)
   const meta = {
     title: 'Blog - Steven Kneiser',
     description: `The blog of Steven Kneiser:${recentTitles}, & more`,
@@ -37,8 +63,16 @@ export default function BlogPage({ data }) {
       <h1>Most Recent</h1>
 
       <div className='mt-16 flex flex-wrap justify-evenly content-around items-center'>
-        {nodes.map((node) => (
-          <Preview key={node.frontmatter.permalink} node={node} />
+        {previews.map(({ date, href, title, blurb, source, draft }) => (
+          <Preview
+            key={href}
+            date={date}
+            href={href}
+            title={title}
+            blurb={blurb}
+            source={source}
+            draft={draft}
+          />
         ))}
       </div>
     </Layout>

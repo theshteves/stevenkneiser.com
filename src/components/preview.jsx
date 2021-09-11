@@ -3,37 +3,45 @@ import { Link } from 'gatsby'
 
 import texture from '../assets/img/exclusive-paper.png'
 
-export default function Preview({ node }) {
-  const { frontmatter, excerpt, timeToRead } = node
-  const { permalink, title, date, draft } = frontmatter
-  const dayOfYear = date.split(',')[0]
-  const year = date.slice(-4)
+export default function Preview({ date, href, title, blurb, source, draft }) {
+  const dayOfYear = date
+    .toLocaleString('en-US', { dateStyle: 'long' })
+    .split(',')[0]
+  const currentYear = new Date().getFullYear()
+  const year = date.getFullYear()
 
-  const tiltClassName = (num) => {
-    if (num === 1) {
+  const tiltStyle = (num) => {
+    if (num % 3 === 0) {
       return 'transform self-center'
     }
-    if (num % 2) {
-      return 'transform -rotate-2 self-center'
+    if ((num + 1) % 3 === 0) {
+      return 'transform rotate-2 self-center'
     }
-    return 'transform rotate-1 self-center'
+    return 'transform -rotate-2 self-center'
+  }
+
+  const cardType = () => {
+    const classNames = ['my-80', 'postit']
+
+    const bgColor = source === 'internal' ? 'yellow' : 'green'
+    classNames.push(draft ? `bg-${bgColor}-100` : `bg-${bgColor}-300`)
+
+    return classNames.join(' ')
   }
 
   return (
-    <div className={tiltClassName(timeToRead)}>
+    <div className={tiltStyle(title.length)}>
       <div
-        className={
-          draft ? 'my-80 postit bg-yellow-100' : 'my-80 postit bg-yellow-300'
-        }
+        className={cardType()}
         style={{ backgroundImage: `url(${texture})` }}
       >
         <p className='my-1 text-left font-mono transform -rotate-6 italic'>
           {dayOfYear},{' '}
           <span
             className={
-              year === '2021'
+              year === currentYear
                 ? ''
-                : 'inline-block rounded-lg px-1 text-white bg-yellow-600 italic'
+                : 'inline-block rounded-lg px-1 text-yellow-800 italic'
             }
           >
             {year}
@@ -44,21 +52,35 @@ export default function Preview({ node }) {
           <p className='mt-4 text-right font-mono'>🔒 draft in progress</p>
         ) : null}
 
-        <Link to={permalink}>
-          <h2
-            className={
-              draft
-                ? 'text-3xl text-gray-500 mt-4'
-                : 'text-3xl text-blue-700 mt-8'
-            }
-          >
-            {title}
-          </h2>
-        </Link>
+        {source === 'internal' ? (
+          <Link to={href}>
+            <h2
+              className={
+                draft
+                  ? 'text-3xl text-gray-500 mt-4'
+                  : 'text-3xl text-blue-700 mt-8'
+              }
+            >
+              {title}
+            </h2>
+          </Link>
+        ) : (
+          <a href={href}>
+            <h2
+              className={
+                draft
+                  ? 'text-3xl text-gray-500 mt-4'
+                  : 'text-3xl text-blue-700 mt-8'
+              }
+            >
+              {title}
+            </h2>
+          </a>
+        )}
 
         <div
           className='text-left'
-          dangerouslySetInnerHTML={{ __html: excerpt }}
+          dangerouslySetInnerHTML={{ __html: blurb }}
         />
       </div>
     </div>
