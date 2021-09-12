@@ -50,8 +50,8 @@ export default function BlogPage({ data }) {
   }))
   const previews = personalBlog.concat(cwcBlog).sort((a, b) => b.date - a.date)
 
-  const recentTitles = previews
-    .slice(1, 4)
+  const recentTitles = personalBlog
+    .slice(1, 4) // Get 3  most recent (exluding /now)
     .map((preview) => ` ${preview.title}`)
   const meta = {
     title: 'Blog - Steven Kneiser',

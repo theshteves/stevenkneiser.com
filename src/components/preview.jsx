@@ -23,8 +23,12 @@ export default function Preview({ date, href, title, blurb, source, draft }) {
   const cardType = () => {
     const classNames = ['my-80', 'postit']
 
-    const bgColor = source === 'internal' ? 'yellow' : 'green'
-    classNames.push(draft ? `bg-${bgColor}-100` : `bg-${bgColor}-300`)
+    // Explicitly name TailwindCSS classes, so they don't get stripped from production builds
+    const bgColors = {
+      internal: draft ? 'bg-yellow-100' : 'bg-yellow-300',
+      cwc: draft ? 'bg-green-100' : 'bg-green-300',
+    }
+    classNames.push(bgColors[source])
 
     return classNames.join(' ')
   }
