@@ -25,7 +25,8 @@ module.exports = {
         parser: 'flow'
       },
     ],
-    'react/prop-types': 'off', // ignore broken eslint-plugin-react bug
     'react/no-danger': 'off', // dangerously relying on internal content only
+    'react/prop-types': 'off', // ignore broken eslint-plugin-react bug
+    'react/jsx-props-no-spreading': 'off', // Convenient for Storybook
   },
 }
