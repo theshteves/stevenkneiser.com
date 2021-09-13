@@ -1,10 +1,16 @@
 .popup {
   @apply block z-40 fixed -bottom-64 -left-56 transition-transform hover:rotate-12 transform hover:translate-x-56 hover:-translate-y-64;
+
   animation: sayHi 4s 2s;
 }
 
 @keyframes sayHi {
-  0%, 100% { transform: translateX(0) translateY(0); }
-  24%, 97% { transform: translateX(8rem) translateY(0) rotateZ(15deg); }
-  60%, 85%  { transform: translateX(14rem) translateY(-16rem); }
+  0%,
+  100% { transform: translateX(0) translateY(0); }
+
+  24%,
+  97% { transform: translateX(8rem) translateY(0) rotateZ(15deg); }
+
+  60%,
+  85% { transform: translateX(14rem) translateY(-16rem); }
 }

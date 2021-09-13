@@ -1,25 +1,27 @@
 .notFound {
   @apply fixed h-screen inset-0;
+
   box-sizing: border-box;
-  background-color: #000000;
-  background-image: radial-gradient(#11581E, #041607), url("../assets/img/404-noise.webp");
+  background-color: #000;
+  background-image: radial-gradient(#11581e, #041607), url("../assets/img/404-noise.webp");
   background-repeat: no-repeat;
   background-size: cover;
   font-family: monospace;
   font-size: 1.2rem;
   color: rgba(128, 255, 128, 0.8);
-  text-shadow: 0 0 1ex #33ff33, 0 0 2px rgba(255, 255, 255, 0.8);
+  text-shadow: 0 0 1ex #3f3, 0 0 2px rgba(255, 255, 255, 0.8);
   margin: 0 auto;
 }
 
 .noise {
   @apply absolute w-full h-full;
+
   pointer-events: none;
   background-image: url("../assets/img/404-noise.webp");
   background-repeat: no-repeat;
   background-size: cover;
   z-index: -1;
-  opacity: .02;
+  opacity: 0.02;
 }
 
 .overlay {
@@ -47,7 +49,7 @@
   background-image: linear-gradient(0deg, transparent 0%, rgba(32, 128, 32, 0.2) 2%, rgba(32, 128, 32, 0.8) 3%, rgba(32, 128, 32, 0.2) 3%, transparent 100%);
   background-repeat: no-repeat;
   -webkit-animation: scan 5s linear 0s infinite;
-          animation: scan 5s linear 0s infinite;
+  animation: scan 5s linear 0s infinite;
 }
 
 @-webkit-keyframes scan {
@@ -63,13 +65,15 @@
 .terminal {
   box-sizing: inherit;
   margin-top: 12rem;
-  /*text-transform: uppercase;*/
+
+  /* text-transform: uppercase; */
   @apply container mx-auto pl-8;
 }
 
 .terminal h1 {
   @apply text-6xl md:text-8xl;
 }
+
 .terminal .output {
   color: rgba(128, 255, 128, 0.8);
   text-shadow: 0 0 1px rgba(51, 255, 51, 0.4), 0 0 2px rgba(255, 255, 255, 0.8);
@@ -77,9 +81,10 @@
 
 .terminal .output::before { content: "> "; }
 
-.terminal a, .terminal button {
+.terminal a,
+.terminal button {
   text-decoration: underline;
-  text-underline-offset: .35rem;
+  text-underline-offset: 0.35rem;
   color: #fff;
   text-shadow: 0 0 1px rgba(51, 255, 51, 0.4), 0 0 2px rgba(255, 255, 255, 0.8);
 }
