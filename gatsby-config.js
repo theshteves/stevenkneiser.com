@@ -125,6 +125,18 @@ module.exports = {
         ],
       },
     },
+    {
+    resolve: "gatsby-plugin-page-progress",
+    options: {
+      includePaths: [{ regex: "^/blog/.+" }],
+      excludePaths: [],
+      height: 4,
+      prependToBody: false,
+      color: `white`,
+      footerHeight: 500,
+      headerHeight: 0,
+    },
+  },
   ],
   flags: {
     DEV_SSR: true,
