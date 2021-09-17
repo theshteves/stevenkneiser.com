@@ -93,7 +93,7 @@ BlogPage.propTypes = {
               draft: PropTypes.string,
             }),
             excerpt: PropTypes.string,
-            timeToRead: PropTypes.int,
+            timeToRead: PropTypes.number,
           }),
         ]),
       }),

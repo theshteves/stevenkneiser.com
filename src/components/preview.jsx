@@ -93,10 +93,10 @@ export default function Preview({ date, href, title, blurb, source, draft }) {
 }
 
 Preview.propTypes = {
-  date: PropTypes.string.isRequired,
+  date: PropTypes.node.isRequired, // Date object (TODO: simplify)
   href: PropTypes.string.isRequired,
   title: PropTypes.string.isRequired,
   blurb: PropTypes.string.isRequired,
   source: PropTypes.string.isRequired,
-  draft: PropTypes.string.isRequired,
+  draft: PropTypes.bool.isRequired,
 }
