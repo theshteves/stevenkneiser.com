@@ -3,14 +3,9 @@
 @tailwind utilities;
 
 html {
-  @apply overscroll-none;
-  @apply antialiased;
+  @apply antialiased overscroll-none;
 
   scroll-behavior: smooth;
-}
-
-body {
-  @apply overflow-x-hidden bg-yellow-50;
 }
 
 main {
@@ -197,10 +192,12 @@ figure {
 /* Patch stubborn markdown renderer */
 :not(:target) > .markdown-header.before:hover {
   transform: translate(-100%, 0.5rem);
+
+  @apply group-hover:opacity-60;
 }
 
 :not(:target) > .markdown-header > .markdown-header-link:hover {
-  @apply opacity-60;
+  @apply group-hover:opacity-60;
 }
 
 :target > .markdown-header > .markdown-header-link {

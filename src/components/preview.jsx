@@ -1,3 +1,4 @@
+import PropTypes from 'prop-types'
 import React from 'react'
 import { Link } from 'gatsby'
 
@@ -15,9 +16,9 @@ export default function Preview({ date, href, title, blurb, source, draft }) {
       return 'transform self-center'
     }
     if ((num + 1) % 3 === 0) {
-      return 'transform rotate-2 self-center'
+      return 'transform self-center rotate-2'
     }
-    return 'transform -rotate-2 self-center'
+    return 'transform self-center -rotate-2'
   }
 
   const cardType = () => {
@@ -89,4 +90,13 @@ export default function Preview({ date, href, title, blurb, source, draft }) {
       </div>
     </div>
   )
+}
+
+Preview.propTypes = {
+  date: PropTypes.string.isRequired,
+  href: PropTypes.string.isRequired,
+  title: PropTypes.string.isRequired,
+  blurb: PropTypes.string.isRequired,
+  source: PropTypes.string.isRequired,
+  draft: PropTypes.string.isRequired,
 }

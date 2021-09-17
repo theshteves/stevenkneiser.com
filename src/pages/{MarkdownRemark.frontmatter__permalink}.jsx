@@ -100,13 +100,10 @@ export default function Template({ data }) {
   )
 }
 
-Layout.propTypes = {
+Template.propTypes = {
   data: PropTypes.exact({
-    nodes: PropTypes.arrayOf({
-      frontmatter: PropTypes.object.isRequired,
-      timeToRead: PropTypes.string.isRequired,
-    }).isRequired,
+    allMarkdownRemark: PropTypes.exact({
+      nodes: PropTypes.arrayOf(PropTypes.object),
+    }),
   }).isRequired,
 }
-
-Layout.defaultProps = {}

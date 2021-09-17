@@ -1,3 +1,4 @@
+import PropTypes from 'prop-types'
 import React from 'react'
 import { graphql } from 'gatsby'
 
@@ -77,4 +78,37 @@ export default function BlogPage({ data }) {
       </div>
     </Layout>
   )
+}
+
+BlogPage.propTypes = {
+  data: PropTypes.oneOfType([
+    PropTypes.shape({
+      allMarkdownRemark: PropTypes.shape({
+        nodes: PropTypes.arrayOf([
+          PropTypes.shape({
+            frontmatter: PropTypes.shape({
+              date: PropTypes.string,
+              permalink: PropTypes.string,
+              title: PropTypes.string,
+              draft: PropTypes.string,
+            }),
+            excerpt: PropTypes.string,
+            timeToRead: PropTypes.int,
+          }),
+        ]),
+      }),
+    }),
+    PropTypes.shape({
+      allCwc: PropTypes.shape({
+        nodes: PropTypes.arrayOf([
+          PropTypes.shape({
+            date: PropTypes.string,
+            url: PropTypes.string,
+            title: PropTypes.string,
+            excerpt: PropTypes.string,
+          }),
+        ]),
+      }),
+    }),
+  ]).isRequired,
 }
