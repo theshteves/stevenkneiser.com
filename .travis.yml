@@ -35,7 +35,7 @@ jobs:
   include:
    - name: 'Publish branch to Chromatic'
      if: branch != main 
-     script: npm run chromatic -- --project-token=${CHROMATIC_PROJECT_TOKEN}
+     script: npm run chromatic -- --project-token=${CHROMATIC_PROJECT_TOKEN} --exit-once-uploaded
    - name: 'Publish to Chromatic & auto-accept changes on main branch'
      if: branch = main
-     script: npm run chromatic -- --auto-accept-changes --project-token=${CHROMATIC_PROJECT_TOKEN}
+     script: npm run chromatic -- --auto-accept-changes --project-token=${CHROMATIC_PROJECT_TOKEN} --exit-once-uploaded
