@@ -1,4 +1,5 @@
 import '../src/styles/global.css'
+import '../src/styles/convertkit.css'
 
 export const parameters = {
   actions: { argTypesRegex: "^on[A-Z].*" },
