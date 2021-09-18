@@ -1,4 +1,5 @@
-import * as React from 'react'
+import PropTypes from 'prop-types'
+import React from 'react'
 import { graphql } from 'gatsby'
 
 import Layout from '../components/layout'
@@ -30,4 +31,10 @@ export default function DebugPage({ data }) {
       <pre className='font-mono'>{JSON.stringify(data, null, 2)}</pre>
     </Layout>
   )
+}
+
+DebugPage.propTypes = {
+  data: PropTypes.exact({
+    nodes: PropTypes.arrayOf(PropTypes.object),
+  }).isRequired,
 }

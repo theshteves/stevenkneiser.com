@@ -7,7 +7,7 @@ export default function TableOfContents({ contents }) {
   return (
     <div
       id='toc'
-      className='group hidden fixed right-0 -bottom-64 z-10 transform hover:-translate-y-96 transition duration-300 translate-x-1/2 translate-y-0' // xl:block
+      className='group fixed right-0 -bottom-64 z-10 transform hover:-translate-y-96 transition duration-300 translate-x-1/2 translate-y-0' // xl:block
       style={{
         display: 'none !important',
         height: '800px',

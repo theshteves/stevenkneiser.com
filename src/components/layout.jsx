@@ -11,7 +11,7 @@ export default function Layout({ children, meta }) {
   return (
     <div
       id='layout'
-      className='w-screen bg-yellow-50'
+      className='w-screen overflow-x-hidden bg-yellow-50'
       style={{ backgroundImage: `url(${background})` }}
     >
       <Head meta={meta} />
@@ -28,11 +28,18 @@ export default function Layout({ children, meta }) {
 
 Layout.propTypes = {
   children: PropTypes.oneOfType([
-    PropTypes.arrayOf(PropTypes.element),
-    PropTypes.element,
+    PropTypes.arrayOf(PropTypes.node),
+    PropTypes.node,
   ]).isRequired,
   meta: PropTypes.exact({
     title: PropTypes.string,
     description: PropTypes.string,
-  }).isRequired,
+  }),
+}
+
+Layout.defaultProps = {
+  meta: {
+    title: 'stevenkneiser.com',
+    description: 'Another page from my little home on the internet',
+  },
 }

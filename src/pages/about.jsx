@@ -54,7 +54,7 @@ export default function AboutPage() {
         <a href='https://twitter.com/theshteves'>Twitter</a>
         <br />
         or write me a note at{' '}
-        <a href='mailto:stevenkneiser@gmail.com'>stevenkneiser@gmail.com</a>
+        <a href='mailto:steven@stevenkneiser.com'>steven@stevenkneiser.com</a>
       </p>
 
       <figure className='flex my-8 text-2xl bg-gradient-to-bl from-yellow-50 via-yellow-50 to-yellow-300 w-max p-4 rounded items-center'>

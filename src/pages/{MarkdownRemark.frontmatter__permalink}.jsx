@@ -4,7 +4,7 @@ import { graphql, Link } from 'gatsby'
 
 // import Poke from '../components/Pageclip/poke'
 import Layout from '../components/layout'
-import TableOfContents from '../components/toc'
+// import TableOfContents from '../components/toc'
 
 export const query = graphql`
   query ($id: String!) {
@@ -26,7 +26,7 @@ export const query = graphql`
 `
 
 export default function Template({ data }) {
-  const { frontmatter, excerpt, timeToRead, tableOfContents, html } =
+  const { frontmatter, excerpt, timeToRead, html } =
     data.allMarkdownRemark.nodes[0]
   const { date, title, draft } = frontmatter
 
@@ -83,9 +83,9 @@ export default function Template({ data }) {
       ) : null}
 
       <article className='max-w-screen-md mx-auto'>
-        {tableOfContents ? (
+        {/* tableOfContents ? (
           <TableOfContents contents={tableOfContents} />
-        ) : null}
+        ) : null */}
 
         <div dangerouslySetInnerHTML={{ __html: html }} />
       </article>
@@ -100,13 +100,10 @@ export default function Template({ data }) {
   )
 }
 
-Layout.propTypes = {
+Template.propTypes = {
   data: PropTypes.exact({
-    nodes: PropTypes.arrayOf({
-      frontmatter: PropTypes.object.isRequired,
-      timeToRead: PropTypes.string.isRequired,
-    }).isRequired,
+    allMarkdownRemark: PropTypes.exact({
+      nodes: PropTypes.arrayOf(PropTypes.object),
+    }),
   }).isRequired,
 }
-
-Layout.defaultProps = {}
