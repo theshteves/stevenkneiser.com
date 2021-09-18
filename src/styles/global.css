@@ -187,7 +187,8 @@ figure {
   @apply bg-cover h-12 transition opacity-20;
 }
 
-:not(:target) > .markdown-header.before:hover > .markdown-header-link, :not(:target) > .markdown-header > .markdown-header-link:hover {
+:not(:target) > .markdown-header.before:hover > .markdown-header-link,
+:not(:target) > .markdown-header > .markdown-header-link:hover {
   transform: translate(2rem, -1.5rem) rotate(50deg);
 
   @apply opacity-50;
@@ -199,15 +200,10 @@ figure {
   @apply opacity-100;
 }
 
-
-
 @keyframes hide { 0% { transform: translateY(-24rem); } }
 
 #toc { animation: 1s hide ease-in; }
 #toc ul { @apply list-outside; }
-
-
-
 
 .stamp {
   color: red;

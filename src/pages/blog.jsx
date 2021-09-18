@@ -90,7 +90,6 @@ BlogPage.propTypes = {
               date: PropTypes.string,
               permalink: PropTypes.string,
               title: PropTypes.string,
-              draft: PropTypes.string,
             }),
             excerpt: PropTypes.string,
             timeToRead: PropTypes.number,

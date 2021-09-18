@@ -61,7 +61,7 @@
     "autoprefixer": "^10.3.4",
     "axios": "^0.21.4",
     "babel-loader": "^8.2.2",
-    "chromatic": "^5.9.2",
+    "chromatic": "^5.10.0",
     "cypress": "^8.4.0",
     "eslint": "^7.32.0",
     "eslint-config-airbnb": "^18.2.1",
