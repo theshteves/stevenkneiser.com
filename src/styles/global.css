@@ -173,6 +173,42 @@ figure {
   transform: matrix(-1, -0.1, 0, 1, 0, 0);
 }
 
+/* markdown quotes get nice left padding, but it's too aggressive when rendered as previews on post-it notes */
+.postit blockquote { @apply pl-4; }
+
+
+/* --- Responsive Pins for rendered markdown headers --- */
+
+.markdown-header > .markdown-header-link {
+  background-image: url("../assets/img/thumbtack.webp");
+  transform: translate(2rem, -2.5rem) rotate(70deg);
+  width: 2.8rem;
+
+  @apply bg-cover h-12 transition opacity-20;
+}
+
+:not(:target) > .markdown-header.before:hover > .markdown-header-link, :not(:target) > .markdown-header > .markdown-header-link:hover {
+  transform: translate(2rem, -1.5rem) rotate(50deg);
+
+  @apply opacity-50;
+}
+
+:target > .markdown-header > .markdown-header-link {
+  transform: translate(2rem, -2.5rem) rotate(30deg);
+
+  @apply opacity-100;
+}
+
+
+
+@keyframes hide { 0% { transform: translateY(-24rem); } }
+
+#toc { animation: 1s hide ease-in; }
+#toc ul { @apply list-outside; }
+
+
+
+
 .stamp {
   color: red;
   display: inline-block;
@@ -188,42 +224,6 @@ figure {
   -ms-mask-image: url("../assets/img/grunge-texture.png");
   mask-image: url("../assets/img/grunge-texture.png");
 }
-
-/* Patch stubborn markdown renderer */
-:not(:target) > .markdown-header.before:hover {
-  transform: translate(-100%, 0.5rem);
-
-  @apply group-hover:opacity-60;
-}
-
-:not(:target) > .markdown-header > .markdown-header-link:hover {
-  @apply group-hover:opacity-60;
-}
-
-:target > .markdown-header > .markdown-header-link {
-  transform: translate(2rem, -2.5rem) rotate(30deg);
-
-  @apply opacity-100;
-}
-
-.markdown-header > .markdown-header-link {
-  background-image: url("../assets/img/thumbtack.webp");
-  transform: translate(2rem, -2.5rem) rotate(70deg);
-  width: 2.8rem;
-
-  @apply bg-cover h-12 transition opacity-20;
-
-  /* @apply visible; */
-}
-
-#toc ul { @apply list-outside; }
-
-@keyframes hide { 0% { transform: translateY(-24rem); } }
-
-#toc { animation: 1s hide ease-in; }
-
-/* markdown quotes get nice left padding, but it's too aggressive when rendered as previews on post-it notes */
-.postit blockquote { @apply pl-4; }
 
 hr {
   @apply my-8;

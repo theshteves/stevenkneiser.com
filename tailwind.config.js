@@ -7,7 +7,6 @@ module.exports = {
   variants: {
     extend: {
       display: ['hover', 'group-hover'],
-      opacity: ['hover', 'group-hover'],
       inset: ['hover'],
     },
   },
