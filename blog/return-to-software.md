@@ -61,6 +61,15 @@ I didn't need to "start my career"
 
 <br />
 
+When you run out of role models,
+<br />you need new blueprints
+
+But where else to look?
+
+* TODO: elaborate
+
+<br />
+
 I now had enough tools in my toolbelt, that technical competence wasn't my bottleneck any more. I wasn't the type to just sit down & cash in on those skills for the next decade. I wanted more. **I wanted to understand "the Business™ side".** I wanted to build companies of own so that I could employ all my friends & build the software we saw in the world
 
 ...but I had 1 nagging, existential question:
