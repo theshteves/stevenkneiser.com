@@ -16,7 +16,9 @@ This list
 
 This list continues to evolve today & I still fight the temptation to bloat it over time. I publish smaller best-of's, but **this is a permanent home for my most shared links.** There's enough recency bias on the worldwide web. These ideas have withstood the test of [my] time (...& attention-span).
 
-> NOTE: looking back, this list naturally ended up more US-centric than I'd prefer. Check out this [world map scaled by population](https://ourworldindata.org/world-population-cartogram) & this [animated world map of twitter activity over one month (2013)](https://vimeo.com/347801005) _...only one channel & in 2013!_ **The internet isn't just your country**, but effectively one of its own. Those visualizations will give you a better feel for your fellow citizens of the web. You'll bump into more of them each year.
+> NOTE: despite my best efforts, this list ended up more US-centric than I'd prefer. Check out this [world map scaled by population](https://ourworldindata.org/world-population-cartogram) & this [animated world map of twitter activity over one month (2013)](https://vimeo.com/347801005) _...only one channel & in 2013!_
+> 
+> **The internet isn't just your country**. Really, it's become one of its own. Those links will give you a better feel for your fellow citizens of the web. You'll bump into more of us each year.
 
 <div class="w-full text-center text-8xl">🌎🌍🌏</div>
 
@@ -28,9 +30,9 @@ Like it or not,
 
 ## Table of Contents
 
-Jump around!
+No need to read top-to-bottom
 <br />Spam "open in new tab"
-<br />No need to read top-to-bottom
+<br />Jump around!
 
 <br />
 
@@ -370,9 +372,14 @@ When's the last time you've heard this:
 -->
 
 
-### Hard-earned lessons in Environmentalism [coming soon]
+### Hard-earned lessons in Environmentalism
 
-Coming Soon: rethinking Green™ & notes on ecopragmatism from a lifetime
+> Coming Soon: rethinking Green™ & notes on ecopragmatism from a lifetime
+
+* Ecomodernism
+* Ecoprgmatism
+
+Nothing unites people like a common enemy. What if there was more than just another person or group to scapegoat?
 
 <!---
 ### [Hard-earned lessons in Environmentalism](https://e360.yale.edu/features/stewart_brands_strange_trip_whole_earth_to_nuclear_power)
