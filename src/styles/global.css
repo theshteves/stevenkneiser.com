@@ -46,7 +46,7 @@ ul,
 ol { @apply text-left list-inside text-gray-500; }
 ul { list-style-type: disc; }
 
-blockquote { @apply pl-6 md:pl-12 xl:pl-24 border-l-2 border-gray-600; }
+blockquote { @apply my-8 pl-6 md:pl-12 xl:pl-16 border-l-2 border-gray-600; }
 
 @keyframes pushMe {
   2% {
