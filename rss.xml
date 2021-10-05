@@ -1,22 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[RSS Feed for stevenkneiser.com]]></title><description><![CDATA[Steven Kneiser's little home on the internet]]></description><link>https://stevenkneiser.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 02 Oct 2021 09:23:56 GMT</lastBuildDate><item><title><![CDATA[What I'm doing /now]]></title><description><![CDATA[My current focus & objectives (always up-to-date)]]></description><link>https://stevenkneiser.com/now</link><guid isPermaLink="false">https://stevenkneiser.com/now</guid><pubDate>Wed, 01 Sep 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;My current focus &amp;#x26; objectives&lt;/strong&gt;&lt;br&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[RSS Feed for stevenkneiser.com]]></title><description><![CDATA[Steven Kneiser's little home on the internet]]></description><link>https://stevenkneiser.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 05 Oct 2021 07:20:58 GMT</lastBuildDate><item><title><![CDATA[What I'm doing /now]]></title><description><![CDATA[My current focus & objectives (always up-to-date)]]></description><link>https://stevenkneiser.com/now</link><guid isPermaLink="false">https://stevenkneiser.com/now</guid><pubDate>Tue, 05 Oct 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;My current focus &amp;#x26; objectives&lt;/strong&gt;&lt;br&gt;
 (always up-to-date)&lt;/p&gt;
 &lt;!-- excerpt --&gt;
 &lt;br /&gt;
 &lt;h2 id=&quot;living-in-indianapolis&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#living-in-indianapolis&quot; aria-label=&quot;living in indianapolis permalink&quot; class=&quot;markdown-header before&quot;&gt;&lt;div class=&apos;markdown-header-link&apos;&gt;&lt;/div&gt;&lt;/a&gt;Living in Indianapolis&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;in the heart of downtown&lt;br /&gt;with an awesome partner &amp;#x26; 2 cats&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;...in the heart of downtown&lt;br /&gt;with an awesome partner &amp;#x26; 2 cats&lt;/em&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;&quot;With $7 billion in tech company acquisitions and IPOs, &lt;strong&gt;the most affordable housing market in the country, and a high production of software jobs&lt;/strong&gt;, Indianapolis (and Indiana as a whole) is uniquely positioned to grow.&quot;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;-- &lt;a href=&quot;https://techpoint.org/&quot;&gt;TechPoint&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;(they&apos;re who put the city on my radar.&lt;br /&gt;I met them at &lt;a href=&quot;https://boilermake.org/&quot;&gt;Purdue&apos;s hackathon&lt;/a&gt;)&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;p&gt;They&apos;re who put the city on my radar
+&lt;br /&gt;(thanks to &lt;a href=&quot;https://boilermake.org/&quot;&gt;Purdue&apos;s hackathon&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;Check out more data at &lt;a href=&quot;https://powderkeg.com/indianapolis-tech-census/&quot;&gt;2018 Indianapolis Tech Census&lt;/a&gt;&lt;/p&gt;
-&lt;!---
-I love this place &amp; it&apos;s definitely one of the most underrated urban centers in the Us (did I also mention affordable?), but that doesn&apos;t stop me from peaking for my personal ideal fitting my odd priorities. It&apos;s got almost everything, but the entire world is urbanizing &amp; I&apos;m keeping an eye out for exceptional satellite cities. I think remote work was largely overhyped because social media hasn&apos;t innovated enough to make online communities intimate enough. The worldwide web will ge tthere, but I believe very strongly we&apos;re not even in the Day 1 of the internet. 95% of &quot;remote work&quot; will recede because they don&apos;t have enough operational &amp; cultural sophistication to support asynchronous work yet. The pandemic was an external force, but the shif tto remote work needs to be an internal suction because the tools are so good. They&apos;re great, but they&apos;re not there yet (e.g. Slack repulses the average employee way more than it pulls in with excitment). Once there are better online conference tools (I have no clue. It might take as much as mass adoption of more affordable next-gen augmented reality). Still on the search for the ideal city
-
-Don&apos;t forget awesome partner &amp; 2 cats
-
-&gt; _&quot;The unexamined life is not worth living&quot;_&lt;br /&gt;--Socrates (but not in English)&lt;br /&gt;... --Plato (documented in his &quot;Apology&quot;)&lt;br /&gt;... ... --Michael Scott
---&gt;
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;h2 id=&quot;returning-to-software&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#returning-to-software&quot; aria-label=&quot;returning to software permalink&quot; class=&quot;markdown-header before&quot;&gt;&lt;div class=&apos;markdown-header-link&apos;&gt;&lt;/div&gt;&lt;/a&gt;Returning to software&lt;/h2&gt;
 &lt;p&gt;This update blossomed into an entire essay:&lt;/p&gt;
@@ -27,12 +21,9 @@ Don&apos;t forget awesome partner &amp; 2 cats
 &lt;br /&gt;
 &lt;p&gt;Here&apos;s how it&apos;s going:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/theshteves&quot;&gt;&lt;img height=&quot;418&quot; src=&apos;/github-contrib-year.webp&apos; alt=&apos;GitHub contribution graph&apos; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;For non-technical readers [on a phone],
-&lt;br /&gt;this is an instantly-recognizable
-&lt;br /&gt;GitHub &quot;contribution graph&quot;:
-&lt;br /&gt;it hints at how frequently
-&lt;br /&gt;I shipped code last year
-&lt;br /&gt;(almost daily)&lt;/p&gt;
+&lt;p&gt;This is GitHub&apos;s &quot;contribution graph&quot;,
+&lt;br /&gt;instantly-recognizeable to any coder&lt;/p&gt;
+&lt;p&gt;It hints at how frequently I shipped code last year (almost daily). It&apos;s a total flex &amp;#x26; inside-joke, but whatever keeps me motivated to show up every day!&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Disclosure:&lt;br /&gt;because I value integrity:&lt;/strong&gt;&lt;br /&gt;...&amp;#x26; I just like disclosures:&lt;br /&gt;I was the developer of an open-source bot many many years ago that&apos;s gained some popularity over time to manipulate this contribution graph, but the effect was less than [a fifth?] of my output last year.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;I even held myself publicly accountable, replying every single day to &lt;a href=&quot;https://twitter.com/theshteves/status/1277811840274358272&quot;&gt;one long Twitter thread&lt;/a&gt; with what I shipped for that day (so even written contributions to another blog show up here). That streak is still going unbroken.&lt;/em&gt;&lt;/p&gt;
@@ -57,12 +48,11 @@ Don&apos;t forget awesome partner &amp; 2 cats
 &lt;li&gt;&amp;#x26; 1 &lt;em&gt;helluva&apos;&lt;/em&gt; glutinous cheat day per week &lt;br /&gt;(&lt;em&gt;what?&lt;/em&gt; Yeah the variance is actually productive)&lt;br /&gt;...&lt;em&gt;mostly&lt;/em&gt; productive 😉&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;I&apos;m already feeling like myself again&lt;/p&gt;
-&lt;!---
-Before the pandemic, I had radically experimented with my nutrition over 2 years to evaporate my cholesterol problem &amp; started weight training [freeweights of course] for the very first time in my life. After dialing in those habits, I consciously decided to halt everything in early February 2020 (even turned down 2 job offers! one after a FOUR HOUR phone negotiation where they made an exploitative offer that would&apos;ve screwed me if the rumors about a pandemic were true &amp; the other I actually accepting on condition that it was remote only for them to bait&amp;switch me right before the start date) &amp; optimize all of that to go complete survival mode &amp;gotten into the best shape of my life post-pandemic. After a year of rationing on anything &amp; everything that I can easily carry home that minimizes the number of trips I need to make to the grocery store, I&apos;ve ballooned back to my all-time high weight. I don&apos;t know why it took me so long to recommit but as of last month I&apos;m back on the horse &amp; I feel [relatively] better about myself with each passing day
---&gt;
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;h2 id=&quot;writing-daily-for-creatorswhocodecom&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#writing-daily-for-creatorswhocodecom&quot; aria-label=&quot;writing daily for creatorswhocodecom permalink&quot; class=&quot;markdown-header before&quot;&gt;&lt;div class=&apos;markdown-header-link&apos;&gt;&lt;/div&gt;&lt;/a&gt;Writing daily for CreatorsWhoCode.com&lt;/h2&gt;
-&lt;p&gt;Over 400 days of shipping daily public updates on Twitter:&lt;/p&gt;
+&lt;p&gt;I&apos;m contributing to a blog, newsletter, &amp;#x26; community
+&lt;br /&gt;that helps new developers 💃🕺 𝕊𝕋𝔸ℕ𝔻 𝕆𝕌𝕋&lt;/p&gt;
+&lt;p&gt;Over 450 days of shipping daily public updates on Twitter:&lt;/p&gt;
 &lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;ACCOUNTABILITY THREAD:&lt;br&gt;I will ship every day&lt;br&gt;&lt;br&gt;Yesterday, I turned 24 🎉&lt;br&gt;Last year: immense growth, but private&lt;br&gt;This year: working &amp;amp; learning in public&lt;/p&gt;&amp;mdash; Steven Kneiser 👨🏼‍🍳 (@theshteves) &lt;a href=&quot;https://twitter.com/theshteves/status/1277811840274358272?ref_src=twsrc%5Etfw&quot;&gt;June 30, 2020&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script defer src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt; 
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
@@ -89,85 +79,14 @@ What makes it even cooler is expressing it isn&apos;t just for free. I get compo
 --&gt;
 &lt;p&gt;&lt;strong&gt;Want in?&lt;/strong&gt;
 &lt;br /&gt;&lt;strong&gt;⬇️  Scroll to the very bottom of this page ⬇️&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;!---
-## [TODO: any other major GTD-style projects]
-
-The.
-
-
-* Living in the heart of downtown Indianapolis with an awesome partner
-* self-studying entirely new interests in geography, world history, &amp; jumping around the western canon (reconsidering a lot of worldviews after thinking outside the U.S., searching earnestly for lost ideas on technological progressinnovative cultures, lost ideas on technological progress, &amp; tracking the symbiotic coevolution of humanity with technology)
-
-How you can help:
-
-
-* job searching
-* building my case for tech optimism
-* [note: keep these limited to GTD-style outcomes I&apos;m reaching for]
-* shipping daily updates to this cwc (+now this site)
-* designing a better WFH lifestyle trying to make more internet friends outside the US (i.e. neglecting local relationships in favor of global ones [link sivers essay])
-* finally strength training again for the first time since the pandemic (I&apos;ve slowly ballooned up to college-grad weight &amp; lack of shape RIGHT after the best shape &amp; blood lipids of my life)
-* [TODO: just do a GTD weekly review &amp; that will inform this page]
---&gt;
-&lt;!---
-&gt;  TODO: get nownownow backlink
-
-* writing &amp; shipping daily for &gt;CWC (new-age &quot;creator economy&quot; small business some day in 5 years)
-
-* REALLY enjoying remote work (especially as excuse to dail-in routine + nutrition + workouts)
-* open &amp; searching for work. I&apos;m getting extremely excited about collaboration again, as I recently figured out I wasn&apos;t searching for &quot;freedom from&quot; but &quot;freedom to&quot;nimmerse myself more deeply with others (hey, [OnDeck](/why-ondeck))
-
-...
-
-* Living with my long-term girlfriend in downtown Indianapolis for the near-term &amp; trying to discover my dream, long-term city [TODO: show candidates] ...I have a lurking suspicion that it will probably be a satellite city for remote work, even though global trends suggest that people are increasingly urbanizing
-
-* Self-teaching more liberal arts (I&apos;ve long been a die-hard STEM kid &amp; I think it&apos;s the most practical. I both believe that STEM is one of the more important things to START learning with, so that you have a utilitarian/practical place to integrate yourself into the world, but as time passes: I both feel that Liberal Arts is both MORE &amp; LESS important than STEM. Less in that it shouldn&apos;t really precede STEM ...ideally, I think a more optimal balance is to focus more purely on current capacities/technologies/etc earlier in education BEFORE you mature onto what is ultmately more important. I didn&apos;t have the stomach or capcity for history, social studies, philosophy before, but now I have a life with real-world objectives that shine context &amp; make it immensely useful. So let me be clear: I&apos;ve recently come to appreciate Liberal Arts as a higher goal, but only insofar as I have the capcity to concern mself with them. I think we&apos;ve had a recent overproduction of liberal arts education as evidenced by all the recent grads that  don&apos;t find themselves a good place to start in the world. Liberal arts isn&apos;t given, it&apos;s earned. In short, I&apos;ve come to understand that logic isn&apos;t a strict subset of math. They are seperate neterprises &amp; most of this is the necesary move from studying the world of the deductive to the world of the inductive.) ... in theory if I were to raise kids today, I would STEM them to heck for the first 20 years so they&apos;re super effective operators in the world, then graudate them onto the higher, ongoing never-ending conversations of Liberal Arts, but now rooted in real-world urgency &amp; NEVER letting their eyes of the dashboard controls &amp; immediacy of life.)
-
-  * Studying the Western Canon
-  * Trying to decentralize my philosophy from the US
-  * Building the case for Tech Optimism
-  * Studying geography &amp; geopolitics
-
-&lt;br /&gt;
-
-## Recent Reading
-
-* The Hitchhiker&apos;s Guide to the Galaxy (audiobook by the author himself is a perfect motivation to go to bed early)
-* ...
-
-&lt;br /&gt;
-
-## Favorite Quote:
-
-* &quot;happy is the country without a history&quot;
-* &quot;... something someting life is a crisis &amp; yet we still live&quot;
-* darwin on survival of most adaptable &gt; smartest &gt; strongest
-
-## What I&apos;m geeking out about
-
-* Isaac Arthur on Futurism
-* CaspianReport on Geopolitics
-* Atlas Pro on Geography
-* The massive works of Britannica &amp; Wikipedia
-* The Western Canon™ (classic books throughout history that shifted Western Thought)
-* Lingco??? on languages
-* Effective Altruism
-* Open Philantrhopy
-
-* David&apos;s essay on serious christians
-* Long Now lecture by Singapore UN ambassador
-* worldview diversification: ajeya
-
-&lt;br /&gt;
-
-&gt; TODO: include calendly link for friends (or at least call-to-action to text, twitter DM, or email me)
---&gt;
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;h2 id=&quot;lets-catch-up&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#lets-catch-up&quot; aria-label=&quot;lets catch up permalink&quot; class=&quot;markdown-header before&quot;&gt;&lt;div class=&apos;markdown-header-link&apos;&gt;&lt;/div&gt;&lt;/a&gt;Let&apos;s catch up!&lt;/h2&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;lets-chat&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#lets-chat&quot; aria-label=&quot;lets chat permalink&quot; class=&quot;markdown-header before&quot;&gt;&lt;div class=&apos;markdown-header-link&apos;&gt;&lt;/div&gt;&lt;/a&gt;Let&apos;s chat!&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;Since only the smartest, funniest, &amp;#x26; most attractive readers such as yourself read this far...&lt;/em&gt; my calendar is particularly open for the next few months if you love chatting on the phone or Zoom. You can &lt;a href=&quot;https://calendly.com/kneiser/30min&quot;&gt;schedule time directly into my calendar to chat&lt;/a&gt; &lt;span class=&quot;line-through&quot;&gt;if you click/tap on my picture in the bottom left&lt;/span&gt;! We&apos;ll see how long I can keep that up. I look forward to meeting you!&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;This page was inspired by &lt;a href=&quot;https://nownownow.com&quot;&gt;nownownow.com&lt;/a&gt; &amp;#x26; also &lt;a href=&quot;https://stephsmith.io/open&quot;&gt;Steph Smith&apos;s open dashboard idea&lt;/a&gt; to publish continuous data&lt;/em&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[My return to software]]></title><description><![CDATA["but this time it's different..."]]></description><link>https://stevenkneiser.com/blog/return-to-software</link><guid isPermaLink="false">https://stevenkneiser.com/blog/return-to-software</guid><pubDate>Sun, 15 Aug 2021 00:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;This page was inspired by &lt;a href=&quot;https://nownownow.com&quot;&gt;nownownow.com&lt;/a&gt;
+&lt;br /&gt;&amp;#x26; also &lt;a href=&quot;https://stephsmith.io/open&quot;&gt;Steph Smith&apos;s open dashboard idea&lt;/a&gt;
+&lt;br /&gt;to publish continuous data&lt;/em&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[My return to software]]></title><description><![CDATA["but this time it's different..."]]></description><link>https://stevenkneiser.com/blog/return-to-software</link><guid isPermaLink="false">https://stevenkneiser.com/blog/return-to-software</guid><pubDate>Sun, 15 Aug 2021 00:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;&quot;but this time it&apos;s different...&quot;&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;!-- excerpt --&gt;
