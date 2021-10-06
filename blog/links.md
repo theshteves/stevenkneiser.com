@@ -80,8 +80,8 @@ discussion. This is a great summary of some of the best current thinking on how 
 not let aging sneak up on you so much.
 
 Seeing an ordered list of aging-related disease based on likelihood really
-reframed how I think about taking care of my body. There's a "longevity olypmics" that you have decades to train for & it looks nothing like
-training for the normal olympics. You might not even aspire to live much longer than average, but you can start thinking about how to live better in the coming decades.
+reframed how I think about taking care of my body. There's a "longevity Olympics" that you have decades to train for & it looks nothing like
+training for the normal Olympics. You might not even aspire to live much longer than average, but you can start thinking about how to live better in the coming decades.
 
 > **_"The key to living longer [for now] is delaying the onset of chronic disease"_**
 
@@ -102,7 +102,7 @@ _I promptly chucked my ultrasonic humidifier out the window after reading this_
 
 ### [You don't have to be local](https://sive.rs/local)
 
-This simple thoughtpiece tapped me at the right time: it gave me
+This simple thought-piece tapped me at the right time: it gave me
 permission. This realization is slowly dawning on people all over the world.
 The more friends you make in different countries/timezones, the more people move closer to major urban hubs (especially ones far away from you), the more you **question how you distribute your time locally vs globally**.
 
@@ -377,7 +377,7 @@ When's the last time you've heard this:
 > Coming Soon: rethinking Green™ & notes on ecopragmatism from a lifetime
 
 * Ecomodernism
-* Ecoprgmatism
+* Ecopragmatism
 
 Nothing unites people like a common enemy. What if there was more than just another person or group to scapegoat?
 
