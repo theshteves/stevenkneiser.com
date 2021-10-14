@@ -1,7 +1,7 @@
 ---
 permalink: /now
 title: "What I'm doing /now"
-date: "2021-10-05"
+date: "2021-10-14"
 ---
 
 **My current focus & objectives**  
@@ -89,7 +89,7 @@ I'm already feeling like myself again
 
 ## Writing daily for CreatorsWhoCode.com
 
-I'm contributing to a blog, newsletter, & community
+I contribute to a blog, newsletter, & community
 <br />that helps new developers 💃🕺 𝕊𝕋𝔸ℕ𝔻 𝕆𝕌𝕋
 
 Over 450 days of shipping daily public updates on Twitter:
@@ -107,33 +107,20 @@ That's right:
 
 Why?
 
-I'm not here to advertise anything. My social network is increasingly global & I need a stable [digital] address to keep contact with friends. **My weekly newsletter is for anyone who wants to keep in-touch with me**, even when we can't justify a conversation every week or month.
+My social network is increasingly global & I need a stable [digital] home to keep contact with you all. **My weekly newsletter is for anyone who wants to keep in-touch with me**, even when we can't justify a conversation every week or month.
 
 _The social accountability is a nice plus too_
 
-**Want in?**
-<br />**⬇️  Scroll to the very bottom of this page ⬇️**
-
-(If you stop enjoying it at any point, then just go ahead & unsubscribe: it's nothing personal. _Even if_ I happen to notice, I won't read into it.)
-
-<!---
-I don't feel a strong separation between people. I really don't care if we haven't met "in real life". make a distinction between friends I've met in-person & haven't. "very close friends" or who lives closer to me.
--->
-
 <br />
 
-The more reading & studying I do, the more I have to write & share. I've gotten to an exciting point in my life where I'm revisiting some deeply-held worldviews while sustaining an openness to mystery & wonder. The only thing I really know is that I don't. & yet [I've never wanted to Know™ as badly as I do now](/blog/liberal-arts).
-
-The funny thing is that _I've always been_ a researcher, without realizing it. I only recently made a habit of writing stuff down. It forces me to take my ideas more seriously & hold myself to a higher standard of rigor. **Why not share that with those most invested in me?** I believe everyone has something to teach us.
-
-> Let's build futures worth building
-
-<!---
-What makes it even cooler is expressing it isn't just for free. I get compounding returns to forcibly clarifying my thoughts much further than before. The act of recalling information actually reinforces it & expressing my thoughts nudges me towards consuming higher-quality ideas.
--->
-
 **Want in?**
-<br />**⬇️  Scroll to the very bottom of this page ⬇️**
+<br />**⬇️  You can opt-in at the very bottom of this page ⬇️**
+
+I only recently made a habit of writing stuff down
+
+The more reading & studying I do, the more I have to write & share. It turns out that _I've always been_ a researcher, just without realizing it. It forces me to take my ideas more seriously & hold myself to a higher standard of rigor. **Why not share that with those most invested in me?**
+
+**⬇️  You can opt-in to the very bottom of this page ⬇️**
 
 <br /><br />
 <br /><br />
