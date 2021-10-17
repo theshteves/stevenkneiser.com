@@ -35,60 +35,93 @@ export default function Preview({ date, href, title, blurb, source, draft }) {
   }
 
   return (
-    <div className={tiltStyle(title.length)}>
-      <div
-        className={cardType()}
-        style={{ backgroundImage: `url(${texture})` }}
-      >
-        <p className='my-1 text-left font-mono transform -rotate-6 italic'>
-          {dayOfYear},{' '}
-          <span
-            className={
-              year === currentYear
-                ? ''
-                : 'inline-block rounded-lg px-1 text-yellow-800 italic'
-            }
+    <>
+    {source === 'internal' ? (
+      <Link to={href}>
+        <div className={tiltStyle(title.length)}>
+          <div
+            className={cardType()}
+            style={{ backgroundImage: `url(${texture})` }}
           >
-            {year}
-          </span>
-        </p>
+            <p className='my-1 text-left font-mono transform -rotate-6 italic'>
+              {dayOfYear},{' '}
+              <span
+                className={
+                  year === currentYear
+                    ? ''
+                    : 'inline-block rounded-lg px-1 text-yellow-800 italic'
+                }
+              >
+                {year}
+              </span>
+            </p>
 
-        {draft ? (
-          <p className='mt-4 text-right font-mono'>🔒 draft in progress</p>
-        ) : null}
+            {draft ? (
+              <p className='mt-4 text-right font-mono'>🔒 draft in progress</p>
+            ) : null}
 
-        {source === 'internal' ? (
-          <Link to={href}>
-            <h2
-              className={
-                draft
-                  ? 'text-3xl text-gray-500 mt-4'
-                  : 'text-3xl text-blue-700 mt-8'
-              }
-            >
-              {title}
-            </h2>
-          </Link>
-        ) : (
-          <a href={href}>
-            <h2
-              className={
-                draft
-                  ? 'text-3xl text-gray-500 mt-4'
-                  : 'text-3xl text-blue-700 mt-8'
-              }
-            >
-              {title}
-            </h2>
-          </a>
-        )}
+                <h2
+                  className={
+                    draft
+                      ? 'text-3xl text-gray-500 mt-4 underline'
+                      : 'text-3xl text-blue-700 mt-8 underline'
+                  }
+                >
+                  {title}
+                </h2>
 
-        <div
-          className='text-left'
-          dangerouslySetInnerHTML={{ __html: blurb }}
-        />
-      </div>
-    </div>
+            <div
+              className='text-left'
+              dangerouslySetInnerHTML={{ __html: blurb }}
+            />
+          </div>
+        </div>
+
+      </Link>
+    ) : (
+      <a href={href}>
+
+        <div className={tiltStyle(title.length)}>
+              <div
+                className={cardType()}
+                style={{ backgroundImage: `url(${texture})` }}
+              >
+                <p className='my-1 text-left font-mono transform -rotate-6 italic'>
+                  {dayOfYear},{' '}
+                  <span
+                    className={
+                      year === currentYear
+                        ? ''
+                        : 'inline-block rounded-lg px-1 text-yellow-800 italic'
+                    }
+                  >
+                    {year}
+                  </span>
+                </p>
+
+                {draft ? (
+                  <p className='mt-4 text-right font-mono'>🔒 draft in progress</p>
+                ) : null}
+
+                    <h2
+                      className={
+                        draft
+                          ? 'text-3xl text-gray-500 mt-4 underline'
+                          : 'text-3xl text-blue-700 mt-8 underline'
+                      }
+                    >
+                      {title}
+                    </h2>
+
+                <div
+                  className='text-left'
+                  dangerouslySetInnerHTML={{ __html: blurb }}
+                />
+              </div>
+            </div>
+      </a>
+    )}
+    </>
   )
 }
 

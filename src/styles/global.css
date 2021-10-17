@@ -138,6 +138,13 @@ figure {
   -ms-transform: matrix(-1, -0.1, 0, 1, 0, 0);
   transform: matrix(-1, -0.1, 0, 1, 0, 0);
 }
+.postit:hover::after { content: none; }
+
+.postit:hover {
+  transition: all .4s ease;
+  transform: translateY(-3px) scale(1.08) rotateZ(-3deg);
+  box-shadow: 5px 15px 10px rgba(0, 0, 0, 0.4);
+}
 
 .postit-left {
   line-height: 1;
