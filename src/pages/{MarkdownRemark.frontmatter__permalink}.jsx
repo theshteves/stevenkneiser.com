@@ -49,10 +49,10 @@ export default function Template({ data }) {
 
       {draft ? (
         <>
-          <p className='font-bold'>
-            This is a draft in progress
+          <p className='font-bold ml-8 mb-16'>
+            This is an unfinished draft in progress
             <br />
-            <em>so scroll at your own risk</em>
+            so <em className='text-red-700'>scroll at your own risk</em>
           </p>
 
           {/* <Poke /> */}

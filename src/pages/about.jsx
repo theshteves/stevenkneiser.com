@@ -21,10 +21,9 @@ export default function AboutPage() {
     <Layout meta={meta}>
       <h1>Who am I?</h1>
       <p>
-        Well then...
-        <br />
-        <span className='inline-block transform rotate-6 translate-y-4 italic animate-pulse'>
-          allow me to introduce myself
+        Well {' '}{' '}
+        <span className='inline-block transform rotate-12 translate-y-8 text-yellow-800 italic animate-pulse'>
+           allow me to introduce myself
         </span>
       </p>
       <button type='button' onClick={play} onKeyDown={play}>
