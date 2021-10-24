@@ -35,7 +35,7 @@ draft: true
 
 I can recall the awe:
 
-> _"So you're saying...<br />if I knew just the right things to type,<br />I could build ...ANYTHING??<br /><br />That with pure scribbles,<br />I'd build something very concrete<br />that would affect people?"_<br />--me, before learning to code
+> _"So you're saying...<br />if I knew just the right things to type,<br />I could build ...ANYTHING??<br /><br />That with pure scribbles,<br />I'd build something very concrete<br />that would affect people?"_<br />--kid me, before learning to code
 
 Unreal. Pure magic. I could see it all right then & there from the Quadratic Formula in Algerba II: **coding is a real-life superpower**. The thought of typing something into existence seemed no different from fictional wizards/sorcerers/magicians who chant cryptic words that actually summon strange things into existence. As children, we grasp for any sign that we are one-of-a-kind, that our story will be told like the others' we've heard, that we alone might be the protagonist.
 
@@ -45,12 +45,17 @@ Santa Claus was no longer real, but at last I'd found a crack in my own reality.
 
 <br />
 
-Sorry, this is about "/now",
-<br />not "/please-tell-me-your-sanitized-life-story"
+When I finished college,
+<br />I wasn't the average Computer Science student who just showed up to classes & took my tests. I did every single thing I could outside of the classroom to master my craft:
 
-So what's the point?
+* participated at 30+ hackathons
+* gave technical workshops
+* kept up with trendiest technologies
+* led inter-discplinary teams including artists & designers
+* revived a dead club
+* shipped 10+ products
 
-When I  finished college, I wasn't the average Computer Science student who just showed up to classes & took my tests. I did every single thing I could outside of the classroom to master my craft. I went to dozens of  conferences, I'd shipped products, I'd collaborated with skilled artists & designers, I'd coordinated teams, & I even worked at a big tech company (not once, but twice).
+I'd collaborated with skilled artists & designers, I'd coordinated teams, & I even worked at a big tech company (not once, but twice).
 
 **Personally, I didn't stumble out of college with a degree, but a formidable 3 years of product management experience** (especially in rapid prototyping)
 
@@ -91,8 +96,6 @@ I invested a few years to better understand "business" & the entire revenue-side
 <br/>& this time I know where I want to go
 
 * TODO: more to come
-
-* TODO: this justifies its own essay. Extract this into an isolated essay to link to
 
 
 
