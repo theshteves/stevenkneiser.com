@@ -12,6 +12,17 @@ export default function Footer() {
         <span className='italic'>...of the best?</span>
       </h2>
       <p className='w-full mx-auto text-black'>
+        Every Sunday, I send a brief summary
+        <span className='md:hidden'>
+          <br />
+        </span>{' '}
+        of the most fascinating stuff
+        <span className='md:hidden'>
+          <br />
+        </span>{' '}
+        I find around the web
+        <br />
+        <br />
         Enter your email
         <span className='md:hidden'>
           <br />
@@ -24,25 +35,27 @@ export default function Footer() {
           </span>{' '}
           &quot;most shared&quot; links of all time
         </span>
-        <br />
-        <br />
-        Every Sunday, I send a brief summary
-        <span className='md:hidden'>
-          <br />
-        </span>{' '}
-        of the most fascinating stuff
-        <span className='md:hidden'>
-          <br />
-        </span>{' '}
-        I notice around the web
       </p>
 
       <Embed />
 
-      <p className='italic font-light text-black mx-auto -mt-2 mb-8'>
+      <p className='italic font-light text-black mx-auto -mt-1 mb-8'>
         Absolutely no spam, ever
         <br />
         Unsubscribe anytime
+      </p>
+
+      <p className='w-full mx-auto font-light text-black hidden'>
+        &#8220; I&apos;ve said it a million times but
+        <span className='md:hidden'>
+          <br />
+        </span>{' '}
+        <span className='font-bold'>I would buy stock in Steven</span> if I
+        could &#8221;
+        <span className='md:hidden'>
+          <br />
+        </span>{' '}
+        &mdash;anonymous
       </p>
       {/* <Register /> */}
     </footer>
