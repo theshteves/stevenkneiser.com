@@ -12,7 +12,11 @@ export default function NewsletterPage() {
 
   return (
     <Layout meta={meta}>
-      <h1>Hear "what&apos;s new"<br />every week</h1>
+      <h1>
+        Hear &quot;what&apos;s new&quot;
+        <br />
+        every week
+      </h1>
 
       <p>
         Every Sunday, I send a brief summary

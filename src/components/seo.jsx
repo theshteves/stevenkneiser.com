@@ -5,6 +5,7 @@ import { useStaticQuery, graphql } from 'gatsby'
 
 // Swiped from: https://www.gatsbyjs.com/tutorial/seo-and-social-sharing-cards-tutorial/
 
+/*
 export default function SEO({
   description,
   lang,
@@ -137,3 +138,4 @@ SEO.propTypes = {
   }),
   pathname: PropTypes.string,
 }
+*/

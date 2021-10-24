@@ -352,9 +352,9 @@ If that sounds absurd,
 
 It's a crucial conversation<br />because it just doesn't divide cleanly into the "No, we're the worst." "No, we're the best." culture wars & narratives inside the U.S.
 
-The other 95.75% of the world,
-<br />not to mention the future,
+The other 95.75% of the world
 <br />have their own narratives
+<br />(not to mention our descendants)
 
 <br /><br />
 
@@ -394,15 +394,15 @@ We all have something to learn from someone who has been on the frontier of the 
 
 ### Memorable Quotes
 
-> _"Life can be much broader once you discover one simple fact:<br /><br />**everything around you that you call life was made up by people that were no smarter than you.** And you can change it, you can influence it...<br /><br />Once you learn that, you'll never be the same again."_ <br />--[Steve Jobs](https://www.youtube.com/watch?v=kYfNvmF0Bqw)
+> _"Life can be much broader once you discover one simple fact:<br /><br />**everything around you that you call life was made up by people that were no smarter than you.** And you can change it. You can influence it.<br /><br />Once you learn that, you'll never be the same again."_ <br />&mdash;[Steve Jobs](https://www.youtube.com/watch?v=kYfNvmF0Bqw)
 
 ---
 
-> _"...in the day-to-day trenches of adult life, there is actually no such thing as atheism. **There is no such thing as not worshipping. Everybody worships. The only choice we get is what to worship.** And the compelling reason for maybe choosing some sort of god or spiritual-type thing to worship–be it JC or Allah, be it YHWH or the Wiccan Mother Goddess, or the Four Noble Truths, or some inviolable set of ethical principles–is that pretty much anything else you worship will eat you alive."_ <br />--David Foster Wallace, [This is Water](https://fs.blog/2012/04/david-foster-wallace-this-is-water/)
+> _"...in the day-to-day trenches of adult life, there is actually no such thing as atheism. **There is no such thing as not worshipping. Everybody worships. The only choice we get is what to worship.** And the compelling reason for maybe choosing some sort of god or spiritual-type thing to worship–be it JC or Allah, be it YHWH or the Wiccan Mother Goddess, or the Four Noble Truths, or some inviolable set of ethical principles–is that pretty much anything else you worship will eat you alive."_ <br />&mdash;David Foster Wallace, [This is Water](https://fs.blog/2012/04/david-foster-wallace-this-is-water/)
 
 ---
 
-> _"...I am better off than he is---<br />for **he knows nothing, and thinks that he
+> _"...I am better off than he is&mdash;<br />for **he knows nothing, and thinks that he
 > knows: I neither know nor think that I know.**<br /><br />In this latter particular,
-> then, I seem to have slightly the advantage of him..."_ <br />--Socrates (not
-> in English though) <br />... --Plato (as documented in his "Apology") <br />... ... --Michael Scott
+> then, I seem to have slightly the advantage of him..."_ <br />&mdash;Socrates (not
+> in English though) <br />... &mdash;Plato (as documented in his "Apology") <br />... ... &mdash;Michael Scott
