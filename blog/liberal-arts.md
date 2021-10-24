@@ -5,7 +5,7 @@ date: "2021-07-19"
 ---
 
 To me,
-<br />non-fiction >> fiction
+<br /> non-fiction >> fiction
 
 …but recently I’ve grown sick of New Content™ about tech, business, & self-help
 
@@ -21,12 +21,13 @@ In other words,
 
 _Where were these interests growing up?_
 
-**I now embrace Liberal Arts as both less AND more important** than "Technical Arts" (e.g. software, UX design, digital marketing, etc). The Technical Arts are more important: young adults need that first taste of success that comes from engaging with the crafts of their time. The only problem is that crafts have come & gone every generation since the Industrial Revolution. That's a good problem to have.
+**I now embrace The Liberal Arts™ as both less AND more important** than "The Technical Arts" (e.g. software, UX design, digital marketing, etc). The Technical Arts are more urgent: young adults can build independence when they engage with the industries & crafts of their time. There's only one problem: crafts evolve faster every generation (especially since the Industrial Revolution).
 
 Why are these two arts
-<br />even taught in the same years?
+<br />even discussed in the same sentence?
+<br />even discussed in the same institutions?
 
-Sure, the Technical Arts offer an antidote to dependency, but what about engaging in the awe-inspiring world around us, with people nothing like us? One day--like it or not--we all must graduate to the stage of the Liberal Arts to join those timeless & borderless dialogues (at least productively).
+Sure, The Technical Arts offer an antidote to dependency, but what about engaging in the awe-inspiring world around us, with people nothing like us? One day&mdash;like it or not&mdash;**we all must graduate to the stage of The Liberal Arts, if we want to contribute to these timeless & borderless dialogues.** You don't _have_ to. You don't even have to contribute _productively_. But **if you want to be heard at the innovative, future-frothing fringes of industry, you don't have a choice.**
 
 <br />
 
@@ -35,7 +36,9 @@ I was wrong
 I was wrong all along
 <br />so consider this my love song:
 
-Liberal Arts degrees are often wasted on the young & inexperienced who have nothing at stake. **The Liberal Arts don't belong solely behind college degrees: they reach to the heights of one’s lifelong pursuit of wisdom.** The arts are but an ever-evolving conversation that belies the burden of adulthood.
+Liberal Arts degrees are often wasted on the young & inexperienced who have nothing at stake. **The Liberal Arts don't belong baked behind college degrees: they are the products powering the heights of humanity's collective computation.** The Liberal Arts are but an ever-evolving conversation that belies the burden of adulthood.
+
+You're in this for life, literally
 
 <br />
 
