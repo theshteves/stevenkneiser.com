@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[RSS Feed for stevenkneiser.com]]></title><description><![CDATA[Steven Kneiser's little home on the internet]]></description><link>https://stevenkneiser.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 20 Oct 2021 06:04:21 GMT</lastBuildDate><item><title><![CDATA[What I'm doing /now]]></title><description><![CDATA[My current focus & objectives (always up-to-date)]]></description><link>https://stevenkneiser.com/now</link><guid isPermaLink="false">https://stevenkneiser.com/now</guid><pubDate>Thu, 14 Oct 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;My current focus &amp;#x26; objectives&lt;/strong&gt;&lt;br&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[RSS Feed for stevenkneiser.com]]></title><description><![CDATA[Steven Kneiser's little home on the internet]]></description><link>https://stevenkneiser.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 24 Oct 2021 05:52:01 GMT</lastBuildDate><item><title><![CDATA[What I'm doing /now]]></title><description><![CDATA[My current focus & objectives (always up-to-date)]]></description><link>https://stevenkneiser.com/now</link><guid isPermaLink="false">https://stevenkneiser.com/now</guid><pubDate>Thu, 14 Oct 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;My current focus &amp;#x26; objectives&lt;/strong&gt;&lt;br&gt;
 (always up-to-date)&lt;/p&gt;
 &lt;!-- excerpt --&gt;
 &lt;br /&gt;
@@ -112,10 +112,17 @@
 &lt;p&gt;&lt;em&gt;&quot;Any sufficiently advanced technology is indistinguishable from magic&quot;&lt;/em&gt; --Arthur C. Clarke&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;br /&gt;
-&lt;p&gt;Sorry, this is about &quot;/now&quot;,
-&lt;br /&gt;not &quot;/please-tell-me-your-sanitized-life-story&quot;&lt;/p&gt;
-&lt;p&gt;So what&apos;s the point?&lt;/p&gt;
-&lt;p&gt;When I  finished college, I wasn&apos;t the average Computer Science student who just showed up to classes &amp;#x26; took my tests. I did every single thing I could outside of the classroom to master my craft. I went to dozens of  conferences, I&apos;d shipped products, I&apos;d collaborated with skilled artists &amp;#x26; designers, I&apos;d coordinated teams, &amp;#x26; I even worked at a big tech company (not once, but twice).&lt;/p&gt;
+&lt;p&gt;When I finished college,
+&lt;br /&gt;I wasn&apos;t the average Computer Science student who just showed up to classes &amp;#x26; took my tests. I did every single thing I could outside of the classroom to master my craft:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;participated at 30+ hackathons&lt;/li&gt;
+&lt;li&gt;gave technical workshops&lt;/li&gt;
+&lt;li&gt;kept up with trendiest technologies&lt;/li&gt;
+&lt;li&gt;led inter-discplinary teams including artists &amp;#x26; designers&lt;/li&gt;
+&lt;li&gt;revived a dead club&lt;/li&gt;
+&lt;li&gt;shipped 10+ products&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I&apos;d collaborated with skilled artists &amp;#x26; designers, I&apos;d coordinated teams, &amp;#x26; I even worked at a big tech company (not once, but twice).&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Personally, I didn&apos;t stumble out of college with a degree, but a formidable 3 years of product management experience&lt;/strong&gt; (especially in rapid prototyping)&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;But I had enough&lt;/strong&gt;: I had already climbed the mountain I came to climb&lt;/p&gt;
 &lt;p&gt;I didn&apos;t need to &quot;start my career&quot;
@@ -144,12 +151,7 @@
 &lt;br /&gt;but I&apos;m back&lt;/strong&gt;
 &lt;br/&gt;&amp;#x26; this time I know where I want to go&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;TODO: more to come&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;TODO: this justifies its own essay. Extract this into an isolated essay to link to&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;TODO: more to come&lt;/li&gt;
 &lt;/ul&gt;
 &lt;!---
 I started my coding journey before college &amp; before I knew it was a well-paying career path (even though that helped me to commit long-term). If it were any other way, I wouldn&apos;t find myself constantly returning to it after time off.  Sure, it&apos;s something I enjoy, but it&apos;s always for a different purpose:
