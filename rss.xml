@@ -1,7 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[RSS Feed for stevenkneiser.com]]></title><description><![CDATA[Steven Kneiser's little home on the internet]]></description><link>https://stevenkneiser.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 24 Oct 2021 05:52:01 GMT</lastBuildDate><item><title><![CDATA[What I'm doing /now]]></title><description><![CDATA[My current focus & objectives (always up-to-date)]]></description><link>https://stevenkneiser.com/now</link><guid isPermaLink="false">https://stevenkneiser.com/now</guid><pubDate>Thu, 14 Oct 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;My current focus &amp;#x26; objectives&lt;/strong&gt;&lt;br&gt;
-(always up-to-date)&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[RSS Feed for stevenkneiser.com]]></title><description><![CDATA[Steven Kneiser's little home on the internet]]></description><link>https://stevenkneiser.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 24 Oct 2021 22:18:53 GMT</lastBuildDate><item><title><![CDATA[What I'm doing /now]]></title><description><![CDATA[An ever-updating list of
+my current focus & objectives]]></description><link>https://stevenkneiser.com/now</link><guid isPermaLink="false">https://stevenkneiser.com/now</guid><pubDate>Sun, 24 Oct 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;An ever-updating list of
+&lt;br /&gt;&lt;strong&gt;my current focus &amp;#x26; objectives&lt;/strong&gt;&lt;/p&gt;
 &lt;!-- excerpt --&gt;
-&lt;br /&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#living-in-indianapolis&quot;&gt;Living in Indianapolis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#returning-to-software&quot;&gt;Returning to software&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#reading-like-im-running-out-of-time&quot;&gt;Reading like I&apos;m running out of time&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#writing-daily-for-creatorswhocodecom&quot;&gt;Writing daily for CreatorsWhoCode.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#launched-personal-site--newsletter&quot;&gt;Launched personal site &amp;#x26; newsletter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#finally-exercising-again&quot;&gt;Finally exercising again&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#lets-hop-on-the-phone&quot;&gt;Let&apos;s hop on the phone!&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;h2 id=&quot;living-in-indianapolis&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#living-in-indianapolis&quot; aria-label=&quot;living in indianapolis permalink&quot; class=&quot;markdown-header before&quot;&gt;&lt;div class=&apos;markdown-header-link&apos;&gt;&lt;/div&gt;&lt;/a&gt;Living in Indianapolis&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;...in the heart of downtown&lt;br /&gt;with an awesome partner &amp;#x26; 2 cats&lt;/em&gt;&lt;/p&gt;
 &lt;blockquote&gt;
@@ -13,22 +23,37 @@
 &lt;p&gt;Check out more data at &lt;a href=&quot;https://powderkeg.com/indianapolis-tech-census/&quot;&gt;2018 Indianapolis Tech Census&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;h2 id=&quot;returning-to-software&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#returning-to-software&quot; aria-label=&quot;returning to software permalink&quot; class=&quot;markdown-header before&quot;&gt;&lt;div class=&apos;markdown-header-link&apos;&gt;&lt;/div&gt;&lt;/a&gt;Returning to software&lt;/h2&gt;
-&lt;p&gt;This update blossomed into an entire essay:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/theshteves&quot;&gt;&lt;img height=&quot;418&quot; src=&apos;/github-contrib-year.webp&apos; alt=&apos;GitHub contribution graph&apos; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;I never &lt;em&gt;left&lt;/em&gt; but...
+&lt;br /&gt;after college, &lt;strong&gt;I took a career gambit&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I could&apos;ve climbed comfortably-compensated careers, but come graduation: I couldn&apos;t write cover letters&lt;/p&gt;
+&lt;p&gt;With the tools to tackle many problems,
+&lt;br /&gt;I wanted to take the time
+&lt;br /&gt;to take it all in:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&quot;what problems are most &lt;em&gt;worth&lt;/em&gt; solving?&quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Little did I know
+&lt;br /&gt;how far that would go&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;&lt;br /&gt;I started diversifying my skillset:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;software sales (B2B SaaS)&lt;/li&gt;
+&lt;li&gt;entrepreneurship&lt;/li&gt;
+&lt;li&gt;digital marketing&lt;/li&gt;
+&lt;li&gt;even blogging (I &lt;em&gt;never&lt;/em&gt; would&apos;ve otherwise)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;#x26; with that came much more perspective:
+&lt;br /&gt;&lt;strong&gt;I see the bigger picture of &quot;product&quot;&lt;br /&gt;much more clearly now&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Let&apos;s build futures worth seeing&lt;/p&gt;
+&lt;p&gt;I&apos;m back
+&lt;br /&gt;&amp;#x26; I&apos;m codin&apos; again
+&lt;br /&gt;&lt;em&gt;but this time it&apos;s different...&lt;/em&gt;&lt;/p&gt;
 &lt;figure class=&apos;flex my-8 text-xl bg-gradient-to-bl from-yellow-50 via-yellow-50 to-yellow-300 w-max p-4 rounded items-center&apos;&gt;
   &lt;div class=&apos;px-4&apos;&gt;👨‍💻 &lt;/div&gt;
-  &lt;a href=&apos;/blog/return-to-software&apos;&gt;My return to software&lt;/a&gt;
+  &lt;a href=&apos;/blog/return-to-software&apos;&gt;My Return to Software&lt;/a&gt;
 &lt;/figure&gt;
-&lt;br /&gt;
-&lt;p&gt;Here&apos;s how it&apos;s going:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/theshteves&quot;&gt;&lt;img height=&quot;418&quot; src=&apos;/github-contrib-year.webp&apos; alt=&apos;GitHub contribution graph&apos; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;This is GitHub&apos;s &quot;contribution graph&quot;,
-&lt;br /&gt;instantly-recognizeable to any coder&lt;/p&gt;
-&lt;p&gt;It hints at how frequently I shipped code last year (almost daily). It&apos;s a total flex &amp;#x26; inside-joke, but whatever keeps me motivated to show up every day!&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Disclosure:&lt;br /&gt;because I value integrity:&lt;/strong&gt;&lt;br /&gt;...&amp;#x26; I just like disclosures:&lt;br /&gt;I was the developer of an open-source bot many many years ago that&apos;s gained some popularity over time to manipulate this contribution graph, but the effect was less than [a fifth?] of my output last year.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;I even held myself publicly accountable, replying every single day to &lt;a href=&quot;https://twitter.com/theshteves/status/1277811840274358272&quot;&gt;one long Twitter thread&lt;/a&gt; with what I shipped for that day (so even written contributions to another blog show up here). That streak is still going unbroken.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;In other words, the bot&apos;s contributions aren&apos;t even filling out any down-periods [as they usually do]. The only visible down-periods in the first place come from days I shipped updates in advance or after midnight.&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;h2 id=&quot;reading-like-im-running-out-of-time&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#reading-like-im-running-out-of-time&quot; aria-label=&quot;reading like im running out of time permalink&quot; class=&quot;markdown-header before&quot;&gt;&lt;div class=&apos;markdown-header-link&apos;&gt;&lt;/div&gt;&lt;/a&gt;Reading like I&apos;m running out of time&lt;/h2&gt;
 &lt;p&gt;Apparently I&apos;ve been writing like I&apos;m running out of time too. This was succinct but just a tad too long &amp;#x26; distracting for this page:&lt;/p&gt;
@@ -37,10 +62,29 @@
   &lt;a href=&apos;/blog/liberal-arts&apos;&gt;I was wrong &lt;span class=&quot;sm:hidden&quot;&gt;&lt;br /&gt;&lt;/span&gt;about the Liberal Arts&lt;/a&gt;
 &lt;/figure&gt;
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;writing-daily-for-creatorswhocodecom&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#writing-daily-for-creatorswhocodecom&quot; aria-label=&quot;writing daily for creatorswhocodecom permalink&quot; class=&quot;markdown-header before&quot;&gt;&lt;div class=&apos;markdown-header-link&apos;&gt;&lt;/div&gt;&lt;/a&gt;Writing daily for CreatorsWhoCode.com&lt;/h2&gt;
+&lt;p&gt;I contribute to a blog, newsletter, &amp;#x26; community
+&lt;br /&gt;that helps new developers 💃🕺 𝕊𝕋𝔸ℕ𝔻 𝕆𝕌𝕋&lt;/p&gt;
+&lt;p&gt;Over 450 days of shipping daily public updates on Twitter:&lt;/p&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;ACCOUNTABILITY THREAD:&lt;br&gt;I will ship every day&lt;br&gt;&lt;br&gt;Yesterday, I turned 24 🎉&lt;br&gt;Last year: immense growth, but private&lt;br&gt;This year: working &amp;amp; learning in public&lt;/p&gt;&amp;mdash; Steven Kneiser 👨🏼‍🍳 (@theshteves) &lt;a href=&quot;https://twitter.com/theshteves/status/1277811840274358272?ref_src=twsrc%5Etfw&quot;&gt;June 30, 2020&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script defer src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt; 
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;launched-personal-site--newsletter&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#launched-personal-site--newsletter&quot; aria-label=&quot;launched personal site  newsletter permalink&quot; class=&quot;markdown-header before&quot;&gt;&lt;div class=&apos;markdown-header-link&apos;&gt;&lt;/div&gt;&lt;/a&gt;Launched personal site (&amp;#x26; newsletter)!&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;There&apos;s more where this came from!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;But why?&lt;/p&gt;
+&lt;p&gt;My social network is increasingly global &amp;#x26; I need a stable [digital] home to keep contact with you all. &lt;strong&gt;My weekly newsletter is for anyone who wants to keep in-touch with me&lt;/strong&gt;, even when we can&apos;t justify a conversation every week or month.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The social accountability is a nice plus too&lt;/em&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;I only recently made a habit of writing stuff down&lt;/p&gt;
+&lt;p&gt;The more reading &amp;#x26; studying I do, the more I have to write &amp;#x26; share. It turns out that &lt;em&gt;I&apos;ve always been&lt;/em&gt; a researcher, just without realizing it. It forces me to take my ideas more seriously &amp;#x26; hold myself to a higher standard of rigor. &lt;strong&gt;Why not share that with those most invested in me?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Want in?&lt;/strong&gt;
+&lt;br /&gt;&lt;strong&gt;⬇️  You can opt-in at the very bottom of this page ⬇️&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;h2 id=&quot;finally-exercising-again&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#finally-exercising-again&quot; aria-label=&quot;finally exercising again permalink&quot; class=&quot;markdown-header before&quot;&gt;&lt;div class=&apos;markdown-header-link&apos;&gt;&lt;/div&gt;&lt;/a&gt;Finally exercising again&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;January 2020&lt;/strong&gt;: I&apos;m in the best shape of my life since high school varsity sports. I&apos;m weight training for the first time in my life (&amp;#x26; consistently at that). I&apos;ve radically experimented with my diet &amp;#x26; I&apos;m not even unfalsifiably opinionated or cult-like about my particular approach to nutrition. My blood lipids have remarkably reversed course &amp;#x26; I&apos;m ...underweight?&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;~ the-virus-that-shall-not-be-named knocks on the door ~&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;January 2021&lt;/strong&gt;: I&apos;m in the worst shape of my life. Maybe I should ask my doctor abou-- oh, those are just called stretch marks 😩&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;January 2021&lt;/strong&gt;: I&apos;m in the worst shape of my life. Maybe I should ask my doctor abou— oh, those are just called stretch marks 😩&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;June 2021&lt;/strong&gt;: Alright, no more worst-case prepping. I don&apos;t need to efficiently speedrun grocery stores twice monthly anymore. I can start patiently grabbing fresh ingredients twice weekly &amp;#x26; cooking again. Let&apos;s return to the ultra-simple Ferriss-style:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;meat &amp;#x26; non-starch veggies&lt;/li&gt;
@@ -49,33 +93,12 @@
 &lt;/ul&gt;
 &lt;p&gt;I&apos;m already feeling like myself again&lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;h2 id=&quot;writing-daily-for-creatorswhocodecom&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#writing-daily-for-creatorswhocodecom&quot; aria-label=&quot;writing daily for creatorswhocodecom permalink&quot; class=&quot;markdown-header before&quot;&gt;&lt;div class=&apos;markdown-header-link&apos;&gt;&lt;/div&gt;&lt;/a&gt;Writing daily for CreatorsWhoCode.com&lt;/h2&gt;
-&lt;p&gt;I contribute to a blog, newsletter, &amp;#x26; community
-&lt;br /&gt;that helps new developers 💃🕺 𝕊𝕋𝔸ℕ𝔻 𝕆𝕌𝕋&lt;/p&gt;
-&lt;p&gt;Over 450 days of shipping daily public updates on Twitter:&lt;/p&gt;
-&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;ACCOUNTABILITY THREAD:&lt;br&gt;I will ship every day&lt;br&gt;&lt;br&gt;Yesterday, I turned 24 🎉&lt;br&gt;Last year: immense growth, but private&lt;br&gt;This year: working &amp;amp; learning in public&lt;/p&gt;&amp;mdash; Steven Kneiser 👨🏼‍🍳 (@theshteves) &lt;a href=&quot;https://twitter.com/theshteves/status/1277811840274358272?ref_src=twsrc%5Etfw&quot;&gt;June 30, 2020&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script defer src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt; 
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;h2 id=&quot;launched-personal-site--newsletter&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#launched-personal-site--newsletter&quot; aria-label=&quot;launched personal site  newsletter permalink&quot; class=&quot;markdown-header before&quot;&gt;&lt;div class=&apos;markdown-header-link&apos;&gt;&lt;/div&gt;&lt;/a&gt;Launched personal site &amp;#x26; newsletter!&lt;/h2&gt;
-&lt;p&gt;That&apos;s right:
-&lt;br /&gt;&lt;em&gt;there&apos;s more where this came from!&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Why?&lt;/p&gt;
-&lt;p&gt;My social network is increasingly global &amp;#x26; I need a stable [digital] home to keep contact with you all. &lt;strong&gt;My weekly newsletter is for anyone who wants to keep in-touch with me&lt;/strong&gt;, even when we can&apos;t justify a conversation every week or month.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;The social accountability is a nice plus too&lt;/em&gt;&lt;/p&gt;
-&lt;br /&gt;
-&lt;p&gt;&lt;strong&gt;Want in?&lt;/strong&gt;
-&lt;br /&gt;&lt;strong&gt;⬇️  You can opt-in at the very bottom of this page ⬇️&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;I only recently made a habit of writing stuff down&lt;/p&gt;
-&lt;p&gt;The more reading &amp;#x26; studying I do, the more I have to write &amp;#x26; share. It turns out that &lt;em&gt;I&apos;ve always been&lt;/em&gt; a researcher, just without realizing it. It forces me to take my ideas more seriously &amp;#x26; hold myself to a higher standard of rigor. &lt;strong&gt;Why not share that with those most invested in me?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;⬇️  You can opt-in to the very bottom of this page ⬇️&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;h2 id=&quot;lets-chat&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#lets-chat&quot; aria-label=&quot;lets chat permalink&quot; class=&quot;markdown-header before&quot;&gt;&lt;div class=&apos;markdown-header-link&apos;&gt;&lt;/div&gt;&lt;/a&gt;Let&apos;s chat!&lt;/h2&gt;
+&lt;h2 id=&quot;lets-hop-on-the-phone&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#lets-hop-on-the-phone&quot; aria-label=&quot;lets hop on the phone permalink&quot; class=&quot;markdown-header before&quot;&gt;&lt;div class=&apos;markdown-header-link&apos;&gt;&lt;/div&gt;&lt;/a&gt;Let&apos;s hop on the phone!&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;Since only the smartest, funniest, &amp;#x26; most attractive readers such as yourself read this far...&lt;/em&gt; my calendar is particularly open for the next few months if you love chatting on the phone or Zoom. You can &lt;a href=&quot;https://calendly.com/kneiser/30min&quot;&gt;schedule time directly into my calendar to chat&lt;/a&gt; &lt;span class=&quot;line-through&quot;&gt;if you click/tap on my picture in the bottom left&lt;/span&gt;! We&apos;ll see how long I can keep that up. I look forward to meeting you!&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;em&gt;This page was inspired by &lt;a href=&quot;https://nownownow.com&quot;&gt;nownownow.com&lt;/a&gt;
 &lt;br /&gt;&amp;#x26; also &lt;a href=&quot;https://stephsmith.io/open&quot;&gt;Steph Smith&apos;s open dashboard idea&lt;/a&gt;
-&lt;br /&gt;to publish continuous data&lt;/em&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[My return to software]]></title><description><![CDATA["but this time it's different..."]]></description><link>https://stevenkneiser.com/blog/return-to-software</link><guid isPermaLink="false">https://stevenkneiser.com/blog/return-to-software</guid><pubDate>Sun, 15 Aug 2021 00:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+&lt;br /&gt;to publish continuous data&lt;/em&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[My Return to Software]]></title><description><![CDATA["but this time it's different..."]]></description><link>https://stevenkneiser.com/blog/return-to-software</link><guid isPermaLink="false">https://stevenkneiser.com/blog/return-to-software</guid><pubDate>Sun, 15 Aug 2021 00:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;&quot;but this time it&apos;s different...&quot;&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;!-- excerpt --&gt;
@@ -168,8 +191,8 @@ If my life were a video game, this is like I beat the game once  already, so I&a
 &lt;!---
 software -&gt; entrepreneurship -&gt; digital marketing -&gt; sales -&gt; writer -&gt; software (but this time it&apos;s different) -&gt; DevRel??? No-Code Ops?? solo-creator?? startup mercenary??
 --&gt;</content:encoded></item><item><title><![CDATA[I was wrong about the Liberal Arts]]></title><description><![CDATA[To me,
-non-fiction >> fiction …but recently I’ve grown sick of New Content™ about tech, business, & self-help]]></description><link>https://stevenkneiser.com/blog/liberal-arts</link><guid isPermaLink="false">https://stevenkneiser.com/blog/liberal-arts</guid><pubDate>Mon, 19 Jul 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;To me,
-&lt;br /&gt;non-fiction &gt;&gt; fiction&lt;/p&gt;
+ non-fiction >> fiction …but recently I’ve grown sick of New Content™ about tech, business, & self-help]]></description><link>https://stevenkneiser.com/blog/liberal-arts</link><guid isPermaLink="false">https://stevenkneiser.com/blog/liberal-arts</guid><pubDate>Mon, 19 Jul 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;To me,
+&lt;br /&gt; non-fiction &gt;&gt; fiction&lt;/p&gt;
 &lt;p&gt;…but recently I’ve grown sick of New Content™ about tech, business, &amp;#x26; self-help&lt;/p&gt;
 &lt;!-- excerpt --&gt;
 &lt;br /&gt;
@@ -178,15 +201,17 @@ non-fiction >> fiction …but recently I’ve grown sick of New Content™ about
 &lt;br /&gt;I’m a STEM kid who finally “got” Liberal Arts&lt;/p&gt;
 &lt;br /&gt;
 &lt;p&gt;&lt;em&gt;Where were these interests growing up?&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;I now embrace Liberal Arts as both less AND more important&lt;/strong&gt; than &quot;Technical Arts&quot; (e.g. software, UX design, digital marketing, etc). The Technical Arts are more important: young adults need that first taste of success that comes from engaging with the crafts of their time. The only problem is that crafts have come &amp;#x26; gone every generation since the Industrial Revolution. That&apos;s a good problem to have.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I now embrace The Liberal Arts™ as both less AND more important&lt;/strong&gt; than &quot;The Technical Arts&quot; (e.g. software, UX design, digital marketing, etc). The Technical Arts are more urgent: young adults can build independence when they engage with the industries &amp;#x26; crafts of their time. There&apos;s only one problem: crafts evolve faster every generation (especially since the Industrial Revolution).&lt;/p&gt;
 &lt;p&gt;Why are these two arts
-&lt;br /&gt;even taught in the same years?&lt;/p&gt;
-&lt;p&gt;Sure, the Technical Arts offer an antidote to dependency, but what about engaging in the awe-inspiring world around us, with people nothing like us? One day--like it or not--we all must graduate to the stage of the Liberal Arts to join those timeless &amp;#x26; borderless dialogues (at least productively).&lt;/p&gt;
+&lt;br /&gt;even discussed in the same sentence?
+&lt;br /&gt;even discussed in the same institutions?&lt;/p&gt;
+&lt;p&gt;Sure, The Technical Arts offer an antidote to dependency, but what about engaging in the awe-inspiring world around us, with people nothing like us? One day—like it or not—&lt;strong&gt;we all must graduate to the stage of The Liberal Arts, if we want to contribute to these timeless &amp;#x26; borderless dialogues.&lt;/strong&gt; You don&apos;t &lt;em&gt;have&lt;/em&gt; to. You don&apos;t even have to contribute &lt;em&gt;productively&lt;/em&gt;. But &lt;strong&gt;if you want to be heard at the innovative, future-frothing fringes of industry, you don&apos;t have a choice.&lt;/strong&gt;&lt;/p&gt;
 &lt;br /&gt;
 &lt;p&gt;I was wrong&lt;/p&gt;
 &lt;p&gt;I was wrong all along
 &lt;br /&gt;so consider this my love song:&lt;/p&gt;
-&lt;p&gt;Liberal Arts degrees are often wasted on the young &amp;#x26; inexperienced who have nothing at stake. &lt;strong&gt;The Liberal Arts don&apos;t belong solely behind college degrees: they reach to the heights of one’s lifelong pursuit of wisdom.&lt;/strong&gt; The arts are but an ever-evolving conversation that belies the burden of adulthood.&lt;/p&gt;
+&lt;p&gt;Liberal Arts degrees are often wasted on the young &amp;#x26; inexperienced who have nothing at stake. &lt;strong&gt;The Liberal Arts don&apos;t belong baked behind college degrees: they are the products powering the heights of humanity&apos;s collective computation.&lt;/strong&gt; The Liberal Arts are but an ever-evolving conversation that belies the burden of adulthood.&lt;/p&gt;
+&lt;p&gt;You&apos;re in this for life, literally&lt;/p&gt;
 &lt;br /&gt;
 &lt;p&gt;There’s no escape
 &lt;br /&gt;There’s no graduation
@@ -426,9 +451,9 @@ but I&apos;m referring to the original 2015 version:&lt;/p&gt;
 &lt;br /&gt;at the very introduction of this page&lt;/p&gt;
 &lt;iframe width=&quot;100%&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/T1AY9H89tTY?start=204&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; loading=&quot;lazy&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;It&apos;s a crucial conversation&lt;br /&gt;because it just doesn&apos;t divide cleanly into the &quot;No, we&apos;re the worst.&quot; &quot;No, we&apos;re the best.&quot; culture wars &amp;#x26; narratives inside the U.S.&lt;/p&gt;
-&lt;p&gt;The other 95.75% of the world,
-&lt;br /&gt;not to mention the future,
-&lt;br /&gt;have their own narratives&lt;/p&gt;
+&lt;p&gt;The other 95.75% of the world
+&lt;br /&gt;have their own narratives
+&lt;br /&gt;(not to mention our descendants)&lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;!---
 ### [Against Waldenponding](https://breakingsmart.substack.com/p/against-waldenponding)
@@ -461,18 +486,18 @@ We all have something to learn from someone who has been on the frontier of the 
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;h3 id=&quot;memorable-quotes&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#memorable-quotes&quot; aria-label=&quot;memorable quotes permalink&quot; class=&quot;markdown-header before&quot;&gt;&lt;div class=&apos;markdown-header-link&apos;&gt;&lt;/div&gt;&lt;/a&gt;Memorable Quotes&lt;/h3&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;&quot;Life can be much broader once you discover one simple fact:&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;everything around you that you call life was made up by people that were no smarter than you.&lt;/strong&gt; And you can change it, you can influence it...&lt;br /&gt;&lt;br /&gt;Once you learn that, you&apos;ll never be the same again.&quot;&lt;/em&gt; &lt;br /&gt;--&lt;a href=&quot;https://www.youtube.com/watch?v=kYfNvmF0Bqw&quot;&gt;Steve Jobs&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&quot;Life can be much broader once you discover one simple fact:&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;everything around you that you call life was made up by people that were no smarter than you.&lt;/strong&gt; And you can change it. You can influence it.&lt;br /&gt;&lt;br /&gt;Once you learn that, you&apos;ll never be the same again.&quot;&lt;/em&gt; &lt;br /&gt;—&lt;a href=&quot;https://www.youtube.com/watch?v=kYfNvmF0Bqw&quot;&gt;Steve Jobs&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;hr&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;&quot;...in the day-to-day trenches of adult life, there is actually no such thing as atheism. &lt;strong&gt;There is no such thing as not worshipping. Everybody worships. The only choice we get is what to worship.&lt;/strong&gt; And the compelling reason for maybe choosing some sort of god or spiritual-type thing to worship–be it JC or Allah, be it YHWH or the Wiccan Mother Goddess, or the Four Noble Truths, or some inviolable set of ethical principles–is that pretty much anything else you worship will eat you alive.&quot;&lt;/em&gt; &lt;br /&gt;--David Foster Wallace, &lt;a href=&quot;https://fs.blog/2012/04/david-foster-wallace-this-is-water/&quot;&gt;This is Water&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&quot;...in the day-to-day trenches of adult life, there is actually no such thing as atheism. &lt;strong&gt;There is no such thing as not worshipping. Everybody worships. The only choice we get is what to worship.&lt;/strong&gt; And the compelling reason for maybe choosing some sort of god or spiritual-type thing to worship–be it JC or Allah, be it YHWH or the Wiccan Mother Goddess, or the Four Noble Truths, or some inviolable set of ethical principles–is that pretty much anything else you worship will eat you alive.&quot;&lt;/em&gt; &lt;br /&gt;—David Foster Wallace, &lt;a href=&quot;https://fs.blog/2012/04/david-foster-wallace-this-is-water/&quot;&gt;This is Water&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;hr&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;&quot;...I am better off than he is---&lt;br /&gt;for &lt;strong&gt;he knows nothing, and thinks that he
+&lt;p&gt;&lt;em&gt;&quot;...I am better off than he is—&lt;br /&gt;for &lt;strong&gt;he knows nothing, and thinks that he
 knows: I neither know nor think that I know.&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;In this latter particular,
-then, I seem to have slightly the advantage of him...&quot;&lt;/em&gt; &lt;br /&gt;--Socrates (not
-in English though) &lt;br /&gt;... --Plato (as documented in his &quot;Apology&quot;) &lt;br /&gt;... ... --Michael Scott&lt;/p&gt;
+then, I seem to have slightly the advantage of him...&quot;&lt;/em&gt; &lt;br /&gt;—Socrates (not
+in English though) &lt;br /&gt;... —Plato (as documented in his &quot;Apology&quot;) &lt;br /&gt;... ... —Michael Scott&lt;/p&gt;
 &lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[4 words are enough]]></title><description><![CDATA[Get to the point]]></description><link>https://stevenkneiser.com/blog/four-words</link><guid isPermaLink="false">https://stevenkneiser.com/blog/four-words</guid><pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Get to the point&lt;/p&gt;
 &lt;!-- excerpt --&gt;
 &lt;p&gt;Shorten your emails, &lt;span class=&quot;inline-block transform rotate-6 translate-y-3&quot;&gt;&lt;em&gt;JonathanTheFourth&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
