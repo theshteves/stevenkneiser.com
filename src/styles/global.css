@@ -141,8 +141,8 @@ figure {
 .postit:hover::after { content: none; }
 
 .postit:hover {
-  transition: all .4s ease;
-  transform: translateY(-3px) scale(1.08) rotateZ(-3deg);
+  transition: all 0.4s ease;
+  transform: translateY(-3px) scale(1.05);
   box-shadow: 5px 15px 10px rgba(0, 0, 0, 0.4);
 }
 

@@ -13,12 +13,12 @@ export default function Preview({ date, href, title, blurb, source, draft }) {
 
   const tiltStyle = (num) => {
     if (num % 3 === 0) {
-      return 'transform self-center'
+      return 'transform self-center hover:rotate-0'
     }
     if ((num + 1) % 3 === 0) {
-      return 'transform self-center rotate-2'
+      return 'transform self-center rotate-2 hover:rotate-0'
     }
-    return 'transform self-center -rotate-2'
+    return 'transform self-center -rotate-2 hover:rotate-0'
   }
 
   const cardType = () => {
@@ -36,91 +36,93 @@ export default function Preview({ date, href, title, blurb, source, draft }) {
 
   return (
     <>
-    {source === 'internal' ? (
-      <Link to={href}>
-        <div className={tiltStyle(title.length)}>
-          <div
-            className={cardType()}
-            style={{ backgroundImage: `url(${texture})` }}
-          >
-            <p className='my-1 text-left font-mono transform -rotate-6 italic'>
-              {dayOfYear},{' '}
-              <span
-                className={
-                  year === currentYear
-                    ? ''
-                    : 'inline-block rounded-lg px-1 text-yellow-800 italic'
-                }
-              >
-                {year}
-              </span>
-            </p>
-
-            {draft ? (
-              <p className='mt-4 text-right font-mono'>🔒 draft in progress</p>
-            ) : null}
-
-                <h2
+      {source === 'internal' ? (
+        <Link to={href}>
+          <div className={tiltStyle(title.length)}>
+            <div
+              className={cardType()}
+              style={{ backgroundImage: `url(${texture})` }}
+            >
+              <p className='my-1 text-left font-mono transform -rotate-6 italic'>
+                {dayOfYear},{' '}
+                <span
                   className={
-                    draft
-                      ? 'text-3xl text-gray-500 mt-4 underline'
-                      : 'text-3xl text-blue-700 mt-8 underline'
+                    year === currentYear
+                      ? ''
+                      : 'inline-block rounded-lg px-1 text-yellow-800 italic'
                   }
                 >
-                  {title}
-                </h2>
+                  {year}
+                </span>
+              </p>
 
-            <div
-              className='text-left'
-              dangerouslySetInnerHTML={{ __html: blurb }}
-            />
-          </div>
-        </div>
-
-      </Link>
-    ) : (
-      <a href={href}>
-
-        <div className={tiltStyle(title.length)}>
-              <div
-                className={cardType()}
-                style={{ backgroundImage: `url(${texture})` }}
-              >
-                <p className='my-1 text-left font-mono transform -rotate-6 italic'>
-                  {dayOfYear},{' '}
-                  <span
-                    className={
-                      year === currentYear
-                        ? ''
-                        : 'inline-block rounded-lg px-1 text-yellow-800 italic'
-                    }
-                  >
-                    {year}
-                  </span>
+              {draft ? (
+                <p className='mt-4 text-right font-mono'>
+                  🔒 draft in progress
                 </p>
+              ) : null}
 
-                {draft ? (
-                  <p className='mt-4 text-right font-mono'>🔒 draft in progress</p>
-                ) : null}
+              <h2
+                className={
+                  draft
+                    ? 'text-3xl text-gray-500 mt-4 underline'
+                    : 'text-3xl text-blue-700 mt-8 underline'
+                }
+              >
+                {title}
+              </h2>
 
-                    <h2
-                      className={
-                        draft
-                          ? 'text-3xl text-gray-500 mt-4 underline'
-                          : 'text-3xl text-blue-700 mt-8 underline'
-                      }
-                    >
-                      {title}
-                    </h2>
-
-                <div
-                  className='text-left'
-                  dangerouslySetInnerHTML={{ __html: blurb }}
-                />
-              </div>
+              <div
+                className='text-left'
+                dangerouslySetInnerHTML={{ __html: blurb }}
+              />
             </div>
-      </a>
-    )}
+          </div>
+        </Link>
+      ) : (
+        <a href={href}>
+          <div className={tiltStyle(title.length)}>
+            <div
+              className={cardType()}
+              style={{ backgroundImage: `url(${texture})` }}
+            >
+              <p className='my-1 text-left font-mono transform -rotate-6 italic'>
+                {dayOfYear},{' '}
+                <span
+                  className={
+                    year === currentYear
+                      ? ''
+                      : 'inline-block rounded-lg px-1 text-yellow-800 italic'
+                  }
+                >
+                  {year}
+                </span>
+              </p>
+
+              {draft ? (
+                <p className='mt-4 text-right font-mono'>
+                  🔒 draft in progress
+                </p>
+              ) : null}
+
+              <h2
+                className={
+                  draft
+                    ? 'text-3xl text-gray-500 mt-4 underline'
+                    : 'text-3xl text-blue-700 mt-8 underline'
+                }
+              >
+                {title}
+              </h2>
+
+              <div
+                className='text-left'
+                dangerouslySetInnerHTML={{ __html: blurb }}
+              />
+            </div>
+          </div>
+        </a>
+      )}
     </>
   )
 }
