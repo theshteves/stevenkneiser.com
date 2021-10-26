@@ -1,6 +1,8 @@
 language: node_js
 node_js:
   - "stable"
+python:
+  - "3.9"
 
 cache:
   directories:
