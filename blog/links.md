@@ -16,23 +16,11 @@ This list
 
 This list continues to evolve today & I still fight the temptation to bloat it over time. I publish smaller best-of's, but **this is a permanent home for my most shared links.** There's enough recency bias on the worldwide web. These ideas have withstood the test of [my] time (...& attention-span).
 
-> NOTE: despite my best efforts, this list ended up more US-centric than I'd prefer. Check out this [world map scaled by population](https://ourworldindata.org/world-population-cartogram) & this [animated world map of twitter activity over one month (2013)](https://vimeo.com/347801005) _...only one channel & in 2013!_
-> 
-> **The internet isn't just your country**. Really, it's become one of its own. Those links will give you a better feel for your fellow citizens of the web. You'll bump into more of us each year.
-
-<div class="w-full text-center text-8xl">🌎🌍🌏</div>
-
-Like it or not,
-<br />we're all stuck on the same spaceship! <span class="w-full text-center text-8xl">🚀</span>
-
-<br /><br />
-
-
 ## Table of Contents
 
-No need to read top-to-bottom
+Jump around!
 <br />Spam "open in new tab"
-<br />Jump around!
+<br />No need to read top-to-bottom
 
 <br />
 
@@ -63,10 +51,19 @@ No need to read top-to-bottom
 * Hard-earned lessons in Environmentalism [coming soon]
 * [Memorable quotes](#memorable-quotes)
 
-
 ---
 
-<br />
+> NOTE: despite my best efforts, this list ended up more US-centric than I'd prefer. Check out this [world map scaled by population](https://ourworldindata.org/world-population-cartogram) & this [animated world map of twitter activity over one month (2013)](https://vimeo.com/347801005) _...only one channel & in 2013!_
+> 
+> **The internet isn't just your country**. Really, it's become one of its own. Those links will give you a better feel for your fellow citizens of the web. You'll bump into more of us each year.
+
+<div class="w-full text-center text-8xl">🌎🌍🌏</div>
+
+Like it or not,
+<br />we're all stuck on the same spaceship! <span class="w-full text-center text-8xl">🚀</span>
+
+<br /><br />
+
 
 ### [How aging will kill you <br /> & what you can do about that](https://youtu.be/vDFxdkck354?t=478)
 
@@ -110,9 +107,9 @@ The automobile reshaped America when it shrunk the time-distance between the opp
 
 <br />
 
-**How would you approach the world differently if that window of opportunity was closing?** Thought experiment: if the internet as you knew it today only had another 10 years before fracturing, imploding, or getting monopolized by AI, would you reconsider your approach to this once in a planetary history opportunity?
+**How would you approach the world differently if that window of opportunity was closing?** Thought experiment: if the internet as you knew it today only had another 10 years before fracturing, imploding, or getting monopolized by AI, would you reconsider your approach to this once-in-a-civilization opportunity?
 
-**Your favorite friends, artists, & partners in the whole literal world are at last reachable** up there. Is it not worth a few extra years searching? Distance is no longer an excuse. I just didn't realize I even had a choice.
+**Your favorite friends, artists, & coworkers in the literal whole world are at last reachable** up there. Is it not worth a few extra years searching? Distance is no longer an excuse. I just didn't realize I even had a choice.
 
 <br /><br />
 
@@ -142,21 +139,21 @@ You may think you have nothing, that you're doomed, but a quick google search wi
 
 I recently wrote about ["Whose Ladder Are You Climbing?"](https://creatorswhocode.com/blog/whose-ladder) when it dawned on me that **many "career ladders" felt more like spider webs of someone else's design** to tie me up & bite my head off. Without getting to know you, I'd consider this one of the few ladders worth investing the time to climb. What matters is that it's a climb _of your own design_.
 
-Best of all, the top of whatever ladder you choose it is probably _way_ lower than you think! You almost certainly don't need to park your dreams behind some arbitrary "ermm, 3 million??" number [assuming no  extreme inflation]. I've met people that said with a straight face that they'd need a couple billion to do what they "really" want to do. Don't be this person. There are probably opportunities to get 60% of the experience for 1% of the cost. This corner case was precisely the reason Tim Ferriss wrote the scammy-sounding-by-design-but-100%-legit-&-game-changing book "The 4-Hour Workweek" (you could probably preview the first 2 chapters on Amazon for free if you're that curious)
+Best of all, the top of whatever ladder you choose is probably _way_ lower than you think! You almost certainly don't need to park your dreams behind some arbitrary "ermm, 3 million??" number [assuming no  extreme inflation]. I've met people that will say with a straight face that they need a couple billion to do what they "really" want to do. Dream big, but don't be the person that can't start building today. There are probably opportunities to get 60% of the experience for 1% of the cost. This corner case was precisely the reason Tim Ferriss wrote the scammy-sounding-by-design-but-100%-legit-&-game-changing book "The 4-Hour Workweek" (you could probably preview the first 2 chapters on Amazon for free if you're that curious)
 
 > _"How come there's no 'life essentials' class in high school??? I wish
 > someone had taught me earlier about budgeting, taxes, how to change a tire, etc<br />...ya'know, the \~AcTuAlLy ImPoRtAnT sTuFf\~, not math with letters"_
-> <br />--every American has this uncle
+> <br />&mdash;every American has this uncle
 
-The flowchart I linked is your stable foundation. This isn't the be-all end-all on the art of investing for people who've entirely escaped the game of money, but this could be a more sustainable path _to get you there_.
+The flowchart linked above is your stable foundation. This isn't the be-all end-all on the art of investing for people who've entirely escaped the game of money, but this could be a more sustainable path to _get you there_.
 
 <br />
 
 What if you're a trigger-happy capitalist who wants to YOLO more than 1% of your net worth into speculative investments? Hey, live your life. BUT **if you don't at least understand these fundamentals in & out, you haven't earned the right**
 
-> _"Rule #1: never lose money<br />Rule #2: never forget rule #1"_<br />--Warren Buffett
+> _"Rule #1: never lose money<br />Rule #2: never forget rule #1"_<br />&mdash;Warren Buffett
 
-> _"A fool & his money are soon parted"_<br />--[proverb]
+> _"A fool & his money are soon parted"_<br />&mdash;[proverb]
 
 <br />
 
@@ -339,9 +336,9 @@ This provocative talk is a masterclass in persuasion. Don't let the title deceiv
 This is a cold shower
 <br />This is a wake-up call
 
-Regardless of your sentiment towards "The West" (which is much more than the U.S. by the way), you don't have to be a complete doomer to benefit from the inquiry:
+Regardless of your sentiment towards "The West" (which is much more than the U.S. by the way), **you don't have to be buy this argument to benefit from contemplating**:
 
-> _"How might we, the world,<br/>best prepare for a future where the U.S.<br />is no longer the undisputed hegemon?"_
+> _"How might we, the world,<br/>best prepare for the day the U.S.<br />is no longer the undisputed hegemon?"_
 
 If that sounds absurd,
 <br />I encourage you to revisit
@@ -350,11 +347,11 @@ If that sounds absurd,
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/T1AY9H89tTY?start=204" title="YouTube video player" frameborder="0" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-It's a crucial conversation<br />because it just doesn't divide cleanly into the "No, we're the worst." "No, we're the best." culture wars & narratives inside the U.S.
+It's a crucial conversation<br />because it just doesn't divide cleanly into the "No, we're the worst." "No, we're the best." culture wars & narratives inside the U.S. right now
 
 The other 95.75% of the world
 <br />have their own narratives
-<br />(not to mention our descendants)
+<br />(not to mention future generations)
 
 <br /><br />
 
