@@ -60,7 +60,7 @@ export default function Embed() {
                   <div />
                 </div>
 
-                <span className='font-bold bg-yellow-900'>Subscribe</span>
+                <span className='font-bold bg-yellow-900'>&gt;&gt; Send Me The Best &lt;&lt;</span>
               </button>
             </div>
           </div>
