@@ -39,13 +39,20 @@ export default function AboutPage() {
       </button>
 
       <h2 id='me-in-10-seconds'>Me in 10 seconds</h2>
-      <p className='italic'>
-        Like me,
+      <p className='font-bold'>
+        I write software {' '}
+        <span className='italic'>...AND sell it</span>
+      </p>
+      <p>
+        I also help new developers
         <br />
-        this page is a work-in-progress
+        💃🕺 𝕊𝕋𝔸ℕ𝔻 𝕆𝕌𝕋
       </p>
 
       <h2 id='me-in-10-minutes'>Me in 10 minutes</h2>
+      <p className='italic'>
+        Like me, this page is a work-in-progress
+      </p>
       <img src={coffee} alt='Coffee Splatter 7' className='w-1/2' />
 
       <p>
