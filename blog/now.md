@@ -1,7 +1,7 @@
 ---
 permalink: /now
 title: "What I'm doing /now"
-date: "2021-10-24"
+date: "2021-11-13"
 ---
 
 An ever-updating list of
@@ -16,7 +16,6 @@ An ever-updating list of
 * [Launched personal site & newsletter](#launched-personal-site--newsletter)
 * [Finally exercising again](#finally-exercising-again)
 * [Let's hop on the phone!](#lets-hop-on-the-phone)
-
 <br /><br />
 
 
@@ -85,7 +84,7 @@ I'm back
 
 ## Reading like I'm running out of time
 
-Apparently I've been writing like I'm running out of time too. This was succinct but just a tad too long & distracting for this page:
+Apparently I've been writing like I'm running out of time too. This was succinct, but just a tad too long & distracting for this page:
 
 <figure class='flex my-8 text-xl bg-gradient-to-bl from-yellow-50 via-yellow-50 to-yellow-300 w-max p-4 rounded items-center'>
   <div class='px-4'>🤓 </div>
@@ -100,7 +99,9 @@ Apparently I've been writing like I'm running out of time too. This was succinct
 I contribute to a blog, newsletter, & community
 <br />that helps new developers 💃🕺 𝕊𝕋𝔸ℕ𝔻 𝕆𝕌𝕋
 
-Over 450 days of shipping daily public updates on Twitter:
+Over 500 days later,
+<br />I'm still showing up every day
+<br />to ship something new on Twitter:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">ACCOUNTABILITY THREAD:<br>I will ship every day<br><br>Yesterday, I turned 24 🎉<br>Last year: immense growth, but private<br>This year: working &amp; learning in public</p>&mdash; Steven Kneiser 👨🏼‍🍳 (@theshteves) <a href="https://twitter.com/theshteves/status/1277811840274358272?ref_src=twsrc%5Etfw">June 30, 2020</a></blockquote>
 <script defer src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
