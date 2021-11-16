@@ -35,13 +35,23 @@ draft: true
 
 I can recall the awe:
 
-> _"So you're saying...<br />if I knew just the right things to type,<br />I could build ...ANYTHING??<br /><br />That with pure scribbles,<br />I'd build something very concrete<br />that would affect people?"_<br />--kid me, before learning to code
+> _"So you're saying...<br />if I just knew the right things to type,<br />I could build ...ANYTHING??<br /><br />That with pure scribbles,<br />I'd build something very concrete<br />that would affect people?"_<br />--kid me, before learning to code
 
 Unreal. Pure magic. I could see it all right then & there from the Quadratic Formula in Algerba II: **coding is a real-life superpower**. The thought of typing something into existence seemed no different from fictional wizards/sorcerers/magicians who chant cryptic words that actually summon strange things into existence. As children, we grasp for any sign that we are one-of-a-kind, that our story will be told like the others' we've heard, that we alone might be the protagonist.
 
 Santa Claus was no longer real, but at last I'd found a crack in my own reality. What castles in the sky would this superpower lift me to?
 
 > _"Any sufficiently advanced technology is indistinguishable from magic"_ --Arthur C. Clarke
+
+<br />
+
+Let me just double-down on that transformative idea: **coding made me realize that knowledge alone was enough**. I always thought about achieving success in life as functions of other things like "blood, sweat, & tears" ...and while this isn't a shortcut, I came to see the pure value of knowledge work. How weird is that? Could it be possible to contribute great change in the world without even needing to be stronger, wealthier, or more attractive? I would imagine this parallel version of me, sitting in the same body but with immensely more knowledge who "just knew the right things to type".
+
+**It was like discovering the pencil all over again.** I had a digital Pencil 2.0 that could not only draw anywhere, but summon living, breathing, self-sustaining ideas that would march out into the world. I felt like Walt Disney, getting to see his cartoonish drawings animate before him.
+
+Before that spark, I'd always taken immense interest in math (for its elegance, its pure abstraction, & its platonic completeness), but this made that literacy worth pursuing. I forgot how much, as a child, I would insist that math was my first language. These floating tools for thought in my head now had an outlet in the real world. I didn't have to be a secluded academic of a mathemetician; I could use engineer change for the people around me.
+
+> _TODO: cluster this background into a seperate essay_
 
 <br />
 

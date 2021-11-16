@@ -22,7 +22,7 @@
     "chromatic": "chromatic --exit-zero-on-changes"
   },
   "dependencies": {
-    "@headlessui/react": "^1.4.1",
+    "@headlessui/react": "^1.4.2",
     "@heroicons/react": "^1.0.5",
     "gatsby": "^3.14.5",
     "gatsby-plugin-advanced-sitemap": "^2.0.0",
@@ -68,7 +68,7 @@
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-chai-friendly": "^0.7.2",
     "eslint-plugin-cypress": "^2.12.1",
-    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
     "eslint-plugin-only-warn": "^1.0.3",
     "eslint-plugin-prettier": "^4.0.0",
     "gatsby-plugin-page-progress": "^2.2.1",
