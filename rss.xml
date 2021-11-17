@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[RSS Feed for stevenkneiser.com]]></title><description><![CDATA[Steven Kneiser's little home on the internet]]></description><link>https://stevenkneiser.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 16 Nov 2021 08:07:52 GMT</lastBuildDate><item><title><![CDATA[What I'm doing /now]]></title><description><![CDATA[An ever-updating list of
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[RSS Feed for stevenkneiser.com]]></title><description><![CDATA[Steven Kneiser's little home on the internet]]></description><link>https://stevenkneiser.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 17 Nov 2021 02:52:34 GMT</lastBuildDate><item><title><![CDATA[What I'm doing /now]]></title><description><![CDATA[An ever-updating list of
 my current focus & objectives]]></description><link>https://stevenkneiser.com/now</link><guid isPermaLink="false">https://stevenkneiser.com/now</guid><pubDate>Sat, 13 Nov 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;An ever-updating list of
 &lt;br /&gt;&lt;strong&gt;my current focus &amp;#x26; objectives&lt;/strong&gt;&lt;/p&gt;
 &lt;!-- excerpt --&gt;
@@ -131,8 +131,13 @@ my current focus & objectives]]></description><link>https://stevenkneiser.com/no
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;&quot;So you&apos;re saying...&lt;br /&gt;if I just knew the right things to type,&lt;br /&gt;I could build ...ANYTHING??&lt;br /&gt;&lt;br /&gt;That with pure scribbles,&lt;br /&gt;I&apos;d build something very concrete&lt;br /&gt;that would affect people?&quot;&lt;/em&gt;&lt;br /&gt;--kid me, before learning to code&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Unreal. Pure magic. I could see it all right then &amp;#x26; there from the Quadratic Formula in Algerba II: &lt;strong&gt;coding is a real-life superpower&lt;/strong&gt;. The thought of typing something into existence seemed no different from fictional wizards/sorcerers/magicians who chant cryptic words that actually summon strange things into existence. As children, we grasp for any sign that we are one-of-a-kind, that our story will be told like the others&apos; we&apos;ve heard, that we alone might be the protagonist.&lt;/p&gt;
-&lt;p&gt;Santa Claus was no longer real, but at last I&apos;d found a crack in my own reality. What castles in the sky would this superpower lift me to?&lt;/p&gt;
+&lt;p&gt;Unreal. Pure magic. I could see it all right then &amp;#x26; there from that cold TI-84 calculator, pinched in my tiny high-schooler palms: &lt;strong&gt;coding is a real-life superpower&lt;/strong&gt;. Now I don&apos;t know whether you had to memorize the Quadratic Formula in Algerba II but I sensed something profound in the fact that I would &lt;em&gt;never&lt;/em&gt; need to recall that cryptic equation from memory again. It had become&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;...Automated™&lt;/p&gt;
+&lt;p&gt;Years of &quot;problems&quot;
+&lt;br /&gt;Years of &quot;hard work&quot; just evaporated&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;The thought of typing something into existence seemed pure alchemy. As children, we grasp for any sign that we are one-of-a-kind, that our story will be told like those before us that we&apos;ve heard &amp;#x26; read about, that we ourselves might be a protagonist.&lt;/p&gt;
+&lt;p&gt;Santa Claus was no longer real, but at last I&apos;d found a crack in my own reality. Spiderman just went about his days like any other person until he unleashed that very first web. What castles in the sky would this superpower lift me to?&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;&quot;Any sufficiently advanced technology is indistinguishable from magic&quot;&lt;/em&gt; --Arthur C. Clarke&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -167,12 +172,16 @@ my current focus & objectives]]></description><link>https://stevenkneiser.com/no
 &lt;li&gt;TODO: elaborate&lt;/li&gt;
 &lt;/ul&gt;
 &lt;br /&gt;
-&lt;p&gt;I now had enough tools in my toolbelt, that technical competence wasn&apos;t my bottleneck any more. I wasn&apos;t the type to just sit down &amp;#x26; cash in on those skills for the next decade. I wanted more. &lt;strong&gt;I wanted to understand &quot;the Business™ side&quot;.&lt;/strong&gt; I wanted to build companies of own so that I could employ all my friends &amp;#x26; build the software we saw in the world&lt;/p&gt;
+&lt;p&gt;I now had enough tools in my toolbelt, that technical competence was no longer holding me back. I wasn&apos;t the type to just sit down &amp;#x26; cash in on those skills for the next decade. I wanted more. &lt;strong&gt;I wanted to understand &quot;the Business™ side&quot;.&lt;/strong&gt; I wanted to build companies of own so that I could employ all my friends &amp;#x26; build the software we saw in the world&lt;/p&gt;
 &lt;p&gt;...but I had 1 nagging, existential question:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&quot;&lt;em&gt;even if&lt;/em&gt; I could build anything I wanted&lt;br /&gt;&lt;br /&gt;&lt;em&gt;even if&lt;/em&gt; I could get better at managing a larger team to build quicker&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;what did that matter ...if I couldn&apos;t figure out &lt;em&gt;which&lt;/em&gt; problems were &lt;em&gt;most worth&lt;/em&gt; solving?&lt;/strong&gt;&quot;&lt;/p&gt;
+&lt;p&gt;&quot;&lt;em&gt;even if&lt;/em&gt; I could build anything I wanted&lt;br /&gt;I only had so many hours in a day&quot;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;I needed perspective&lt;br /&gt;&amp;#x26; from &lt;em&gt;outside&lt;/em&gt; my domain of expertise&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;...which began to domino:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&quot;&lt;em&gt;even if&lt;/em&gt; I had infinite time&lt;br /&gt;&lt;em&gt;even if&lt;/em&gt; I could manage larger teams [well]&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;what did that matter ...if I couldn&apos;t figure out &lt;em&gt;which&lt;/em&gt; problems were &lt;em&gt;most worth&lt;/em&gt; solving?&lt;/strong&gt;&quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;I needed perspective&lt;/strong&gt;&lt;br /&gt;&amp;#x26; from &lt;strong&gt;&lt;em&gt;outside&lt;/em&gt; my domain of expertise&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;TODO: elaborate&lt;/li&gt;
 &lt;/ul&gt;
