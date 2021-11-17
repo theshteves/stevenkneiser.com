@@ -37,9 +37,18 @@ I can recall the awe:
 
 > _"So you're saying...<br />if I just knew the right things to type,<br />I could build ...ANYTHING??<br /><br />That with pure scribbles,<br />I'd build something very concrete<br />that would affect people?"_<br />--kid me, before learning to code
 
-Unreal. Pure magic. I could see it all right then & there from the Quadratic Formula in Algerba II: **coding is a real-life superpower**. The thought of typing something into existence seemed no different from fictional wizards/sorcerers/magicians who chant cryptic words that actually summon strange things into existence. As children, we grasp for any sign that we are one-of-a-kind, that our story will be told like the others' we've heard, that we alone might be the protagonist.
+Unreal. Pure magic. I could see it all right then & there from that cold TI-84 calculator, pinched in my tiny high-schooler palms: **coding is a real-life superpower**. Now I don't know whether you had to memorize the Quadratic Formula in Algerba II but I sensed something profound in the fact that I would _never_ need to recall that cryptic equation from memory again. It had become
 
-Santa Claus was no longer real, but at last I'd found a crack in my own reality. What castles in the sky would this superpower lift me to?
+<br />...Automated™
+
+Years of "problems"
+<br />Years of "hard work" just evaporated
+
+<br />
+
+The thought of typing something into existence seemed pure alchemy. As children, we grasp for any sign that we are one-of-a-kind, that our story will be told like those before us that we've heard & read about, that we ourselves might be a protagonist.
+
+Santa Claus was no longer real, but at last I'd found a crack in my own reality. Spiderman just went about his days like any other person until he unleashed that very first web. What castles in the sky would this superpower lift me to?
 
 > _"Any sufficiently advanced technology is indistinguishable from magic"_ --Arthur C. Clarke
 
@@ -85,13 +94,17 @@ But where else to look?
 
 <br />
 
-I now had enough tools in my toolbelt, that technical competence wasn't my bottleneck any more. I wasn't the type to just sit down & cash in on those skills for the next decade. I wanted more. **I wanted to understand "the Business™ side".** I wanted to build companies of own so that I could employ all my friends & build the software we saw in the world
+I now had enough tools in my toolbelt, that technical competence was no longer holding me back. I wasn't the type to just sit down & cash in on those skills for the next decade. I wanted more. **I wanted to understand "the Business™ side".** I wanted to build companies of own so that I could employ all my friends & build the software we saw in the world
 
 ...but I had 1 nagging, existential question:
 
-> "_even if_ I could build anything I wanted<br /><br />_even if_ I could get better at managing a larger team to build quicker<br /><br />**what did that matter ...if I couldn't figure out _which_ problems were _most worth_ solving?**"
+> "_even if_ I could build anything I wanted<br />I only had so many hours in a day"
 
-**I needed perspective<br />& from _outside_ my domain of expertise**
+...which began to domino:
+
+> "_even if_ I had infinite time<br />_even if_ I could manage larger teams [well]<br /><br />**what did that matter ...if I couldn't figure out _which_ problems were _most worth_ solving?**"
+
+**I needed perspective**<br />& from **_outside_ my domain of expertise**
 
 * TODO: elaborate
 
