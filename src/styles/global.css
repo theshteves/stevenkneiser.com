@@ -238,3 +238,6 @@ hr {
   background-repeat: no-repeat;
   background-size: contain;
 }
+
+@keyframes enter-left { 0% { transform: translateX(-2rem); } }
+@keyframes enter-below { 0% { transform: translateY(8rem); } }
