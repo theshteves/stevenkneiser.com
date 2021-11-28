@@ -6,7 +6,9 @@ export default {
   title: 'Components/Layout',
 }
 
-const Template = (args) => <Layout {...args} />
+const Template = function (args) {
+  return <Layout {...args} />
+}
 
 export const Default = Template.bind({})
 Default.args = {

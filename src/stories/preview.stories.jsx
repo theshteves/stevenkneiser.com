@@ -6,7 +6,9 @@ export default {
   title: 'Components/Preview',
 }
 
-const Template = (args) => <Preview {...args} />
+const Template = function (args) {
+  return <Preview {...args} />
+}
 
 export const Default = Template.bind({})
 Default.args = {

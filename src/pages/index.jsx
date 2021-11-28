@@ -15,7 +15,12 @@ export default function IndexPage() {
     <Layout meta={meta}>
       <figure className='py-8'>
         <h1 className='text-center'>
-          <span className='inline-block transform' style={{ animation: 'enter-left 1s ease-out' }}>stevenkneiser.com</span>
+          <span
+            className='inline-block transform'
+            style={{ animation: 'enter-left 1s ease-out' }}
+          >
+            stevenkneiser.com
+          </span>
           <br />
           <span className='font-thin italic bg-gradient-to-tr from-yellow-50 via-yellow-50 to-yellow-500 inline-block transform -translate-y-1'>
             &nbsp; &nbsp; under construction &nbsp;

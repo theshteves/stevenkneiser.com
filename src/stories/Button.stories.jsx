@@ -10,7 +10,9 @@ export default {
   },
 }
 
-const Template = (args) => <Button {...args} />
+const Template = function (args) {
+  return <Button {...args} />
+}
 
 export const Primary = Template.bind({})
 Primary.args = {

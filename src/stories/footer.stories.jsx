@@ -6,7 +6,9 @@ export default {
   title: 'Components/Footer',
 }
 
-const Template = (args) => <Footer {...args} />
+const Template = function (args) {
+  return <Footer {...args} />
+}
 
 export const Default = Template.bind({})
 Default.args = {}

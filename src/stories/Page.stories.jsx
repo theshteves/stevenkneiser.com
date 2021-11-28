@@ -8,7 +8,9 @@ export default {
   component: Page,
 }
 
-const Template = (args) => <Page {...args} />
+const Template = function (args) {
+  return <Page {...args} />
+}
 
 export const LoggedIn = Template.bind({})
 LoggedIn.args = {

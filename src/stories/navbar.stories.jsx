@@ -6,7 +6,9 @@ export default {
   title: 'Components/NavBar',
 }
 
-const Template = (args) => <NavBar {...args} />
+const Template = function (args) {
+  return <NavBar {...args} />
+}
 
 export const Default = Template.bind({})
 Default.args = {}
