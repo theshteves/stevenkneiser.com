@@ -39,20 +39,32 @@ export default function AboutPage() {
       </button>
 
       <h2 id='me-in-10-seconds'>Me in 10 seconds</h2>
+    {/*
+      <p>
+        To numbers-people, I&apos;m the most socialable, extroverted person
+        they&apos;ve met. To people-people, I&apos;m the most serious, numerical
+        person they&apos;ve met.
+        <br />
+        I&apos;m an unreasonably optimistic & curious solutionist. citizen of
+        the internet. I believe we live in the most opportune moment in history
+        & work tirelessly to prove myself worthy of that ancestral debt.
+      </p>
+    */}
+      <p className='italic'>Like me, this page is a work-in-progress</p>
+      <p>Here are my current contenders<br />for simplest 1-liner:</p>
+      <br />
+
       <p className='font-bold'>
-        I write software {' '}
-        <span className='italic'>...AND sell it</span>
+        I write software <span className='italic'>...AND sell it</span>
       </p>
       <p>
-        I also help new developers
+        I help new developers
         <br />
         💃🕺 𝕊𝕋𝔸ℕ𝔻 𝕆𝕌𝕋
       </p>
 
       <h2 id='me-in-10-minutes'>Me in 10 minutes</h2>
-      <p className='italic'>
-        Like me, this page is a work-in-progress
-      </p>
+      <p className='italic'>Like me, this page is a work-in-progress</p>
       <img src={coffee} alt='Coffee Splatter 7' className='w-1/2' />
 
       <p>
