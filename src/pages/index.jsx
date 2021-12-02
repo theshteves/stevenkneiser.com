@@ -17,7 +17,7 @@ export default function IndexPage() {
         <h1 className='text-center'>
           <span
             className='inline-block transform'
-            style={{ animation: 'enter-left 1s ease-out' }}
+            style={{ animation: 'enter-below 1.5s cubic-bezier(0,0,0.1,1)' }}
           >
             stevenkneiser.com
           </span>

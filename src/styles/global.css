@@ -130,12 +130,12 @@ figure {
   bottom: 20px;
   width: 275px;
   height: 25px;
-  background: rgba(0, 0, 0, 0.2);
-  box-shadow: 2px 15px 5px rgba(0, 0, 0, 0.4);
-  -moz-transform: matrix(-1, -0.1, 0, 1, 0, 0);
-  -webkit-transform: matrix(-1, -0.1, 0, 1, 0, 0);
-  -o-transform: matrix(-1, -0.1, 0, 1, 0, 0);
-  -ms-transform: matrix(-1, -0.1, 0, 1, 0, 0);
+  background: rgb(0 0 0 / 20%);
+  box-shadow: 2px 15px 5px rgb(0 0 0 / 40%);
+  transform: matrix(-1, -0.1, 0, 1, 0, 0);
+  transform: matrix(-1, -0.1, 0, 1, 0, 0);
+  transform: matrix(-1, -0.1, 0, 1, 0, 0);
+  transform: matrix(-1, -0.1, 0, 1, 0, 0);
   transform: matrix(-1, -0.1, 0, 1, 0, 0);
 }
 .postit:hover::after { content: none; }
@@ -143,7 +143,7 @@ figure {
 .postit:hover {
   transition: all 0.4s ease;
   transform: translateY(-3px) scale(1.05);
-  box-shadow: 5px 15px 10px rgba(0, 0, 0, 0.4);
+  box-shadow: 5px 15px 10px rgb(0 0 0 / 40%);
 }
 
 .postit-left {
@@ -171,18 +171,17 @@ figure {
   bottom: 20px;
   width: 275px;
   height: 25px;
-  background: rgba(0, 0, 0, 0.2);
-  box-shadow: 2px 15px 5px rgba(0, 0, 0, 0.4);
-  -moz-transform: matrix(-1, -0.1, 0, 1, 0, 0);
-  -webkit-transform: matrix(-1, -0.1, 0, 1, 0, 0);
-  -o-transform: matrix(-1, -0.1, 0, 1, 0, 0);
-  -ms-transform: matrix(-1, -0.1, 0, 1, 0, 0);
+  background: rgb(0 0 0 / 20%);
+  box-shadow: 2px 15px 5px rgb(0 0 0 / 40%);
+  transform: matrix(-1, -0.1, 0, 1, 0, 0);
+  transform: matrix(-1, -0.1, 0, 1, 0, 0);
+  transform: matrix(-1, -0.1, 0, 1, 0, 0);
+  transform: matrix(-1, -0.1, 0, 1, 0, 0);
   transform: matrix(-1, -0.1, 0, 1, 0, 0);
 }
 
 /* markdown quotes get nice left padding, but it's too aggressive when rendered as previews on post-it notes */
 .postit blockquote { @apply pl-4; }
-
 
 /* --- Responsive Pins for rendered markdown headers --- */
 
@@ -220,11 +219,11 @@ figure {
   margin: 40px;
   transform: rotate(-5deg);
   border: 10px solid red;
-  -webkit-mask-size: contain;
-  -webkit-mask-image: url("../assets/img/grunge-texture.png");
-  -o-mask-image: url("../assets/img/grunge-texture.png");
-  -moz-mask-image: url("../assets/img/grunge-texture.png");
-  -ms-mask-image: url("../assets/img/grunge-texture.png");
+  mask-size: contain;
+  mask-image: url("../assets/img/grunge-texture.png");
+  mask-image: url("../assets/img/grunge-texture.png");
+  mask-image: url("../assets/img/grunge-texture.png");
+  mask-image: url("../assets/img/grunge-texture.png");
   mask-image: url("../assets/img/grunge-texture.png");
 }
 
@@ -240,4 +239,5 @@ hr {
 }
 
 @keyframes enter-left { 0% { transform: translateX(-2rem); } }
-@keyframes enter-below { 0% { transform: translateY(8rem); } }
+
+@keyframes enter-below { 0% { transform: translateY(100%); } }
