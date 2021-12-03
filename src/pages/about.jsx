@@ -39,7 +39,7 @@ export default function AboutPage() {
       </button>
 
       <h2 id='me-in-10-seconds'>Me in 10 seconds</h2>
-    {/*
+      {/*
       <p>
         To numbers-people, I&apos;m the most socialable, extroverted person
         they&apos;ve met. To people-people, I&apos;m the most serious, numerical
@@ -51,7 +51,11 @@ export default function AboutPage() {
       </p>
     */}
       <p className='italic'>Like me, this page is a work-in-progress</p>
-      <p>Here are my current contenders<br />for simplest 1-liner:</p>
+      <p>
+        Here are my current contenders
+        <br />
+        for simplest 1-liner:
+      </p>
       <br />
 
       <p className='font-bold'>

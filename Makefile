@@ -37,7 +37,7 @@ help:
 
 # run    - Run server
 run: #migrate
-	npm run develop
+	npm run dev
 
 # test   - Run tests
 test:
