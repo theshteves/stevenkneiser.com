@@ -241,3 +241,4 @@ hr {
 @keyframes enter-left { 0% { transform: translateX(-2rem); } }
 
 @keyframes enter-below { 0% { transform: translateY(100%); } }
+@keyframes fade-in { 0% { opacity: 0; } }
