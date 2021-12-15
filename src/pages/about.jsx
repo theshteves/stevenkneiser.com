@@ -50,11 +50,8 @@ export default function AboutPage() {
         & work tirelessly to prove myself worthy of that ancestral debt.
       </p>
     */}
-      <p className='italic'>Like me, this page is a work-in-progress</p>
       <p>
-        Here are my current contenders
-        <br />
-        for simplest 1-liner:
+        These are my favorite 1-liners:
       </p>
       <br />
 
