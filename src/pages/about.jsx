@@ -51,18 +51,29 @@ export default function AboutPage() {
       </p>
     */}
       <p>
-        These are my favorite 1-liners:
+        How can I help you & your team?
+      </p>
+      <p className='ml-8 font-bold'>
+        I write software <span className='italic'>...AND sell it</span>
       </p>
       <br />
 
-      <p className='font-bold'>
-        I write software <span className='italic'>...AND sell it</span>
-      </p>
       <p>
+        Who do I help in my spare time?
+      </p>
+      <p className='ml-8 font-bold'>
         I help new developers
         <br />
-        💃🕺 𝕊𝕋𝔸ℕ𝔻 𝕆𝕌𝕋
+        <span className='text-4xl inline-block transform -rotate-3 ml-8'>💃 𝕊𝕋𝔸ℕ𝔻 &nbsp;🕺 𝕆𝕌𝕋</span>
       </p>
+      <br />
+
+      <p>
+        The best way to predict the future is to build it.
+        <br />
+        <i>Let&apos;s get to work.</i>
+      </p>
+      <br />
 
       <h2 id='me-in-10-minutes'>Me in 10 minutes</h2>
       <p className='italic'>Like me, this page is a work-in-progress</p>

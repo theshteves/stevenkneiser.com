@@ -84,6 +84,14 @@ I'm back
 
 ## Reading like I'm running out of time
 
+* Geography
+* World History
+* History of Science
+* Economics (& how it's been reborn)
+* The messy nature of technological progress
+
+🔓 unlocked: a newfound patience & depth of curiosity about the world around us.
+
 Apparently I've been writing like I'm running out of time too. This was succinct, but just a tad too long & distracting for this page:
 
 <figure class='flex my-8 text-xl bg-gradient-to-bl from-yellow-50 via-yellow-50 to-yellow-300 w-max p-4 rounded items-center'>
