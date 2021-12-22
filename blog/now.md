@@ -1,7 +1,7 @@
 ---
 permalink: /now
 title: "What I'm doing /now"
-date: "2021-11-13"
+date: "2021-12-22"
 ---
 
 An ever-updating list of
@@ -60,10 +60,10 @@ Little did I know
 
 <br />I started diversifying my skillset:
 
+* small business fundamentals
 * software sales (B2B SaaS)
-* entrepreneurship
-* digital marketing
-* even blogging (I _never_ would've otherwise)
+* digital marketing & SEO
+* even blogging
 
 & with that came much more perspective:
 <br />**I see the bigger picture of "product"<br />much more clearly now**
@@ -142,19 +142,25 @@ The more reading & studying I do, the more I have to write & share. It turns out
 
 ## Finally exercising again 
 
-**January 2020**: I'm in the best shape of my life since high school varsity sports. I'm weight training for the first time in my life (& consistently at that). I've radically experimented with my diet & I'm not even unfalsifiably opinionated or cult-like about my particular approach to nutrition. My blood lipids have remarkably reversed course & I'm ...underweight?
+**January 2020**: I'm in the best shape of my life since high school varsity sports. I'm weight training for the first time ever (& consistently at that). I've radically experimented with my diet & I'm not even unfalsifiably opinionated or cult-like about my particular approach to nutrition. My blood lipids have remarkably reversed course & I'm ...underweight?
 
 _~ the-virus-that-shall-not-be-named knocks on the door ~_
 
 **January 2021**: I'm in the worst shape of my life. Maybe I should ask my doctor abou&mdash; oh, those are just called stretch marks 😩
 
-**June 2021**: Alright, no more worst-case prepping. I don't need to efficiently speedrun grocery stores twice monthly anymore. I can start patiently grabbing fresh ingredients twice weekly & cooking again. Let's return to the ultra-simple Ferriss-style:
+<br />
 
-* meat & non-starch veggies
-* w/ a side of legumes & kettlebell swings
-* & 1 _helluva'_ glutinous cheat day per week <br />(_what?_ Yeah the variance is actually productive)<br />..._mostly_ productive 😉
+**June 2021**: Alright, no more worst-case prepping. I can stop sprinting pre-planned routes through grocery stores & leaf through fresh ingredients to cook again. Let's return to the ultra-simple Ferriss-style:
+
+* protein, non-starch veggies, _& lots of legumes!_
+* w/ a side of kettlebell swings (5 minutes, 2x weekly)
+* & 1 _anything_-goes cheat day of gluttony per week <br />(wait what? Yeah, the metabolic variance is actually productive)<br />..._mostly_ productive 😉
 
 I'm already feeling like myself again
+
+<br />
+
+**December 2021 update:** I've never had my diet so dialed in! **I shed a consistent ~5.5 pounds monthly** until I reached my true form (that includes going out of my way most Saturdays to gain lots of water weight eating my vices in excess). Those improvements came almost exclusively from cleaning up my nutrition. Now I'm very slowly dialing up the cardio & weight training to compensate for my sedentary work life 👨‍💻
 
 <br /><br />
 
