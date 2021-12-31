@@ -91,11 +91,12 @@ export default function Template({ data }) {
       </article>
 
       <div className='max-w-screen-md mx-auto'>
-        <figure className='flex mt-24 mb-8 text-2xl bg-gradient-to-bl from-yellow-50 via-yellow-50 to-yellow-300 w-max p-4 rounded items-center'>
+        <figure className='ml-8 flex mt-24 mb-8 text-2xl bg-gradient-to-bl from-yellow-50 via-yellow-50 to-yellow-300 w-max p-4 rounded items-center'>
           <div className='px-4'>✍️ </div>
           <Link to='/blog'>Return to /blog</Link>
         </figure>
       </div>
+      <br />
     </Layout>
   )
 }

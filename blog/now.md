@@ -1,7 +1,7 @@
 ---
 permalink: /now
 title: "What I'm doing /now"
-date: "2021-12-22"
+date: "2022-01-01"
 ---
 
 An ever-updating list of
@@ -74,7 +74,7 @@ I'm back
 <br />& I'm codin' again
 <br />_but this time it's different..._
 
-<figure class='flex my-8 text-xl bg-gradient-to-bl from-yellow-50 via-yellow-50 to-yellow-300 w-max p-4 rounded items-center'>
+<figure class='ml-8 flex my-8 text-xl bg-gradient-to-bl from-yellow-50 via-yellow-50 to-yellow-300 w-max p-4 rounded items-center'>
   <div class='px-4'>👨‍💻 </div>
   <a href='/blog/return-to-software'>My Return to Software</a>
 </figure>
@@ -94,7 +94,7 @@ I'm back
 
 Apparently I've been writing like I'm running out of time too. This was succinct, but just a tad too long & distracting for this page:
 
-<figure class='flex my-8 text-xl bg-gradient-to-bl from-yellow-50 via-yellow-50 to-yellow-300 w-max p-4 rounded items-center'>
+<figure class='ml-8 flex my-8 text-xl bg-gradient-to-bl from-yellow-50 via-yellow-50 to-yellow-300 w-max p-4 rounded items-center'>
   <div class='px-4'>🤓 </div>
   <a href='/blog/liberal-arts'>I was wrong <span class="sm:hidden"><br /></span>about the Liberal Arts</a>
 </figure>

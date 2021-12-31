@@ -134,7 +134,7 @@ module.exports = {
       prependToBody: false,
       color: `white`,
       footerHeight: 500,
-      headerHeight: 0,
+      headerHeight: 64,
     },
   },
   ],

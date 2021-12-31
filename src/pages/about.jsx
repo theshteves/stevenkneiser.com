@@ -1,4 +1,4 @@
-import * as React from 'react'
+import React from 'react'
 import { Link } from 'gatsby'
 
 import Layout from '../components/layout'
@@ -21,8 +21,8 @@ export default function AboutPage() {
     <Layout meta={meta}>
       <h1>Who am I?</h1>
       <p>
-        Well{' '}
-        <span className='inline-block transform rotate-12 translate-y-8 text-yellow-800 italic animate-pulse'>
+        Well then...{' '}
+        <span className='inline-block transform rotate-12 translate-x-2 translate-y-7 text-yellow-800 italic animate-pulse'>
           allow me to introduce myself
         </span>
       </p>
@@ -73,7 +73,15 @@ export default function AboutPage() {
         <i>&quot;The best way to predict the future<span className='sm:hidden'><br /></span> is to build it.&quot;</i>
       </p>
       <p>Let&apos;s get to work.</p>
+
+      <figure className='ml-8 flex my-8 text-2xl bg-gradient-to-bl from-yellow-50 via-yellow-50 to-yellow-300 w-max p-4 rounded items-center'>
+        <div className='px-4'>📆 </div>
+        <Link to='/now'>What I’m doing /now</Link>
+      </figure>
       <br />
+      <br />
+
+
 
       <h2 id='me-in-10-minutes'>Me in 10 minutes</h2>
       <p>&lt; Coming Soon... &gt;</p>
@@ -90,10 +98,13 @@ export default function AboutPage() {
         <a href='mailto:steven@stevenkneiser.com'>steven@stevenkneiser.com</a>
       </p>
 
-      <figure className='flex my-8 text-2xl bg-gradient-to-bl from-yellow-50 via-yellow-50 to-yellow-300 w-max p-4 rounded items-center'>
+      <figure className='ml-8 flex my-8 text-2xl bg-gradient-to-bl from-yellow-50 via-yellow-50 to-yellow-300 w-max p-4 rounded items-center'>
         <div className='px-4'>📆 </div>
         <Link to='/now'>What I’m doing /now</Link>
       </figure>
+      <br />
+
+
     </Layout>
   )
 }

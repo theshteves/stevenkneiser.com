@@ -336,7 +336,7 @@ This provocative talk is a masterclass in persuasion. Don't let the title deceiv
 This is a cold shower
 <br />This is a wake-up call
 
-Regardless of your sentiment towards "The West" (which is much more than the U.S. by the way), **you don't have to be buy this argument to benefit from contemplating**:
+Regardless of your sentiment towards "The West" (which is much more than the U.S. by the way), **you don't have to buy this argument to benefit from contemplating**:
 
 > _"How might we, the world,<br/>best prepare for the day the U.S.<br />is no longer the undisputed hegemon?"_
 
