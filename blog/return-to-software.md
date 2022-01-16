@@ -110,16 +110,15 @@ I now had enough tools in my toolbelt, that technical competence was no longer h
 
 ...
 
-I've always loved software, but I'm big on communication: I want to relate to others outside software. I'm a craftsperson who loves to chat just as much with marketers & salespeople about their craft. My high school tagline was "always ready to pull back the curtain & study the clockwork" & that's never changed.
+I've always loved software, but I'm big on communication: I want to relate to others outside software. I'm a craftsperson who loves to chat just as much with marketers & salespeople about their craft. My high school tagline was "always ready to pull back the curtain & study the clockwork." That still holds up.
 
-I invested a few years to better understand "business" & the entire revenue-side of organizations. But I never intended to leave my background behind. It's true that the half-life of technical knowledge is shortening, so I want to re-engage with the craft of software as long as I can keep up.
+I invested a few years to better understand "business" (I put it in air quotes because that's the keyword, this centralized pocket of mystery & illusions I used to file any non-technical concepts under). In other words, I invested a few years undercover in the other side of organizations where they only think about revenue, product marketing, partnerships, sales, investors, "distribution", etc.
+
+But I never intended to leave my technical background behind. **All technical skills have a half-life**, and software is on the frontier, redefining "half-life". It's true that the half-life of technical knowledge is shortening, so I want to re-engage with the craft of software as long as I can keep up.
 
 **So I might be a little rusty,
 <br />but I'm back**
-<br/>& this time I know where I want to go
-
-* TODO: more to come
-
+<br/>& this time I know where we're headed
 
 
 <!---
