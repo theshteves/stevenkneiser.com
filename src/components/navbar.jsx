@@ -2,7 +2,7 @@ import * as React from 'react'
 import { Link } from 'gatsby'
 /* requires Tailwind CSS v2.0+ */
 import { Disclosure } from '@headlessui/react'
-import { MenuIcon, XIcon } from '@heroicons/react/outline'
+import { Bars3Icon, XIcon } from '@heroicons/react/24/outline'
 
 import logo from '../assets/img/signature.svg'
 import texture from '../assets/img/ice-age.png'
@@ -36,7 +36,7 @@ export default function NavBar() {
                   {open ? (
                     <XIcon className='block h-6 w-6' aria-hidden='true' />
                   ) : (
-                    <MenuIcon className='block h-6 w-6' aria-hidden='true' />
+                    <Bars3Icon className='block h-6 w-6' aria-hidden='true' />
                   )}
                 </Disclosure.Button>
               </div>

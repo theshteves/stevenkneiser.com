@@ -1,12 +1,25 @@
-import React from 'react'
-import { openPopupWidget } from 'react-calendly'
+import React, { useState, useEffect } from 'react'
+import { PopupModal } from 'react-calendly'
 
 import * as calendlyStyles from './calendly.module.css'
 import theshteves from '../assets/img/theshteves-transparent.webp'
 
-export default function Calendly() {
-  const onClick = () =>
-    openPopupWidget({ url: 'https://calendly.com/kneiser/30min' })
+export default function Calendly({ pageSettings, utm, prefill }) {
+  const [isOpen, setOpen] = useState(false)
+  const [root, setRoot] = useState(null)
+
+  useEffect(() => {
+    // In Gatsby, we need to wait for the document to be available
+    if (typeof document !== 'undefined') {
+      setRoot(document.getElementById('___gatsby'))
+    }
+  }, [])
+
+  const handleKeyDown = (event) => {
+    if (event.key === 'Enter' || event.key === ' ') {
+      setOpen(!isOpen)
+    }
+  }
 
   return (
     <>
@@ -22,27 +35,23 @@ export default function Calendly() {
 
       <button
         type='button'
-        onClick={onClick}
-        onKeyDown={onClick}
+        onClick={() => setOpen(!isOpen)}
+        onKeyDown={handleKeyDown}
         className={calendlyStyles.popup}
       >
         <img src={theshteves} alt='theshteves' />
       </button>
-
-      {/*
-      <div id="scheduler" style="background-color: #555"></div>
-      <script defer type="text/javascript">
-      window.addEventListener('DOMContentLoaded', function() {
-        document.getElementById('theshteves').addEventListener('click', function() {
-          Calendly.initInlineWidget({
-            url: 'https://calendly.com/kneiser/30min',
-            parentElement: document.getElementById('scheduler'),
-            branding: false
-          });
-        });
-      });
-      </script>
-      */}
+      {root && (
+        <PopupModal
+          url='https://calendly.com/kneiser/30min'
+          pageSettings={pageSettings}
+          utm={utm}
+          prefill={prefill}
+          onModalClose={() => setOpen(false)}
+          open={isOpen}
+          rootElement={root}
+        />
+      )}
     </>
   )
 }

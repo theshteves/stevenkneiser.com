@@ -1,4 +1,5 @@
 module.exports = {
+  trailingSlash: `never`,
   siteMetadata: { // NOTE: this data isn't doing anything. Query it through GraphQL
     siteUrl: 'https://stevenkneiser.com',
     title: 'Steven Kneiser',
